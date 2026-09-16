@@ -21,7 +21,8 @@ def main():
     if errors: raise SystemExit('\n'.join(errors))
     DATE=max(e['reviewed_on'] for c in data['chapters'] for e in c['entries'])
     sources={s['id']:s for s in data['sources']}
-    locations={e['id']:f'book/{c["number"]:02d}.md#{e["id"]}' for c in data['chapters'] for e in c['entries']}
+    chapter_paths={c['number']:f'book/{c["number"]:02d}-{c["title"].replace("、", "")}.md' for c in data['chapters']}
+    locations={e['id']:f'{chapter_paths[c["number"]]}#{e["id"]}' for c in data['chapters'] for e in c['entries']}
     total=sum(len(c['entries']) for c in data['chapters'])
     unique_sources=len({s['url'] for s in data['sources']})
     for c in data['chapters']:
@@ -49,7 +50,7 @@ def main():
                           f'- 来源：{references}',
                           f'- 备注：{paragraph(e["caveats"])} {scope}'
                       ]),details]
-        write(f'book/{c["number"]:02d}.md','\n\n'.join(lines))
+        write(chapter_paths[c['number']],'\n\n'.join(lines))
     source_lines=['# 来源与核实记录','[← 总目录](../README.md)',
       '想知道一条建议根据什么，先看正文后面的来源；想知道具体核了哪部分，在这里找。每项记录都写明发布方、链接、访问日期、读了什么，以及它能支持什么。',
       '只读到论文摘要的就标摘要。同一个页面可能支持几条不同建议，因此会有重复链接。来源读过、内容写对、结论适合你，是三件不同的事；具体核查过程见[核查记录](../docs/VERIFICATION.md)。']
@@ -78,7 +79,7 @@ def main():
             table.append(f'| {chapter}.{m["original_item"]} {esc(original["title"])} | {labels[m["action"]]} | {targets} | {esc(m["reason"])} |')
         map_lines += [f'## 原第 {chapter} 章','\n'.join(table)]
     write('docs/ADAPTATION.md','\n\n'.join(map_lines))
-    toc='\n'.join(f'{c["number"]}. [{c["title"]}](book/{c["number"]:02d}.md)：{c["summary"]}' for c in data['chapters'])
+    toc='\n'.join(f'{c["number"]}. [{c["title"]}]({chapter_paths[c["number"]]})：{c["summary"]}' for c in data['chapters'])
     questions=[
         (1,'哪些小事能少出意外、少得重病？'),
         (2,'烟酒、饮食、运动，先改哪几样？'),
@@ -114,7 +115,7 @@ def main():
         (32,'刚到悉尼，政府账户、交通、驾照和水电从哪办？')
     ]
     titles={c['number']:c['title'] for c in data['chapters']}
-    question_table='\n'.join(f'| {question} | [{number}. {titles[number]}](book/{number:02d}.md) |' for number,question in questions)
+    question_table='\n'.join(f'| {question} | [{number}. {titles[number]}]({chapter_paths[number]}) |' for number,question in questions)
     readme=f'''# 高性价比人生指南（澳洲悉尼版）
 
 用尽量少的钱、时间和精力，避开能避开的病、损失和麻烦。
