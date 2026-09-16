@@ -1,3212 +1,968 @@
-# 来源与核实记录
-
+# 来源与读取范围
 [← 总目录](../README.md)
-
-想知道一条建议根据什么，先看正文后面的来源；想知道具体核了哪部分，在这里找。每项记录都写明发布方、链接、访问日期、读了什么，以及它能支持什么。
-
-只读到论文摘要的就标摘要。同一个页面可能支持几条不同建议，因此会有重复链接。来源读过、内容写对、结论适合你，是三件不同的事；具体核查过程见[核查记录](../docs/VERIFICATION.md)。
-
-<a id="h001"></a>
-
-## H001 · Enrolling in Medicare
-
-- 发布方：Services Australia
-- 页面：[Enrolling in Medicare](https://www.servicesaustralia.gov.au/enrolling-medicare?context=60092)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：在澳居住的公民和永久居民等可按规定登记；新生儿有单独登记流程。
-
-<a id="h002"></a>
-
-## H002 · Bulk billing
-
-- 发布方：Services Australia
-- 页面：[Bulk billing](https://www.servicesaustralia.gov.au/bulk-billing?context=60092)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：Bulk billing是服务提供者接受Medicare补助作为该服务全部费用；是否适用要预约时确认。
-
-<a id="h003"></a>
-
-## H003 · Services available under a GP chronic condition management plan
-
-- 发布方：Services Australia
-- 页面：[Services available under a GP chronic condition management plan](https://www.servicesaustralia.gov.au/services-available-under-gp-chronic-condition-management-plan?context=20)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：GP慢性病计划可转介符合条件的辅助医疗服务，通常每自然年合计最多五次；旧计划过渡到2027年6月底。
-
-<a id="h004"></a>
-
-## H004 · Eligibility for 60-day prescriptions
-
-- 发布方：Australian Government Department of Health, Disability and Ageing
-- 页面：[Eligibility for 60-day prescriptions](https://www.health.gov.au/cheaper-medicines/60-day-prescriptions)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：指定PBS药物、病情稳定、开方者认为适合并开具新60天处方；不要求持优惠卡。
-
-<a id="h005"></a>
-
-## H005 · Medicines safety for older people
-
-- 发布方：Healthdirect Australia
-- 页面：[Medicines safety for older people](https://www.healthdirect.gov.au/medicines-safety-for-older-people)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：完整药物清单及定期药物评估有助安全；包括非处方与补充剂，不自行停药。
-
-<a id="h006"></a>
-
-## H006 · Diabetes health checks
-
-- 发布方：National Diabetes Services Scheme
-- 页面：[Diabetes health checks](https://www.ndss.com.au/managing-diabetes/diabetes-related-complications/diabetes-health-checks/)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：糖尿病年度照护检查及个体目标；低风险足通常每年检查，高风险更频繁，眼检查间隔个体化。
-
-<a id="h007"></a>
-
-## H007 · High blood pressure (hypertension)
-
-- 发布方：Healthdirect Australia
-- 页面：[High blood pressure (hypertension)](https://www.healthdirect.gov.au/high-blood-pressure-hypertension)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：高血压常无症状，需要可靠测量与复核；生活方式和药物按个人风险管理。
-
-<a id="h008"></a>
-
-## H008 · Type 2 diabetes
-
-- 发布方：Healthdirect Australia
-- 页面：[Type 2 diabetes](https://www.healthdirect.gov.au/type-2-diabetes)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：成人糖尿病筛查按年龄、族裔、体重、家族史等风险；40岁起可用AUSDRISK定期评估。
-
-<a id="h009"></a>
-
-## H009 · National Bowel Cancer Screening Program
-
-- 发布方：Australian Government Department of Health, Disability and Ageing
-- 页面：[National Bowel Cancer Screening Program](https://www.health.gov.au/our-work/national-bowel-cancer-screening-program)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：45至74岁符合项目条件者每两年免费家用粪便筛查；45至49岁需申领首套，症状需就医。
-
-<a id="h010"></a>
-
-## H010 · National Cervical Screening Program
-
-- 发布方：Australian Government Department of Health, Disability and Ageing
-- 页面：[National Cervical Screening Program](https://www.health.gov.au/our-work/national-cervical-screening-program)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：25至74岁有宫颈人群按项目每五年筛查；可通过医疗提供者选择自行采样。
-
-<a id="h011"></a>
-
-## H011 · BreastScreen Australia Program
-
-- 发布方：Australian Government Department of Health, Disability and Ageing
-- 页面：[BreastScreen Australia Program](https://www.health.gov.au/our-work/breastscreen-australia-program)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：40岁及以上女性可每两年免费乳房X线筛查，主要邀请50至74岁；预约132050。
-
-<a id="h012"></a>
-
-## H012 · How the National Lung Cancer Screening Program works
-
-- 发布方：Australian Government Department of Health, Disability and Ageing
-- 页面：[How the National Lung Cancer Screening Program works](https://www.health.gov.au/our-work/nlcsp/how-it-works?language=en)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：50至70岁、无症状、至少30包年且仍吸烟或戒烟不超过10年者可评估资格；低风险通常两年复筛，CT项目必须bulk bill，问诊可能另收费。
-
-<a id="h013"></a>
-
-## H013 · Adult vaccinations fact sheet
-
-- 发布方：NSW Health
-- 页面：[Adult vaccinations fact sheet](https://www.health.nsw.gov.au/immunisation/Pages/adult-vaccination-factsheet.aspx)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：2026年7月成人表列65岁起流感、带状疱疹及肺炎球菌，75岁起RSV；原住民和风险人群资格不同，服务费可能另收。
-
-<a id="h014"></a>
-
-## H014 · NSW immunisation schedule (children and adults)
-
-- 发布方：NSW Health
-- 页面：[NSW immunisation schedule (children and adults)](https://www.health.nsw.gov.au/schedule)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：儿童、Year7/10及孕期接种时点；HPV补种至25岁；轮状病毒有严格最高年龄限制。
-
-<a id="h015"></a>
-
-## H015 · National Immunisation Program Schedule
-
-- 发布方：Australian Government Department of Health, Disability and Ageing
-- 页面：[National Immunisation Program Schedule](https://www.health.gov.au/topics/immunisation/when-to-get-vaccinated/national-immunisation-program-schedule)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：NIP疫苗免费资格与Medicare有关，提供者可收问诊或服务费；并非任何年龄任何疫苗全免。
-
-<a id="h016"></a>
-
-## H016 · Sexual health and STIs
-
-- 发布方：NSW Health
-- 页面：[Sexual health and STIs](https://www.health.nsw.gov.au/sexualhealth/Pages/sexual-health-and-stis.aspx)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：安全套、润滑剂、定期检查及PrEP/PEP各有用途；HIV PEP须尽早且72小时内开始，热线1800737669。
-
-<a id="h017"></a>
-
-## H017 · Wild mushroom poisoning
-
-- 发布方：NSW Health
-- 页面：[Wild mushroom poisoning](https://www.health.nsw.gov.au/environment/factsheets/Pages/wild-mushroom-poisoning.aspx)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：野蘑菇可误认成食用品种，烹煮不能去毒；误食立即联系Poisons131126，不等症状。
-
-<a id="h018"></a>
-
-## H018 · Blood in urine (haematuria)
-
-- 发布方：Healthdirect Australia
-- 页面：[Blood in urine (haematuria)](https://www.healthdirect.gov.au/blood-in-urine)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：肉眼血尿或尿呈粉红红褐色应及时看医生，原因多样，不能自行归为食物或运动。
-
-<a id="h019"></a>
-
-## H019 · Seatbelts
-
-- 发布方：Transport for NSW
-- 页面：[Seatbelts](https://www.nsw.gov.au/driving-boating-and-transport/roads-safety-and-rules/safe-driving/seatbelts)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：驾驶者及乘客须正确系安全带，不共用座位安全带、不抱儿童乘车。
-
-<a id="h020"></a>
-
-## H020 · Child car seats
-
-- 发布方：Transport for NSW
-- 页面：[Child car seats](https://www.nsw.gov.au/driving-boating-and-transport/driving-nsw/roads-safety-and-rules/safe-driving/child-seats)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：儿童约束装置按年龄与体型；六个月以下后向、四岁和七岁分段规则；建议授权人员安装。
-
-<a id="h021"></a>
-
-## H021 · Home fire safety
-
-- 发布方：Fire and Rescue NSW
-- 页面：[Home fire safety](https://www.fire.nsw.gov.au/fire-safety/home-fire-safety)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：每层应有工作正常的烟雾报警器；准备逃生计划，烹调不离人。
-
-<a id="h022"></a>
-
-## H022 · Lithium-ion batteries: shop, charge, and recycle safely
-
-- 发布方：Fire and Rescue NSW
-- 页面：[Lithium-ion batteries: shop, charge, and recycle safely](https://www.fire.nsw.gov.au/fire-safety/home-fire-safety/topics/shop-charge-and-recycle-safely)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：使用匹配合规充电器，清醒在家时在不可燃表面充电，远离出口；损坏电池勿充电勿投入普通垃圾。
-
-<a id="h023"></a>
-
-## H023 · Home escape plans
-
-- 发布方：Fire and Rescue NSW
-- 页面：[Home escape plans](https://www.fire.nsw.gov.au/fire-safety/home-fire-safety/topics/escape-plans)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：规划两条逃生路线和室外集合点，低姿避烟、不坐电梯、逃出后不重返，安全处拨000。
-
-<a id="h024"></a>
-
-## H024 · Older people and falls
-
-- 发布方：Healthdirect Australia
-- 页面：[Older people and falls](https://www.healthdirect.gov.au/falls)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：运动平衡、药物和视力评估及改善照明地面扶手可降低跌倒风险；跌倒后应评估。
-
-<a id="h025"></a>
-
-## H025 · Balconies, windows and railing safety
-
-- 发布方：Sydney Children’s Hospitals Network
-- 页面：[Balconies, windows and railing safety](https://www.schn.health.nsw.gov.au/kids-health-hub/safety-and-injury-prevention/home/balconies-windows-and-railing)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：窗户安全限制装置、移走可攀爬家具和看护儿童是预防坠落的措施。
-
-<a id="h026"></a>
-
-## H026 · Services to help you quit
-
-- 发布方：NSW Health
-- 页面：[Services to help you quit](https://www.health.nsw.gov.au/tobacco/Pages/services-to-help-you-quit.aspx)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：Quitline137848支持戒烟戒电子烟；可获得语言支持、行为辅导及医疗转介。
-
-<a id="h027"></a>
-
-## H027 · Australian Guide to Healthy Eating – description
-
-- 发布方：National Health and Medical Research Council
-- 页面：[Australian Guide to Healthy Eating – description](https://www.eatforhealth.gov.au/guidelines/australian-guide-healthy-eating/description)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：按五类食物搭配并喝水，限制高盐高糖高饱和脂肪的非必需食品。
-
-<a id="h028"></a>
-
-## H028 · How much do we need each day?
-
-- 发布方：National Health and Medical Research Council
-- 页面：[How much do we need each day?](https://www.eatforhealth.gov.au/food-essentials/how-much-do-we-need-each-day)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：食物份数依年龄、性别和生理阶段变化，全谷物、蔬果、蛋白质食物和奶类应多样搭配。
-
-<a id="h029"></a>
-
-## H029 · Australian guidelines to reduce health risks from drinking alcohol
-
-- 发布方：National Health and Medical Research Council
-- 页面：[Australian guidelines to reduce health risks from drinking alcohol](https://www.nhmrc.gov.au/health-advice/alcohol)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：健康成人每周不超过10标准杯且一天不超过4；更少风险更低，孕期备孕及未成年人不饮酒。
-
-<a id="h030"></a>
-
-## H030 · Recommendations for adults (18 to 64 years)
-
-- 发布方：Australian Government Department of Health, Disability and Ageing
-- 页面：[Recommendations for adults (18 to 64 years)](https://www.health.gov.au/topics/physical-activity/24-hour-movement-guidelines-for-all-australians/recommendations-for-adults-18-to-64-years)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：2026年指南建议多数天至少30分钟中高强度活动，力量每周至少两天、平衡灵活协调至少三天，并减少久坐。
-
-<a id="h031"></a>
-
-## H031 · Sleep
-
-- 发布方：Healthdirect Australia
-- 页面：[Sleep](https://www.healthdirect.gov.au/sleep)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：大多数成人需要7至9小时睡眠，固定睡醒时间；持续睡眠问题应咨询医生。
-
-<a id="h032"></a>
-
-## H032 · Dental care and teeth cleaning
-
-- 发布方：Healthdirect Australia
-- 页面：[Dental care and teeth cleaning](https://www.healthdirect.gov.au/teeth-cleaning)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：含氟牙膏每天刷两次每次两分钟、清洁牙缝、定期牙科检查；技巧比品牌重要。
-
-<a id="h033"></a>
-
-## H033 · Sunscreen
-
-- 发布方：Healthdirect Australia
-- 页面：[Sunscreen](https://www.healthdirect.gov.au/sunscreen)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：UV达到3须防晒；广谱SPF30以上，提前20分钟涂并约两小时补；皮肤病变须评估。
-
-<a id="h034"></a>
-
-## H034 · Dietary supplements
-
-- 发布方：Healthdirect Australia
-- 页面：[Dietary supplements](https://www.healthdirect.gov.au/dietary-supplements)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：多数均衡饮食者无需补充剂；缺乏、妊娠等特定情况有适应证，补充剂有副作用与相互作用。
-
-<a id="h035"></a>
-
-## H035 · Blue-light filtering spectacle lenses for visual performance, sleep, and macular health in adults
-
-- 发布方：Cochrane
-- 页面：[Blue-light filtering spectacle lenses for visual performance, sleep, and macular health in adults](https://www.cochrane.org/evidence/CD013244_blue-light-filtering-spectacle-lenses-visual-performance-macular-back-part-eye-protection-and)
-- 访问日期：2026-09-16
-- 读取范围：论文摘要
-
-**支持内容（释义）**：17项试验的综述摘要显示短期眼疲劳可能无明显改善；睡眠证据不确定，未证明黄斑保护。
-
-<a id="h036"></a>
-
-## H036 · Full-Body CT Scans – What You Need to Know
-
-- 发布方：US Food and Drug Administration
-- 页面：[Full-Body CT Scans – What You Need to Know](https://www.fda.gov/radiation-emitting-products/medical-x-ray-imaging/full-body-ct-scans-what-you-need-know)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：无症状全身CT筛查缺乏净获益证明，可能产生辐射和误报后续检查；不是澳洲筛查资格来源。
-
-<a id="h037"></a>
-
-## H037 · Drinking water and your health
-
-- 发布方：Healthdirect Australia
-- 页面：[Drinking water and your health](https://www.healthdirect.gov.au/drinking-water-and-your-health)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：饮水需求随饮食、活动、天气与健康变化；液体和食物均提供水分，没有人人固定杯数。
-
-<a id="h038"></a>
-
-## H038 · Probiotics
-
-- 发布方：Healthdirect Australia
-- 页面：[Probiotics](https://www.healthdirect.gov.au/probiotics)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：益生菌效果取决于菌株和用途，严重疾病者先咨询，不以统一菌数或品牌代替适应证判断。
-
-<a id="h039"></a>
-
-## H039 · Mental Health Line
-
-- 发布方：NSW Health
-- 页面：[Mental Health Line](https://www.health.nsw.gov.au/mentalhealth/pages/mental-health-line.aspx)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：1800011511全天免费临床评估与本地服务转介；即时危险拨000。
-
-<a id="h040"></a>
-
-## H040 · Mental health treatment plan
-
-- 发布方：Healthdirect Australia
-- 页面：[Mental health treatment plan](https://www.healthdirect.gov.au/mental-health-treatment-plan)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：确诊心理疾病经评估与转介可获得每自然年最多10次个人及10次团体心理治疗Medicare补助，可能有差额。
-
-<a id="h041"></a>
-
-## H041 · Grief and loss
-
-- 发布方：Healthdirect Australia
-- 页面：[Grief and loss](https://www.healthdirect.gov.au/grief-loss)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：哀伤节奏个体不同；支持、基本生活和专业帮助按困扰与功能受损需求，危机拨000或Lifeline。
-
-<a id="h042"></a>
-
-## H042 · Kids and mental health
-
-- 发布方：Healthdirect Australia
-- 页面：[Kids and mental health](https://www.healthdirect.gov.au/kids-mental-health)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：持续情绪、睡眠食欲、退缩拒学或自伤警讯应早求助；GP、学校心理支持、KidsHelpline可联系。
-
-<a id="h043"></a>
-
-## H043 · Body dysmorphic disorder
-
-- 发布方：Healthdirect Australia
-- 页面：[Body dysmorphic disorder](https://www.healthdirect.gov.au/body-dysmorphic-disorder)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：反复检查外貌并影响生活可能需要专业评估；心理治疗和药物是治疗选择，手术常不能解决困扰。
-
-<a id="h044"></a>
-
-## H044 · Anabolic steroids
-
-- 发布方：Healthdirect Australia
-- 页面：[Anabolic steroids](https://www.healthdirect.gov.au/anabolic-steroids)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：非医疗滥用合成代谢类固醇可引发心血管、肝、生育和心理伤害，使用者应向医生如实说明。
-
-<a id="h045"></a>
-
-## H045 · Guide to cosmetic surgery
-
-- 发布方：Healthdirect Australia
-- 页面：[Guide to cosmetic surgery](https://www.healthdirect.gov.au/guide-to-cosmetic-surgery)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：核实Ahpra注册与相关经验、场所资质、风险、后续照护和报价；纯美容通常不获Medicare支付。
-
-<a id="h046"></a>
-
-## H046 · Imported unregistered GLP-1 weight-loss products
-
-- 发布方：Therapeutic Goods Administration
-- 页面：[Imported unregistered GLP-1 weight-loss products](https://www.tga.gov.au/safety/safety-monitoring-and-information/safety-alerts/imported-unregistered-glp-1-weight-loss-products)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：警告网上未注册GLP1产品和假认证；合法GLP1药物需要处方和临床监督。
-
-<a id="h047"></a>
-
-## H047 · NSW Health Care Interpreting Services
-
-- 发布方：NSW Health
-- 页面：[NSW Health Care Interpreting Services](https://www.health.nsw.gov.au/multicultural/Pages/health-care-interpreting-and-translating-services.aspx)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：公立医疗专业口译免费保密，由医疗人员安排；符合条件的私人Medicare服务可通过TIS医生专线。
-
-<a id="h048"></a>
-
-## H048 · What can I make a complaint about?
-
-- 发布方：NSW Health Care Complaints Commission
-- 页面：[What can I make a complaint about?](https://www.hccc.nsw.gov.au/understanding-complaints/what-can-i-make-a-complaint-about)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：可投诉医疗质量与操守；病历向提供者书面索取可能收费，HCCC不能强制取回；赔偿报告争议走相应渠道。
-
-<a id="h049"></a>
-
-## H049 · How to check your eligibility
-
-- 发布方：National Disability Insurance Agency
-- 页面：[How to check your eligibility](https://www.ndis.gov.au/applying/eligibility-requirements/how-check-your-eligibility)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：NDIS需年龄、澳洲居住及身份和永久性功能障碍或早期干预条件，不等同诊断自动领取。
-
-<a id="h050"></a>
-
-## H050 · Emergency services
-
-- 发布方：NSW Ambulance
-- 页面：[Emergency services](https://www.ambulance.nsw.gov.au/our-services/emergency-services)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：000呼叫免费，说明地点并听接线指导；派车和医院就诊按临床紧急程度安排，乘救护车不等于优先看诊。
-
-<a id="h051"></a>
-
-## H051 · Exemptions from NSW Ambulance fees
-
-- 发布方：NSW Ambulance
-- 页面：[Exemptions from NSW Ambulance fees](https://www.ambulance.nsw.gov.au/our-services/accounts-and-fees/exemptions-from-nsw-ambulance-fees)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：救护费用豁免按有效优惠卡等条件判断，需核对本人资格。
-
-<a id="h052"></a>
-
-## H052 · The Six Safe Sleep Recommendations
-
-- 发布方：Red Nose Australia
-- 页面：[The Six Safe Sleep Recommendations](https://rednose.org.au/safe-sleep-and-safer-pregnancy/pregnancy-to-birth/six-safe-sleep-recommendations/)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：仰睡、露头脸、无烟、独立坚实平坦安全睡眠空间，至少头六个月同房及支持母乳。
-
-<a id="h053"></a>
-
-## H053 · Hepatitis B vaccine for babies
-
-- 发布方：NSW Health
-- 页面：[Hepatitis B vaccine for babies](https://www.health.nsw.gov.au/immunisation/Pages/hepatitis-b-vaccine-for-babies.aspx)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：出生乙肝疫苗及后续剂次，母亲乙肝阳性需额外免疫球蛋白与随访。
-
-<a id="h054"></a>
-
-## H054 · Formula: making, storing and transporting it
-
-- 发布方：Raising Children Network
-- 页面：[Formula: making, storing and transporting it](https://raisingchildren.net.au/newborns/breastfeeding-bottle-feeding/bottle-feeding/formula-making-storing-transporting)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：澳洲家庭冲奶用煮沸后冷却水，按罐身比例、清洁消毒瓶具，现配为佳、喂剩丢弃。
-
-<a id="h055"></a>
-
-## H055 · Introducing solids: why, when, what and how
-
-- 发布方：Raising Children Network
-- 页面：[Introducing solids: why, when, what and how](https://raisingchildren.net.au/guides/first-1000-days/nutritious-food/introducing-solids)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：约六个月加辅食，重视含铁食品与安全质地，母乳/配方仍重要；一岁前不用蜂蜜或牛奶作主饮。
-
-<a id="h056"></a>
-
-## H056 · Vitamin K deficiency
-
-- 发布方：Healthdirect Australia
-- 页面：[Vitamin K deficiency](https://www.healthdirect.gov.au/vitamin-k-deficiency)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：新生儿维生素K低，出生时普遍提供注射预防缺乏性出血。
-
-<a id="h057"></a>
-
-## H057 · Fever in children
-
-- 发布方：Royal Children’s Hospital Melbourne
-- 页面：[Fever in children](https://www.rch.org.au/kidsinfo/fact_sheets/Fever_in_children/)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：三个月以下发热需尽快医生评估；呼吸困难、难唤醒、首次或长时间抽搐拨000。
-
-<a id="h058"></a>
-
-## H058 · Crying and unsettled babies
-
-- 发布方：Royal Children’s Hospital Melbourne
-- 页面：[Crying and unsettled babies](https://www.rch.org.au/kidsinfo/fact_sheets/Crying_and_unsettled_babies/)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：婴儿哭闹常见；不摇晃，照护者快失控应将婴儿放安全床并求助，担忧疾病请专业评估。
-
-<a id="h059"></a>
-
-## H059 · Pregnancy: vitamins and minerals
-
-- 发布方：NSW Health
-- 页面：[Pregnancy: vitamins and minerals](https://www.health.nsw.gov.au/kidsfamilies/MCFhealth/pregnancy/Pages/vitamins-minerals.aspx)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：通常叶酸每日400微克从孕前至少一个月至孕早期三个月；碘150微克，甲状腺病先问医生。
-
-<a id="h060"></a>
-
-## H060 · Routine antenatal tests
-
-- 发布方：Healthdirect Australia
-- 页面：[Routine antenatal tests](https://www.healthdirect.gov.au/routine-antenatal-tests)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：孕早期常规血液感染检查、24至28周妊娠糖尿病筛查及产前筛查需知情选择；费用不一。
-
-<a id="h061"></a>
-
-## H061 · Warning signs during pregnancy
-
-- 发布方：Healthdirect Australia
-- 页面：[Warning signs during pregnancy](https://www.healthdirect.gov.au/warning-signs-during-pregnancy)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：胎动减少、阴道出血漏液、剧痛、严重头痛视觉异常或呼吸困难等须立即联系产科或医院。
-
-<a id="h062"></a>
-
-## H062 · Maternity care in Australia
-
-- 发布方：Healthdirect Australia
-- 页面：[Maternity care in Australia](https://www.healthdirect.gov.au/maternity-care-in-australia)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：怀孕约六至八周开始产检，早预约分娩医院；公立、共享照护、私立和分娩中心各有服务和收费差异。
-
-<a id="h063"></a>
-
-## H063 · Registering your baby’s birth and other paperwork
-
-- 发布方：NSW Government
-- 页面：[Registering your baby’s birth and other paperwork](https://www.nsw.gov.au/family-and-relationships/having-children/having-a-baby/after-your-baby-born/registering-your-babys-birth-and-other-paperwork)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：NSW一般60天内免费登记出生；出生证另收费；可使用新生儿声明办理Medicare。
-
-<a id="h064"></a>
-
-## H064 · Newborn bloodspot screening
-
-- 发布方：NSW Health
-- 页面：[Newborn bloodspot screening](https://www.health.nsw.gov.au/kidsfamilies/MCFhealth/Publications/new-born-bloodspot.pdf)
-- 访问日期：2026-09-16
-- 读取范围：PDF 正文
-
-**支持内容（释义）**：2026年册：48至72小时足跟血，免费并须书面同意，阳性需确认检查；筛查与研究同意可分开。
-
-<a id="h065"></a>
-
-## H065 · Mother and baby health checks
-
-- 发布方：myGov
-- 页面：[Mother and baby health checks](https://my.gov.au/en/services/raising-kids/having-a-baby/when-your-baby-is-born/mother-and-newborn-health-checks)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：母亲产后检查与婴儿规律发育/接种检查，使用儿童健康记录并联系本州儿童家庭健康服务。
-
-<a id="h066"></a>
-
-## H066 · If your child is being bullied
-
-- 发布方：NSW Department of Education
-- 页面：[If your child is being bullied](https://education.nsw.gov.au/schooling/schooling-initiatives/anti-bullying/parents-and-carers/my-child-is-being-bullied)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：倾听记录、与老师校长建立应对计划，安全担忧立即联系学校，持续时跟进并保留会议记录。
-
-<a id="h067"></a>
-
-## H067 · Short-sightedness (myopia)
-
-- 发布方：Healthdirect Australia
-- 页面：[Short-sightedness (myopia)](https://www.healthdirect.gov.au/short-sightedness-myopia)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：儿童看不清远处应验光，入学及中学检查；户外活动可能减少发生，治疗可矫正并有延缓进展选项。
-
-<a id="h068"></a>
-
-## H068 · Dental fissure sealants
-
-- 发布方：Healthdirect Australia
-- 页面：[Dental fissure sealants](https://www.healthdirect.gov.au/dental-fissure-sealants)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：牙科评估是否需要磨牙窝沟封闭，可防龋；不是每个孩子必需，仍须清洁和复查。
-
-<a id="h069"></a>
-
-## H069 · Healthy habits for children – Advise
-
-- 发布方：NSW Health
-- 页面：[Healthy habits for children – Advise](https://www.health.nsw.gov.au/heal/child/wellbeing/Pages/advise.aspx)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：婴儿喂养与辅食、学龄儿童每日运动、屏幕和分龄睡眠建议；体重交流应尊重、不羞辱。
-
-<a id="h070"></a>
-
-## H070 · Guideline 8 – Cardiopulmonary Resuscitation
-
-- 发布方：ANZCOR
-- 页面：[Guideline 8 – Cardiopulmonary Resuscitation](https://www.anzcor.org/home/basic-life-support/guideline-8-cardiopulmonary-resuscitation-cpr)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：无反应且不正常呼吸需CPR，30:2、100至120次每分钟、尽早AED；不愿吹气先按压。
-
-<a id="h071"></a>
-
-## H071 · Guideline 4 – Airway
-
-- 发布方：ANZCOR
-- 页面：[Guideline 4 – Airway](https://www.anzcor.org/assets/anzcor-guidelines/guideline-4-airway-220.pdf)
-- 访问日期：2026-09-16
-- 读取范围：PDF 正文
-
-**支持内容（释义）**：严重清醒噎食交替最多五次背击与五次胸部冲击，每次检查；不作盲扫或腹部冲击。
-
-<a id="h072"></a>
-
-## H072 · Guideline 9.2.2 – Stroke
-
-- 发布方：ANZCOR
-- 页面：[Guideline 9.2.2 – Stroke](https://www.anzcor.org/home/first-aid/guideline-9-2-2-stroke)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：FAST及突然视力平衡改变可提示卒中，症状短暂或缓解仍立即叫救护车，不喂食饮水。
-
-<a id="h073"></a>
-
-## H073 · Guideline 9.2.1 – Suspected Heart Attack
-
-- 发布方：ANZCOR
-- 页面：[Guideline 9.2.1 – Suspected Heart Attack](https://www.anzcor.org/home/first-aid/guideline-9-2-1-recognition-and-first-aid-management-of-suspected-heart-attack)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：胸部不适伴气促等严重、快速加重或持续十分钟须救护；可能没有典型胸痛，听接线员指导。
-
-<a id="h074"></a>
-
-## H074 · Guideline 9.1.1 – Management of Bleeding
-
-- 发布方：ANZCOR
-- 页面：[Guideline 9.1.1 – Management of Bleeding](https://www.anzcor.org/home/first-aid/guideline-9-1-1-first-aid-for-management-of-bleeding)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：直接压迫控制大出血，嵌入异物不拔；肢体危及生命出血需正确止血带时不得随意松开。
-
-<a id="h075"></a>
-
-## H075 · Guideline 9.1.3 – First Aid for Burns
-
-- 发布方：ANZCOR
-- 页面：[Guideline 9.1.3 – First Aid for Burns](https://www.anzcor.org/home/first-aid/guideline-9-1-3-first-aid-for-burns)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：热烧伤凉流水至少20分钟；所有婴幼儿儿童烧伤须医疗评估，特殊部位等属严重烧伤；皮肤化学粉末先刷除再冲水。
-
-<a id="h076"></a>
-
-## H076 · Guideline 9.2.7 – First Aid Management of Anaphylaxis
-
-- 发布方：ANZCOR
-- 页面：[Guideline 9.2.7 – First Aid Management of Anaphylaxis](https://www.anzcor.org/home/first-aid/guideline-9-2-7-first-aid-management-of-anaphylaxis)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：过敏性反应用肾上腺素自动注射器、叫救护、平躺不走动，五分钟无改善可再用一支。
-
-<a id="h077"></a>
-
-## H077 · Guideline 9.2.4 – First Aid Management of a Seizure
-
-- 发布方：ANZCOR
-- 页面：[Guideline 9.2.4 – First Aid Management of a Seizure](https://www.anzcor.org/home/first-aid/9-2-4-first-aid-management-of-a-seizure)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：保护计时、不约束不塞嘴；首次、超过五分钟、抽搐后五分钟仍未恢复意识等情况叫救护，结束后观察呼吸。
-
-<a id="h078"></a>
-
-## H078 · Guideline 9.2.9 – First Aid Management of a Diabetic Emergency
-
-- 发布方：ANZCOR
-- 页面：[Guideline 9.2.9 – First Aid Management of a Diabetic Emergency](https://www.anzcor.org/home/first-aid/guideline-9-2-9-first-aid-management-of-a-diabetic-emergency)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：清醒可吞咽者快速糖15至20克、10至15分钟复评；恢复后长效碳水点心或正餐。未改善、恶化或昏迷需救护，不能吞咽不经口喂。
-
-<a id="h079"></a>
-
-## H079 · Guideline 9.5.1 – First Aid Management of Poisoning
-
-- 发布方：ANZCOR
-- 页面：[Guideline 9.5.1 – First Aid Management of Poisoning](https://www.anzcor.org/home/first-aid/guideline-9-5-1-first-aid-management-of-poisoning)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：毒物中心131126；勿催吐或酸碱中和，安全脱离暴露、眼皮肤冲洗，严重立即000。
-
-<a id="h080"></a>
-
-## H080 · Guideline 9.3.4 – Heat Induced Illness
-
-- 发布方：ANZCOR
-- 页面：[Guideline 9.3.4 – Heat Induced Illness](https://www.anzcor.org/home/first-aid/guideline-9-3-4-heat-induced-illness-hyperthermia)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：热射病不一定无汗；意识异常时立即叫救护并积极降温，不等测得高温。
-
-<a id="h081"></a>
-
-## H081 · Guideline 9.3.3 – Hypothermia and Cold-Related Injuries
-
-- 发布方：ANZCOR
-- 页面：[Guideline 9.3.3 – Hypothermia and Cold-Related Injuries](https://www.anzcor.org/home/first-aid/guideline-9-3-3-first-aid-management-of-hypothermia-and-cold-related-injuries)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：湿冷可引起失温；安全离开寒冷、保温及温和复温，意识异常需紧急医疗。
-
-<a id="h082"></a>
-
-## H082 · Guideline 9.3.2 – Resuscitation in Drowning
-
-- 发布方：ANZCOR
-- 页面：[Guideline 9.3.2 – Resuscitation in Drowning](https://www.anzcor.org/home/first-aid/guideline-9-3-2-resuscitation-in-drowning)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：近水持续看护；优先岸上抛浮具救援，溺水CPR应含呼吸，恢复者仍需医疗评估。
-
-<a id="h083"></a>
-
-## H083 · Guideline 9.4.1 – Australian Snake Bite
-
-- 发布方：ANZCOR
-- 页面：[Guideline 9.4.1 – Australian Snake Bite](https://www.anzcor.org/home/first-aid/guideline-9-4-1-first-aid-management-of-australian-snake-bite)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：所有疑似澳洲蛇咬按急症，加压固定并尽量不动，000；不洗切吸、不用动脉止血带。
-
-<a id="h084"></a>
-
-## H084 · Guideline 9.4.3 – Tick Bites and Bee, Wasp and Ant Stings
-
-- 发布方：ANZCOR
-- 页面：[Guideline 9.4.3 – Tick Bites and Bee, Wasp and Ant Stings](https://www.anzcor.org/home/first-aid/guideline-9-4-3-envenomation-from-tick-bites-and-bee-wasp-and-ant-stings)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：澳洲蜱虫应避免惊扰，成年蜱可原位冷冻后专业处理，特殊部位或无合适用品求医；注意严重过敏。
-
-<a id="h085"></a>
-
-## H085 · Dog, cat, bat and human bites
-
-- 发布方：Healthdirect Australia
-- 页面：[Dog, cat, bat and human bites](https://www.healthdirect.gov.au/dog-cat-bat-and-human-bites)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：破皮咬伤洗净并尽快就医；澳洲蝙蝠抓咬需至少15分钟清洗和急诊暴露后处理评估。
-
-<a id="h086"></a>
-
-## H086 · Head injuries
-
-- 发布方：Healthdirect Australia
-- 页面：[Head injuries](https://www.healthdirect.gov.au/head-injuries)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：头伤可能延迟恶化，呕吐、意识、语言、协调或肢体异常需紧急评估，CT由医生决定。
-
-<a id="h087"></a>
-
-## H087 · Wearing the right cycling safety gear
-
-- 发布方：Transport for NSW
-- 页面：[Wearing the right cycling safety gear](https://www.nsw.gov.au/driving-boating-and-transport/roads-safety-and-rules/bicycle-safety-and-rules/wearing-right-gear)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：自行车骑手须佩戴获认可且扣牢的合身头盔；损坏或撞击后更换。
-
-<a id="h088"></a>
-
-## H088 · How do I keep my family and myself safe from carbon monoxide?
-
-- 发布方：NSW Health
-- 页面：[How do I keep my family and myself safe from carbon monoxide?](https://www.health.nsw.gov.au/environment/Pages/copoisoning-prevention.aspx)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：户外燃烧设备不可入室，燃气暖炉定期持证检查，可增装CO报警器但不替代烟感。
-
-<a id="h089"></a>
-
-## H089 · Salt and sodium – how to reduce intake
-
-- 发布方：Healthdirect Australia
-- 页面：[Salt and sodium – how to reduce intake](https://www.healthdirect.gov.au/salt)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：钠主要来自加工包装食品；比较每100克钠含量，减少酱料和加工肉；肾病及使用部分药物者换含钾盐前须咨询。
-
-<a id="h090"></a>
-
-## H090 · How do I pay for healthcare?
-
-- 发布方：healthdirect Australia
-- 页面：[How do I pay for healthcare?](https://www.healthdirect.gov.au/how-do-i-pay-for-healthcare)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：Medicare补助、公立病人和私人差额；牙科通常自费，救护车不由Medicare覆盖。
-
-<a id="h091"></a>
-
-## H091 · The role of a GP
-
-- 发布方：healthdirect Australia
-- 页面：[The role of a GP](https://www.healthdirect.gov.au/the-role-of-a-gp)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：GP协调常见病和转介，诊所收费与下班后选择；危急情况000，非危急不确定可问healthdirect。
-
-<a id="h092"></a>
-
-## H092 · Why does my baby need a hearing screen?
-
-- 发布方：NSW Health
-- 页面：[Why does my baby need a hearing screen?](https://www.health.nsw.gov.au/kidsfamilies/MCFhealth/Pages/hearing-check.aspx)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：出生后尽早提供听力筛查，未在院完成可门诊；复筛不等于确诊，随成长继续留意听力语言。
-
-<a id="h093"></a>
-
-## H093 · Pre-eclampsia
-
-- 发布方：healthdirect Australia
-- 页面：[Pre-eclampsia](https://www.healthdirect.gov.au/pre-eclampsia)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：高风险妊娠由医生决定低剂量阿司匹林；血压复查及严重头痛、视力和上腹异常紧急评估，产后仍需随访。
-
-<a id="h094"></a>
-
-## H094 · How to help a child cope with the death of a parent
-
-- 发布方：Raising Children Network
-- 页面：[How to help a child cope with the death of a parent](https://raisingchildren.net.au/school-age/connecting-communicating/death-grief/death-of-a-parent-supporting-children-3-8-years)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：诚实解释、维持可预测照护，葬礼参与尊重孩子选择并安排成人支持；明显困扰及创伤死亡可尽早专业帮助。
-
-<a id="h095"></a>
-
-## H095 · Fractures
-
-- 发布方：healthdirect Australia
-- 页面：[Fractures](https://www.healthdirect.gov.au/fractures)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：疑似骨折及时评估、保持患处不动、不自行复位；严重创伤和脊柱头伤呼叫000。
-
-<a id="h096"></a>
-
-## H096 · Deep vein thrombosis (DVT)
-
-- 发布方：healthdirect Australia
-- 页面：[Deep vein thrombosis (DVT)](https://www.healthdirect.gov.au/deep-vein-thrombosis)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：单腿肿痛应立即评估，伴胸痛、呼吸困难或咳血等呼叫000，不自行诊断或开抗凝药。
-
-<a id="h097"></a>
-
-## H097 · Electric shocks and burns
-
-- 发布方：healthdirect Australia
-- 页面：[Electric shocks and burns](https://www.healthdirect.gov.au/electric-shocks-and-burns)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：先确保电源断开和施救安全；电击后即使看不见伤口也需医生检查，昏迷呼吸或心律异常需000。
-
-<a id="h098"></a>
-
-## H098 · Harms of tobacco smoking and second-hand smoke
-
-- 发布方：NSW Health
-- 页面：[Harms of tobacco smoking and second-hand smoke](https://www.health.nsw.gov.au/tobacco/Pages/harms-of-smoking.aspx)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：吸烟及二手烟危害成人儿童，孕期吸烟增加不良妊娠结局；二手烟没有无风险暴露量。
-
-<a id="h099"></a>
-
-## H099 · Inclusive learning support glossary: Health care plan and adjustments
-
-- 发布方：NSW Department of Education
-- 页面：[Inclusive learning support glossary: Health care plan and adjustments](https://education.nsw.gov.au/schooling/parents-and-carers/inclusive-learning-support/resources/glossary)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：学校与家庭根据医生资料制定复杂健康照护和紧急应对计划，个别学习支持可作合理调整并定期复评。
-
-<a id="h100"></a>
-
-## H100 · Pain relief during labour
-
-- 发布方：healthdirect Australia
-- 页面：[Pain relief during labour](https://www.healthdirect.gov.au/pain-relief-during-labour)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：产前讨论镇痛偏好、替代方案及风险；硬膜外有效但非人人任何场所皆适用，分娩中可表达改变。
-
-<a id="h101"></a>
-
-## H101 · Eating disorders
-
-- 发布方：healthdirect Australia
-- 页面：[Eating disorders](https://www.healthdirect.gov.au/eating-disorders)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：催吐、泻药、限制进食和过度运动等警讯需早求助，任何体型和年龄都可能受影响。
-
-<a id="h102"></a>
-
-## H102 · Abdominal pain in children
-
-- 发布方：healthdirect Australia
-- 页面：[Abdominal pain in children](https://www.healthdirect.gov.au/abdominal-pain-in-children)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：严重持续或恶化腹痛、睾丸痛等需及时急诊评估，吞电池磁铁、绿色或带血呕吐等警讯不等上学结束。
-
-<a id="h103"></a>
-
-## H103 · Consent requirements for pregnancy and birth
-
-- 发布方：NSW Health
-- 页面：[Consent requirements for pregnancy and birth](https://www.health.nsw.gov.au/kidsfamilies/MCFhealth/maternity/Pages/consent-req-pregnancy-birth.aspx)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：产前提前讨论干预的收益风险、时机和替代方案，尊重选择并记录知情同意。
-
-<a id="h104"></a>
-
-## H104 · Labour and birth
-
-- 发布方：Northern Sydney Local Health District
-- 页面：[Labour and birth](https://www.nslhd.health.nsw.gov.au/maternity/Pages/Labour-and-birth.aspx)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：计划性引产或剖宫产需个体讨论理由、利弊；既往剖宫产后的选择也需个体评估。
-
-<a id="h105"></a>
-
-## H105 · Guideline 6 – Compressions
-
-- 发布方：ANZCOR
-- 页面：[Guideline 6 – Compressions](https://www.anzcor.org/home/basic-life-support/guideline-6-compressions)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：胸骨下半部按压约胸廓深度三分之一，成人通常超过5厘米，每次充分回弹，频率100至120次每分钟。
-
-<a id="h106"></a>
-
-## H106 · Medicines during pregnancy
-
-- 发布方：healthdirect Australia
-- 页面：[Medicines during pregnancy](https://www.healthdirect.gov.au/medicines-during-pregnancy)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：使用药物前咨询医生药师；孕期不要未经医生讨论自行停处方，备孕应提前评估药物。本版仅使用该页的用药核对原则，不引用具体感冒药清单。
-
-<a id="h107"></a>
-
-## H107 · Head and neck cancers: symptoms and risk factors
-
-- 发布方：Cancer Council / Cancer Connect
-- 页面：[Head and neck cancers: symptoms and risk factors](https://connect.cancer.org.au/cancer-information/types-of-cancer/head-and-neck/symptoms)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：槟榔、烟草咀嚼等为头颈癌风险因素；持续口腔溃疡、红白斑、吞咽困难等需GP或牙医评估。
-
-<a id="h108"></a>
-
-## H108 · Wounds, cuts and grazes
-
-- 发布方：healthdirect Australia
-- 页面：[Wounds, cuts and grazes](https://www.healthdirect.gov.au/wounds-cuts-and-grazes)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：深伤、污染、咬伤及疫苗史不清需及时医疗评估；轻伤清洁覆盖，破伤风预防按伤口及接种史决定。
-
-<a id="h109"></a>
-
-## H109 · Australian bat lyssavirus
-
-- 发布方：Australian Centre for Disease Control
-- 页面：[Australian bat lyssavirus](https://www.cdc.gov.au/diseases/australian-bat-lyssavirus)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：蝙蝠咬抓皮肤伤用肥皂水至少15分钟；唾液进入眼鼻口用清水冲数分钟，两种情况均需紧急医疗，即使已接种。
-
-<a id="l001"></a>
-
-## L001 · 睡眠（Sleep）
-
-- 发布方：Healthdirect Australia
-- 页面：[睡眠（Sleep）](https://www.healthdirect.gov.au/sleep)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：成人通常需7–9小时；规律作息、限制睡前屏幕和咖啡因，持续睡眠问题就诊。
-
-<a id="l002"></a>
-
-## L002 · Practical Techniques to Stop Procrastination — Module 5
-
-- 发布方：Centre for Clinical Interventions, WA Health
-- 页面：[Practical Techniques to Stop Procrastination — Module 5](https://www.cci.health.wa.gov.au/~/media/CCI/Consumer-Modules/Put-Off-Procrastinating/Putting-Off-Procrastinating---05---Practical-Techniques-to-stop-Procrastination.pdf)
-- 访问日期：2026-09-16
-- 读取范围：PDF 正文
-
-**支持内容（释义）**：拆小步骤、记录实际耗时、限定开始时段、减少干扰、安排休息及坚定表达需求。
-
-<a id="l003"></a>
-
-## L003 · Worry and Rumination
-
-- 发布方：Centre for Clinical Interventions, WA Health
-- 页面：[Worry and Rumination](https://www.cci.health.wa.gov.au/Resources/Looking-After-Yourself/Worry-and-Rumination)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：辨别担忧、反刍与有效解决问题；注意训练和对不确定性的应对。
-
-<a id="l004"></a>
-
-## L004 · Assertiveness
-
-- 发布方：Centre for Clinical Interventions, WA Health
-- 页面：[Assertiveness](https://www.cci.health.wa.gov.au/Resources/Looking-After-Yourself/Assertiveness)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：清楚直接而尊重地表达需求，学习拒绝及处理冲突。
-
-<a id="l005"></a>
-
-## L005 · Relaxation
-
-- 发布方：Healthdirect Australia
-- 页面：[Relaxation](https://www.healthdirect.gov.au/relaxation)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：呼吸、正念及日常放松可作为应对压力方法；持续困扰应求助。
-
-<a id="l006"></a>
-
-## L006 · Mental health crisis support
-
-- 发布方：Healthdirect Australia
-- 页面：[Mental health crisis support](https://www.healthdirect.gov.au/mental-health-crisis-support)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：即时危险拨000；Lifeline和NSW Mental Health Line；协助时保护自己安全。
-
-<a id="l007"></a>
-
-## L007 · What to do if you've been scammed
-
-- 发布方：National Anti-Scam Centre / ACCC
-- 页面：[What to do if you've been scammed](https://www.scamwatch.gov.au/stop-check-protect/what-to-do-if-youve-been-scammed)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：先通知银行停止交易，保护身份、举报并警惕二次追款诈骗。
-
-<a id="l008"></a>
-
-## L008 · Police powers
-
-- 发布方：Legal Aid NSW
-- 页面：[Police powers](https://www.legalaid.nsw.gov.au/ways-to-get-help/publications-and-resources/police-powers)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：警察接触、身份资料及沉默权有例外；尽快法律咨询，勿妨碍执法。
-
-<a id="l009"></a>
-
-## L009 · Health, sex and the law
-
-- 发布方：Legal Aid NSW
-- 页面：[Health, sex and the law](https://www.legalaid.nsw.gov.au/my-problem-is-about/my-right-as-a/young-person/health--sex-and-the-law)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：NSW同意年龄16，特殊照护关系另有规则；未满18岁性影像法律另计。
-
-<a id="l010"></a>
-
-## L010 · Crash reporting FAQs
-
-- 发布方：NSW Police Force
-- 页面：[Crash reporting FAQs](https://www.police.nsw.gov.au/safety_and_prevention/crime_prevention/road_safety/crash_reporting_faqs)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：事故停车、交换资料；伤亡、醉酒、拒绝交换、危险及拖车事故报告要求不同。
-
-<a id="l011"></a>
-
-## L011 · De facto relationships
-
-- 发布方：Federal Circuit and Family Court of Australia
-- 页面：[De facto relationships](https://www.fcfcoa.gov.au/fl/pubs/defacto)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：事实伴侣财产程序的关系及管辖门槛，通常分手后2年内申请。
-
-<a id="l012"></a>
-
-## L012 · Financial agreements
-
-- 发布方：Federal Circuit and Family Court of Australia
-- 页面：[Financial agreements](https://www.fcfcoa.gov.au/fl/fp/financial-agreements)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：婚姻和事实伴侣财务协议适用阶段，双方独立法律意见及可撤销条件。
-
-<a id="l013"></a>
-
-## L013 · Divorce overview
-
-- 发布方：Federal Circuit and Family Court of Australia
-- 页面：[Divorce overview](https://www.fcfcoa.gov.au/fl/divorce/divorce-overview)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：分居至少12个月，离婚不解决财产或子女；离婚生效后通常12个月内财产申请。
-
-<a id="l014"></a>
-
-## L014 · Get married
-
-- 发布方：Attorney-General's Department
-- 页面：[Get married](https://www.ag.gov.au/families-and-marriage/marriage/get-married)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：婚姻资格、授权证婚人、提前1至18个月NOIM及身份证明、见证程序。
-
-<a id="l015"></a>
-
-## L015 · Coercive control and the law
-
-- 发布方：NSW Government
-- 页面：[Coercive control and the law](https://www.nsw.gov.au/family-and-relationships/coercive-control/law)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：2024年7月起NSW亲密伴侣强制控制罪适用边界及家庭暴力支援。
-
-<a id="l016"></a>
-
-## L016 · Rental Bonds Online for tenants
-
-- 发布方：NSW Fair Trading
-- 页面：[Rental Bonds Online for tenants](https://www.nsw.gov.au/housing-and-construction/renting-a-place-to-live/residential-rental-bonds/rental-bonds-online-for-tenants)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：最多4周押金，房东/中介须先提供RBO选项，可用纸本替代。
-
-<a id="l017"></a>
-
-## L017 · Getting repairs done
-
-- 发布方：NSW Fair Trading
-- 页面：[Getting repairs done](https://www.nsw.gov.au/housing-and-construction/renting-a-place-to-live/getting-repairs-done)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：书面报修，紧急修理垫付条件、上限及追偿；不可自行停租，投诉及NCAT。
-
-<a id="l018"></a>
-
-## L018 · Eviction of a tenant from a rental property
-
-- 发布方：NSW Fair Trading
-- 页面：[Eviction of a tenant from a rental property](https://www.nsw.gov.au/housing-and-construction/rules/eviction-of-a-tenant-from-a-rental-property)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：合法通知及NCAT程序，只有Sheriff执行驱逐令；禁止房东换锁赶人。
-
-<a id="l019"></a>
-
-## L019 · Minimum standards for rental properties
-
-- 发布方：NSW Fair Trading
-- 页面：[Minimum standards for rental properties](https://www.nsw.gov.au/housing-and-construction/rules/minimum-standards-for-rental-properties)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：结构、通风采光、水电、排水及浴室隐私等出租房最低标准。
-
-<a id="l020"></a>
-
-## L020 · Getting your bond back
-
-- 发布方：NSW Fair Trading
-- 页面：[Getting your bond back](https://www.nsw.gov.au/housing-and-construction/renting-a-place-to-live/getting-your-bond-back)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：退租比较初始状况、正常损耗、交钥匙；RBO申退及异议期限。
-
-<a id="l021"></a>
-
-## L021 · Giving notice to end a residential tenancy
-
-- 发布方：NSW Fair Trading
-- 页面：[Giving notice to end a residential tenancy](https://www.nsw.gov.au/housing-and-construction/rules/giving-notice-to-end-a-residential-tenancy)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：通知须符合理由、内容、送达和期限；出售并不允许当场强制搬离。
-
-<a id="l022"></a>
-
-## L022 · Contracts and deposits when buying property in NSW
-
-- 发布方：NSW Fair Trading
-- 页面：[Contracts and deposits when buying property in NSW](https://www.nsw.gov.au/housing-and-construction/buying-and-selling-property/buying-property-nsw/contracts-and-deposits)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：律师/持牌conveyancer审合同，交换合同、冷静期例外与电子交割。
-
-<a id="l023"></a>
-
-## L023 · Enduring Guardianship
-
-- 发布方：NSW Trustee and Guardian
-- 页面：[Enduring Guardianship](https://www.nsw.gov.au/family-and-relationships/planning-for-end-of-life/choose-enduring-guardian)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：失去决定能力时的医疗生活决定，委任、见证及功能限制。
-
-<a id="l024"></a>
-
-## L024 · Enduring Power of Attorney
-
-- 发布方：NSW Trustee and Guardian
-- 页面：[Enduring Power of Attorney](https://www.nsw.gov.au/family-and-relationships/planning-for-end-of-life/make-power-of-attorney)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：财务法律授权区别于监护，持续授权见证要求、分账记账，死亡时失效。
-
-<a id="l025"></a>
-
-## L025 · Learn about wills
-
-- 发布方：NSW Trustee and Guardian
-- 页面：[Learn about wills](https://www.nsw.gov.au/family-and-relationships/planning-for-end-of-life/learn-about-wills)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：遗嘱基本形式、执行人、未成年子女安排、境外资产和不一定进入遗产的super/联名资产。
-
-<a id="l026"></a>
-
-## L026 · Advance Care Planning
-
-- 发布方：NSW Health
-- 页面：[Advance Care Planning](https://www.health.nsw.gov.au/patients/acp/Pages/default.aspx)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：有决定能力本人作出的有效ACD与非强制ACP区别；遗嘱或财务授权不替代医疗安排。
-
-<a id="l027"></a>
-
-## L027 · Financial abuse
-
-- 发布方：NSW Ageing and Disability Commission
-- 页面：[Financial abuse](https://ageingdisabilitycommission.nsw.gov.au/tools-and-resources/for-the-community/what-is-abuse-and-neglect/financial-abuse.html)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：老人掌控财务的权利、滥用授权等迹象、保管PIN和独立意见、举报热线。
-
-<a id="l028"></a>
-
-## L028 · Reverse mortgage and home equity release
-
-- 发布方：ASIC Moneysmart
-- 页面：[Reverse mortgage and home equity release](https://moneysmart.gov.au/retirement-income-sources/reverse-mortgage-and-home-equity-release)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：房屋净值贷款的复利和住房、福利、养老影响，比较方案并寻求独立建议。
-
-<a id="l029"></a>
-
-## L029 · Should I apply?
-
-- 发布方：My Aged Care
-- 页面：[Should I apply?](https://www.myagedcare.gov.au/should-i-apply)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：通常65岁及照护需要，特定群体50岁门槛，申请评估及紧急喘息服务入口。
-
-<a id="l030"></a>
-
-## L030 · Support at Home costs and contributions
-
-- 发布方：My Aged Care
-- 页面：[Support at Home costs and contributions](https://www.myagedcare.gov.au/support-at-home-costs-and-contributions)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：预算由需求评估决定，自付与服务、收入资产及过渡安排相关；可比较提供者价格及费用估算。
-
-<a id="l031"></a>
-
-## L031 · First steps after a death
-
-- 发布方：NSW Government
-- 页面：[First steps after a death](https://www.nsw.gov.au/family-and-relationships/deaths/after-a-death/first-steps)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：联系医疗团队、找遗嘱、照顾依赖者、比较殡葬及悲伤支持。
-
-<a id="l032"></a>
-
-## L032 · Death certificates
-
-- 发布方：NSW Registry of Births, Deaths & Marriages
-- 页面：[Death certificates](https://www.nsw.gov.au/family-and-relationships/deaths/death-certificates)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：通常殡葬承办人登记并申领，埋葬/火化后7日内登记，证书申请资格及资料。
-
-<a id="l033"></a>
-
-## L033 · How much funerals cost
-
-- 发布方：NSW Government
-- 页面：[How much funerals cost](https://www.nsw.gov.au/family-and-relationships/deaths/after-a-death/organise-a-funeral-or-memorial-service/how-much-funerals-cost)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：基本殡葬书面报价和分项比较，无仪式选项及费用构成。
-
-<a id="l034"></a>
-
-## L034 · Acting as an executor
-
-- 发布方：NSW Trustee and Guardian
-- 页面：[Acting as an executor](https://www.nsw.gov.au/family-and-relationships/deaths/after-a-death/will-and-deceased-estate/guide-for-executors)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：执行人/管理人区别，清查保护资产债务及遗产程序责任。
-
-<a id="l035"></a>
-
-## L035 · Cancel or transfer services
-
-- 发布方：NSW Government
-- 页面：[Cancel or transfer services](https://www.nsw.gov.au/family-and-relationships/deaths/after-a-death/cancel-or-transfer-services)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：逐机构通知死亡，ADNS仅覆盖参与机构，数字和水电账户各有程序。
-
-<a id="l036"></a>
-
-## L036 · Consular Services Charter
-
-- 发布方：Department of Foreign Affairs and Trade
-- 页面：[Consular Services Charter](https://www.smartraveller.gov.au/our-role/consular-services-charter)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：公民常规领保与PR海外危机协助区别；双重国籍限制、领保可做及不能做、紧急电话。
-
-<a id="l037"></a>
-
-## L037 · Travel insurance
-
-- 发布方：Smartraveller / DFAT
-- 页面：[Travel insurance](https://www.smartraveller.gov.au/insurance)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：比较PDS、既往病史、目的地、活动与信用卡激活条件；政府不支付海外医疗账单。
-
-<a id="l038"></a>
-
-## L038 · Permanent resident
-
-- 发布方：Department of Home Affairs
-- 页面：[Permanent resident](https://immi.homeaffairs.gov.au/pr/Pages/Overview.aspx)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：PR境内永久居留与出境后再入境旅行权限不同，旅行权限必须有效。
-
-<a id="l039"></a>
-
-## L039 · Road safety
-
-- 发布方：Smartraveller / DFAT
-- 页面：[Road safety](https://www.smartraveller.gov.au/th/road-safety)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：海外驾驶需当地认可驾照及可能的IDP，租车保险、excess与当地交通规则。
-
-<a id="l040"></a>
-
-## L040 · Tapping on and tapping off
-
-- 发布方：Transport for NSW
-- 页面：[Tapping on and tapping off](https://transportnsw.info/tickets-fares/fares/tapping-on-tapping-off)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：同一支付工具完成旅程和累计优惠、到封顶仍须刷卡，F1渡轮例外及费用更正。
-
-<a id="l041"></a>
-
-## L041 · Contactless concessions
-
-- 发布方：Transport for NSW
-- 页面：[Contactless concessions](https://transportnsw.info/tickets-fares/contactless-payments/contactless-concessions)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：多数优惠资格可绑定银行卡或设备，须核资格并在优惠Opal和contactless之间选择。
-
-<a id="l042"></a>
-
-## L042 · Transfer an overseas driver licence
-
-- 发布方：Service NSW
-- 页面：[Transfer an overseas driver licence](https://www.service.nsw.gov.au/transaction/transfer-an-overseas-driver-licence)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：公民/PR海外驾照3个月内换NSW驾照，考试及指定翻译机构要求。
-
-<a id="l043"></a>
-
-## L043 · Drone safety rules
-
-- 发布方：Civil Aviation Safety Authority
-- 页面：[Drone safety rules](https://www.casa.gov.au/drones/drone-rules/drone-safety-rules)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：娱乐飞行一般不需注册；商业不同；安全规则、空域APP及公园/土地许可另核。
-
-<a id="l044"></a>
-
-## L044 · Sexual consent
-
-- 发布方：NSW Department of Communities and Justice
-- 页面：[Sexual consent](https://dcj.nsw.gov.au/children-and-families/family-domestic-and-sexual-violence/sexual-violence/sexual-consent.html)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：同意自愿持续、可撤回，不同活动需分别确认，睡眠或失去同意能力时不能同意。
-
-<a id="l045"></a>
-
-## L045 · Money mule
-
-- 发布方：AUSTRAC
-- 页面：[Money mule](https://www.austrac.gov.au/glossary/money-mule)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：钱骡代他人移动非法所得，包括银行转账、现金和虚拟资产。
-
-<a id="l046"></a>
-
-## L046 · Parental leave
-
-- 发布方：Fair Work Ombudsman
-- 页面：[Parental leave](https://www.fairwork.gov.au/language-help/english/holidays-and-taking-time-off-work/parental-leave)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：符合工龄/雇用条件的无薪育儿假、提前通知、安全工作及返岗保障；与政府支付分开。
-
-<a id="l048"></a>
-
-## L048 · How the Energy Made Easy plan search works
-
-- 发布方：Australian Energy Regulator
-- 页面：[How the Energy Made Easy plan search works](https://www.energymadeeasy.gov.au/article/how-the-energy-made-easy-plan-search-works)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：实际账单或电表数据比基准用量估算更贴近个人情况；比较用量费、固定费、条件折扣及计价方式。
-
-<a id="l049"></a>
-
-## L049 · Find your local council
-
-- 发布方：NSW Office of Local Government
-- 页面：[Find your local council](https://www.olg.nsw.gov.au/public/find-your-local-council)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：按实际地址查询所属Council及联系资料，服务应向所属地方政府核实。
-
-<a id="l050"></a>
-
-## L050 · Join the library
-
-- 发布方：City of Sydney
-- 页面：[Join the library](https://www.cityofsydney.nsw.gov.au/library-information-services/join-the-library)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：免费会员、NSW住址证明、访客会员及数字借阅；到馆使用空间不必先办卡，特定上门服务有LGA限制。
-
-<a id="l051"></a>
-
-## L051 · Who can get Parental Leave Pay
-
-- 发布方：Services Australia
-- 页面：[Who can get Parental Leave Pay](https://www.servicesaustralia.gov.au/who-can-get-parental-leave-pay)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：政府育儿支付涉及工作、收入、居住及照护条件，伴侣分配和各自申请；不等同雇主休假权利。
-
-<a id="l052"></a>
-
-## L052 · Who can get Child Care Subsidy
-
-- 发布方：Services Australia
-- 页面：[Who can get Child Care Subsidy](https://www.servicesaustralia.gov.au/who-can-get-child-care-subsidy)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：托育补贴涉及认可服务、照护份额、付费责任、居住及儿童条件，通常直接支付机构抵费。
-
-<a id="l053"></a>
-
-## L053 · Building and maintaining healthy relationships
-
-- 发布方：Healthdirect Australia
-- 页面：[Building and maintaining healthy relationships](https://www.healthdirect.gov.au/building-and-maintaining-healthy-relationships)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：健康关系重视尊重、安全、开放沟通、共同分工及边界；分手后支持和自我照顾；控制和虐待需帮助。
-
-<a id="l054"></a>
-
-## L054 · Think Safe to Drink Safe patron tips
-
-- 发布方：Liquor & Gaming NSW
-- 页面：[Think Safe to Drink Safe patron tips](https://www.nsw.gov.au/business-and-economy/liquor-and-gaming/liquor-licensing/resources/think-safe-to-drink-safe-toolkit/think-safe-to-drink-safe-patron-tips)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：照看饮品、规划回家方式、同行照应；疑似饮品被加料应立即找安全支持和医疗帮助。
-
-<a id="l055"></a>
-
-## L055 · Financial or property: Overview
-
-- 发布方：Federal Circuit and Family Court of Australia
-- 页面：[Financial or property: Overview](https://www.fcfcoa.gov.au/fl/fp/overview)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：财产和债务处理与离婚分开；可正式化协议，de facto门槛及申请时限需核对。
-
-<a id="l056"></a>
-
-## L056 · Dealing with sexual extortion
-
-- 发布方：eSafety Commissioner
-- 页面：[Dealing with sexual extortion](https://www.esafety.gov.au/key-topics/image-based-abuse/deal-with-sextortion)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：遭性勒索不付款、不继续发送亲密内容，停止联系、寻求信任者支持并向相关渠道报告。
-
-<a id="l057"></a>
-
-## L057 · Pets in public places and bushland
-
-- 发布方：Ku-ring-gai Council
-- 页面：[Pets in public places and bushland](https://www.krg.nsw.gov.au/Community/Pets-and-animals/Pets-in-public-places-and-bushland)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：公共场所狗绳和有效控制要求；获准不牵绳区域仍需控制，Ku-ring-gai灌木林地等地方限制须另核。
-
-<a id="l058"></a>
-
-## L058 · Frequently Asked Questions — Firearms and Ammunition
-
-- 发布方：NSW Police Force
-- 页面：[Frequently Asked Questions — Firearms and Ammunition](https://www.police.nsw.gov.au/online_services/firearms/firearms_and_ammunition/frequently_asked_questions)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：Gel Blaster在NSW属枪械且不得合法取得或持有；不能凭玩具名称或他州销售推定合法。
-
-<a id="l060"></a>
-
-## L060 · Evidence in criminal cases
-
-- 发布方：Legal Aid NSW
-- 页面：[Evidence in criminal cases](https://www.legalaid.nsw.gov.au/my-problem-is-about/a-criminal-charge/going-to-court/pleading-not-guilty/evidence)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：尽早保存照片凭据等证据；NSW秘密录私人对话可能违法且有有限例外，传播及法庭可采性另论。
-
-<a id="l061"></a>
-
-## L061 · Report adult cyber abuse
-
-- 发布方：eSafety Commissioner
-- 页面：[Report adult cyber abuse](https://www.esafety.gov.au/key-topics/adult-cyber-abuse/report-adult-cyber-abuse)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：保存URL账号截图、先报平台，严重有害且符合门槛可报eSafety；普通侮辱或声誉损失不必然符合。
-
-<a id="l062"></a>
-
-## L062 · Credit scores and credit reports
-
-- 发布方：ASIC Moneysmart
-- 页面：[Credit scores and credit reports](https://moneysmart.gov.au/managing-debt/credit-scores-and-credit-reports)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：免费报告每3个月可取得；不同征信机构记录可能不同；核查不属于自己的账户，错误可免费要求更正。
-
-<a id="l063"></a>
-
-## L063 · Reporting harm and keeping children safe
-
-- 发布方：NSW Department of Communities and Justice
-- 页面：[Reporting harm and keeping children safe](https://dcj.nsw.gov.au/children-and-families/information-for-multicultural-families-and-communities/reporting-harm-and-keeping-children-safe.html)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：有重大伤害风险可拨Child Protection Helpline 132111；需要口译可用131450；家长有确保照护安全的责任。
-
-<a id="l064"></a>
-
-## L064 · Going guarantor on a loan
-
-- 发布方：ASIC Moneysmart
-- 页面：[Going guarantor on a loan](https://moneysmart.gov.au/loans/going-guarantor-on-a-loan)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：担保可需偿还全部本金利息，抵押资产可能丧失，签前看完整合同并取得独立意见。
-
-<a id="l065"></a>
-
-## L065 · Company director fraud
-
-- 发布方：ASIC Moneysmart
-- 页面：[Company director fraud](https://moneysmart.gov.au/investment-warnings/company-director-fraud)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：董事须了解经营财务与偿债、保存记录并为公司利益行事；不能仅挂名忽视责任。
-
-<a id="l066"></a>
-
-## L066 · When a death is unexpected
-
-- 发布方：NSW Government
-- 页面：[When a death is unexpected](https://www.nsw.gov.au/family-and-relationships/deaths/after-a-death/first-steps/when-a-death-unexpected)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：意外或不明死因可转验尸官；道路、工作和暴力死亡存在各自赔偿支持入口及期限。
-
-<a id="l067"></a>
-
-## L067 · When a death is referred to the coroner
-
-- 发布方：NSW Government
-- 页面：[When a death is referred to the coroner](https://www.nsw.gov.au/family-and-relationships/deaths/after-a-death/first-steps/when-a-death-referred-to-coroner)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：突然、意外、暴力或不明死亡可转验尸官；检查调查可能延误葬礼，应等释放确认后定日期。
-
-<a id="l069"></a>
-
-## L069 · Consumer claims
-
-- 发布方：NSW Civil and Administrative Tribunal
-- 页面：[Consumer claims](https://ncat.nsw.gov.au/case-types/consumers-and-businesses/consumer-claims.html)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：消费争议受金额、时间及管辖条件限制；准备合同报价照片并正确识别对方，跨州当事人另核联邦管辖。
-
-<a id="l070"></a>
-
-## L070 · Entitlements while pregnant
-
-- 发布方：Fair Work Ombudsman
-- 页面：[Entitlements while pregnant](https://www.fairwork.gov.au/leave/parental-leave/before-parental-leave/entitlements-while-pregnant)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：不得因怀孕解雇降职或区别待遇；孕期安全岗位和no safe job leave的资格、证据及支付条件。
-
-<a id="l071"></a>
-
-## L071 · How do I find a registered migration agent?
-
-- 发布方：Office of the Migration Agents Registration Authority
-- 页面：[How do I find a registered migration agent?](https://portal.mara.gov.au/enquiry/knowledgebase/article/KA-01003/en-us)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：通过官方名册按姓名或MARN查询注册移民代理，核对个人和业务详情；不是凭公司广告认定。
-
-<a id="l072"></a>
-
-## L072 · Scams that affect travellers
-
-- 发布方：Department of Foreign Affairs and Trade — Smartraveller
-- 页面：[Scams that affect travellers](https://www.smartraveller.gov.au/th/scams)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：旅行中的签证、收费及代带包裹骗局；不凭不明中介或友善陌生人的说法办理手续。
-
-<a id="l073"></a>
-
-## L073 · Lost or damaged property overseas
-
-- 发布方：Department of Foreign Affairs and Trade — Smartraveller
-- 页面：[Lost or damaged property overseas](https://www.smartraveller.gov.au/id/node/29)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：澳洲护照海外遗失时联系使领馆或领事紧急中心；证件、银行卡等损失要及时处理。
-
-<a id="l074"></a>
-
-## L074 · Reducing the risk of theft while travelling overseas
-
-- 发布方：Department of Foreign Affairs and Trade — Smartraveller
-- 页面：[Reducing the risk of theft while travelling overseas](https://www.smartraveller.gov.au/vi/node/344)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：被盗先保障安全和健康、联系银行与本国证件机关，按当地规则报告并保留保险索赔证据。
-
-<a id="l075"></a>
-
-## L075 · Preparing for a death at home
-
-- 发布方：Healthdirect Australia
-- 页面：[Preparing for a death at home](https://www.healthdirect.gov.au/preparing-for-a-death-at-home)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：预期居家死亡按医生或姑息团队安排；意外死亡急救联系，死亡确认及医学死因文件与注册死亡证明不同。
-
-<a id="l076"></a>
-
-## L076 · Fire Safety Compliance Unit
-
-- 发布方：Fire and Rescue NSW
-- 页面：[Fire Safety Compliance Unit](https://www.fire.nsw.gov.au/fire-safety/building-fire-safety/about-the-fire-safety-branch/fire-safety-compliance-unit)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：调查娱乐场所及共享住宿等消防隐患，并提供消防安全投诉入口，通常与所属Council协作。
-
-<a id="l077"></a>
-
-## L077 · Small business fire safety
-
-- 发布方：Fire and Rescue NSW
-- 页面：[Small business fire safety](https://www.fire.nsw.gov.au/fire-safety/workplace-fire-safety/topics/small-business-fire-safety)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：紧急出口应解锁且不被堵塞，场所应有疏散计划；火灾紧急情况拨000。
-
-<a id="s001"></a>
-
-## S001 · Access your myGov account
-
-- 发布方：Service NSW
-- 页面：[Access your myGov account](https://www.service.nsw.gov.au/transaction/access-your-mygov-account)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：联邦 myGov 与 MyServiceNSW 为不同办事入口；账户可连接的服务示例。
-
-<a id="s002"></a>
-
-## S002 · How to create a MyServiceNSW Account
-
-- 发布方：Service NSW
-- 页面：[How to create a MyServiceNSW Account](https://www.service.nsw.gov.au/services/myservicensw-account/how-to-create-an-account)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：私人邮箱、多重验证、个人专用账户与创建后的服务和通知设置。
-
-<a id="s003"></a>
-
-## S003 · Link services to your account
-
-- 发布方：myGov / Services Australia
-- 页面：[Link services to your account](https://my.gov.au/en/about/help/mygov-website/link-services-to-your-account)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：myGov 可连接 Medicare、Centrelink、ATO 等服务，连接是独立步骤。
-
-<a id="s004"></a>
-
-## S004 · Enrol to vote
-
-- 发布方：Australian Electoral Commission
-- 页面：[Enrol to vote](https://www.aec.gov.au/enrol/)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：一般登记资格、义务、可接受身份证明及无固定住址、保密选民等特殊登记路径。
-
-<a id="s005"></a>
-
-## S005 · Book a free pick-up for bulky items
-
-- 发布方：City of Sydney
-- 页面：[Book a free pick-up for bulky items](https://www.cityofsydney.nsw.gov.au/waste-recycling-services/book-pick-up-for-bulky-items)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：当地住宅免费清运资格、楼宇预约安排、物品分类、排除物品及非法倾倒边界。
-
-<a id="s006"></a>
-
-## S006 · Help using TIS National
-
-- 发布方：Department of Home Affairs / TIS National
-- 页面：[Help using TIS National](https://www.tisnational.gov.au/Non-English-speakers/Help-using-TIS-National)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：接收机构办公时间、优先使用专用口译入口、免费服务适用群体与私人付费情形。
-
-<a id="w001"></a>
-
-## W001 · Budget planner
-
-- 发布方：ASIC Moneysmart
-- 页面：[Budget planner](https://moneysmart.gov.au/budgeting/budget-planner)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：按实际收支和正确频率编制、复核预算，工具结果取决于输入。
-
-<a id="w002"></a>
-
-## W002 · Direct debits
-
-- 发布方：ASIC Moneysmart
-- 页面：[Direct debits](https://moneysmart.gov.au/banking/direct-debits)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：定期扣款的核对和取消途径；取消扣款并不取消合同或已有债务。
-
-<a id="w003"></a>
-
-## W003 · Pay off your credit card
-
-- 发布方：ASIC Moneysmart
-- 页面：[Pay off your credit card](https://moneysmart.gov.au/credit-cards/pay-off-your-credit-card)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：预算内提高还款、避免新增消费、利用还款计算器比较清偿时间；困难时联系贷款方。
-
-<a id="w004"></a>
-
-## W004 · Financial hardship
-
-- 发布方：ASIC Moneysmart
-- 页面：[Financial hardship](https://moneysmart.gov.au/managing-debt/financial-hardship)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：贷款机构须考虑困难援助请求；准备收支与可负担还款；National Debt Helpline 提供免费保密辅导。
-
-<a id="w005"></a>
-
-## W005 · Consumer rights and guarantees
-
-- 发布方：Australian Competition and Consumer Commission (ACCC)
-- 页面：[Consumer rights and guarantees](https://www.accc.gov.au/consumers/buying-products-and-services/consumer-rights-and-guarantees)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：消费者保证自动适用且不能被商家排除，质量、耐用性和安全要求不等于额外商业保修。
-
-<a id="w006"></a>
-
-## W006 · Repair, replace, refund, cancel
-
-- 发布方：ACCC
-- 页面：[Repair, replace, refund, cancel](https://www.accc.gov.au/consumers/problem-with-a-product-or-service-you-bought/repair-replace-refund-cancel)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：重大与一般问题的救济不同；单纯改变主意通常没有法定退货权，商家另行承诺的政策另论。
-
-<a id="w007"></a>
-
-## W007 · Diversification
-
-- 发布方：ASIC Moneysmart
-- 页面：[Diversification](https://moneysmart.gov.au/how-to-invest/diversification)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：资产类别、行业和地区分散可降低集中风险，但不能消除投资损失；基金名称本身不保证分散。
-
-<a id="w008"></a>
-
-## W008 · Choosing a managed fund
-
-- 发布方：ASIC Moneysmart
-- 页面：[Choosing a managed fund](https://moneysmart.gov.au/managed-funds-and-etfs/choosing-a-managed-fund)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：选择基金要看目标、风险、期限、PDS、费用及赎回限制；过往业绩不保证未来表现。
-
-<a id="w009"></a>
-
-## W009 · Borrowing to invest
-
-- 发布方：ASIC Moneysmart
-- 页面：[Borrowing to invest](https://moneysmart.gov.au/how-to-invest/borrowing-to-invest)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：杠杆扩大损失且借款仍须偿还；保证金追缴、被迫卖出及以住房担保的风险。
-
-<a id="w010"></a>
-
-## W010 · Getting your super
-
-- 发布方：ASIC Moneysmart
-- 页面：[Getting your super](https://moneysmart.gov.au/how-super-works/getting-your-super)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：Super 受领取条件限制；退休、年龄及停止工作条件须按个案核对。
-
-<a id="w011"></a>
-
-## W011 · When you can access your super early
-
-- 发布方：ASIC Moneysmart
-- 页面：[When you can access your super early](https://moneysmart.gov.au/how-super-works/when-you-can-access-your-super-early)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：提前领取仅有特定困难、医疗等途径；审核机关和证据不同；FHSS 针对合资格自愿供款。
-
-<a id="w012"></a>
-
-## W012 · Mortgage offset accounts
-
-- 发布方：ASIC Moneysmart
-- 页面：[Mortgage offset accounts](https://moneysmart.gov.au/home-loans/mortgage-offset-accounts)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：Offset 按余额减少计息基础，须比较利率、费用及取款需要，并区别 redraw。
-
-<a id="w013"></a>
-
-## W013 · Choosing car insurance
-
-- 发布方：ASIC Moneysmart
-- 页面：[Choosing car insurance](https://moneysmart.gov.au/car-insurance/choosing-car-insurance)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：CTP 涉及人身伤害，不覆盖车辆等财产损失；第三者财产与综合车险的范围不同。
-
-<a id="w014"></a>
-
-## W014 · How life insurance works
-
-- 发布方：ASIC Moneysmart
-- 页面：[How life insurance works](https://moneysmart.gov.au/how-life-insurance-works)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：寿险、TPD、重大疾病及收入保障不同；核查 Super 已有保险、PDS、等待期、保费与除外事项。
-
-<a id="w015"></a>
-
-## W015 · GambleAware NSW
-
-- 发布方：NSW Government – GambleAware
-- 页面：[GambleAware NSW](https://www.gambleaware.nsw.gov.au/)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：赌博问题可获免费保密支持，服务也面向家人；热线与中文资源。
-
-<a id="w016"></a>
-
-## W016 · What to do if you've been scammed
-
-- 发布方：National Anti-Scam Centre – Scamwatch
-- 页面：[What to do if you've been scammed](https://www.scamwatch.gov.au/stop-check-protect/what-to-do-if-youve-been-scammed)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：受骗后立即联系银行、停止付款、保护身份并报告；警惕追款骗局，报告不保证追回资金。
-
-<a id="w017"></a>
-
-## W017 · Lodging a tax return
-
-- 发布方：ASIC Moneysmart
-- 页面：[Lodging a tax return](https://moneysmart.gov.au/work-and-tax/lodging-a-tax-return)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：myTax 与报税记录、预填资料核对、工作相关支出扣除条件和私人部分排除。
-
-<a id="w018"></a>
-
-## W018 · Who can get JobSeeker Payment
-
-- 发布方：Services Australia
-- 页面：[Who can get JobSeeker Payment](https://www.servicesaustralia.gov.au/who-can-get-jobseeker-payment?context=51411)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：年龄、居住、收入及资产条件；部分工时减少或暂时不能工作者也可能符合。
-
-<a id="w019"></a>
-
-## W019 · When you'll get your first JobSeeker payment
-
-- 发布方：Services Australia
-- 页面：[When you'll get your first JobSeeker payment](https://www.servicesaustralia.gov.au/when-youll-get-your-first-jobseeker-payment?context=51411)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：首笔付款取决于申请任务及等待期；流动资产、离职款、新居民等可能影响开始时间。
-
-<a id="w020"></a>
-
-## W020 · Newly arrived resident's waiting period
-
-- 发布方：Services Australia
-- 页面：[Newly arrived resident's waiting period](https://www.servicesaustralia.gov.au/newly-arrived-residents-waiting-period?context=51411)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：等待期因福利、签证及获批时间而异；较新的 PR 对 JobSeeker 等通常面临四年等待期，境外时间等有规则。
-
-<a id="w021"></a>
-
-## W021 · Crisis Payment
-
-- 发布方：Services Australia
-- 页面：[Crisis Payment](https://www.servicesaustralia.gov.au/crisis-payment)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：一次性危机付款只适用于规定极端情况和严重经济困难，并非所有失业或缺钱者均可领。
-
-<a id="w022"></a>
-
-## W022 · Who can get a Low Income Health Care Card
-
-- 发布方：Services Australia
-- 页面：[Who can get a Low Income Health Care Card](https://www.servicesaustralia.gov.au/who-can-get-low-income-health-care-card?context=21986)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：低收入医保优惠卡有收入和居住条件，但没有资产测试；与 JobSeeker 申请不完全相同。
-
-<a id="w023"></a>
-
-## W023 · Benefits of a Low Income Health Care Card
-
-- 发布方：Services Australia
-- 页面：[Benefits of a Low Income Health Care Card](https://www.servicesaustralia.gov.au/benefits-low-income-health-care-card?context=21986)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：PBS 等优惠，医生可自行决定 bulk billing，州及地方优惠需分别核对。
-
-<a id="w024"></a>
-
-## W024 · Enrolling in Medicare
-
-- 发布方：Services Australia
-- 页面：[Enrolling in Medicare](https://www.servicesaustralia.gov.au/enrolling-medicare)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：住在澳洲的公民和 PR 可按规定登记 Medicare；申请须在澳洲并准备身份和签证等材料。
-
-<a id="w025"></a>
-
-## W025 · Before claiming Disability Support Pension
-
-- 发布方：Services Australia
-- 页面：[Before claiming Disability Support Pension](https://www.servicesaustralia.gov.au/before-claiming-disability-support-pension?context=22276)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：DSP 同时审核医学和非医学条件，包括年龄、居住、本人及伴侣收入资产，不能凭诊断自动获批。
-
-<a id="w026"></a>
-
-## W026 · Homelessness
-
-- 发布方：NSW Government
-- 页面：[Homelessness](https://www.nsw.gov.au/housing-and-construction/social-affordable/emergency-housing/homelessness)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：Link2home 全天提供信息，住宿和支持转介在每天 9:00–22:00；Ask Izzy 查食物等援助。
-
-<a id="w027"></a>
-
-## W027 · Legal advice
-
-- 发布方：Legal Aid NSW
-- 页面：[Legal advice](https://www.legalaid.nsw.gov.au/ways-to-get-help/legal-advice)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：LawAccess NSW 免费法律信息与转介；具体法律意见和代理有资格和资源限制。
-
-<a id="w028"></a>
-
-## W028 · Workforce Australia employment services
-
-- 发布方：Department of Employment and Workplace Relations
-- 页面：[Workforce Australia employment services](https://www.dewr.gov.au/workforce-australia-employment-services)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：线上及服务商就业支持、技能培训与可能的入职支持；服务范围不仅限于领收入补助者，项目资格分别评估。
-
-<a id="w029"></a>
-
-## W029 · Consequences of bankruptcy
-
-- 发布方：Australian Financial Security Authority (AFSA)
-- 页面：[Consequences of bankruptcy](https://www.afsa.gov.au/i-cant-pay-my-debts/bankruptcy/consequences-bankruptcy)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：破产不能清除所有债务，可影响资产、收入、职业、出境和永久登记；应先获财务辅导。
-
-<a id="w030"></a>
-
-## W030 · Minimum wages
-
-- 发布方：Fair Work Ombudsman (FWO)
-- 页面：[Minimum wages](https://www.fairwork.gov.au/pay-and-wages/minimum-wages)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：最低工资取决于 award、分类、协议及学徒、年龄等因素；PACT 可核查工资、加班及津贴。
-
-<a id="w031"></a>
-
-## W031 · Pay, entitlements and working conditions
-
-- 发布方：FWO
-- 页面：[Pay, entitlements and working conditions](https://www.fairwork.gov.au/find-help-for/young-workers-and-students/pay-entitlements-and-working-conditions)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：雇员、casual、承包者和学徒类型的基本差别；有 ABN 不自动等于承包者。
-
-<a id="w032"></a>
-
-## W032 · Independent contractors
-
-- 发布方：FWO
-- 页面：[Independent contractors](https://www.fairwork.gov.au/find-help-for/independent-contractors)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：雇员或承包者看适用法律测试和实际关系；仅凭合同称呼或 ABN 不够。
-
-<a id="w033"></a>
-
-## W033 · Annual leave
-
-- 发布方：FWO
-- 页面：[Annual leave](https://www.fairwork.gov.au/leave/annual-leave)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：非 casual 雇员通常按普通工时累计四周年假，部分轮班工更多；兼职按工时，试用期也累计。
-
-<a id="w034"></a>
-
-## W034 · Probation
-
-- 发布方：FWO
-- 页面：[Probation](https://www.fairwork.gov.au/starting-employment/probation)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：试用期不剥夺工资及非 casual 雇员的休假、通知和未休年假结算权利。
-
-<a id="w035"></a>
-
-## W035 · Final pay
-
-- 发布方：FWO
-- 页面：[Final pay](https://www.fairwork.gov.au/ending-employment/final-pay)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：最终工资含未付工资和适用的年假等，通知、裁员及长服务假视条件；病假通常不折现。
-
-<a id="w036"></a>
-
-## W036 · Redundancy pay and entitlements
-
-- 发布方：FWO
-- 页面：[Redundancy pay and entitlements](https://www.fairwork.gov.au/ending-employment/redundancy/redundancy-pay-and-entitlements)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：裁员款有服务年限、企业规模等资格和例外，通知期与裁员补偿为不同项目。
-
-<a id="w037"></a>
-
-## W037 · Difference between the Fair Work Ombudsman and the Fair Work Commission
-
-- 发布方：FWO
-- 页面：[Difference between the Fair Work Ombudsman and the Fair Work Commission](https://www.fairwork.gov.au/about-us/our-role-and-purpose/difference-fair-work-ombudsman-and-fair-work-commission)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：FWO 负责工资权益教育及合规执法，FWC 处理不公平解雇等特定争议；机构职能不可混用。
-
-<a id="w038"></a>
-
-## W038 · Overview of unfair dismissal
-
-- 发布方：Fair Work Commission (FWC)
-- 页面：[Overview of unfair dismissal](https://www.fwc.gov.au/overview-unfair-dismissal)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：不公平解雇申请通常须在解雇生效后 21 天内提出，且有雇员、覆盖、收入/award 及真实裁员等资格限制。
-
-<a id="w039"></a>
-
-## W039 · What is the minimum period of employment?
-
-- 发布方：FWC
-- 页面：[What is the minimum period of employment?](https://www.fwc.gov.au/what-minimum-period-employment)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：不公平解雇最低服务期一般为六个月，小企业十二个月；部分规律 casual 服务可计入。
-
-<a id="w040"></a>
-
-## W040 · Worker obligations
-
-- 发布方：SafeWork NSW
-- 页面：[Worker obligations](https://www.safework.nsw.gov.au/legal-obligations/worker-obligations)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：工人有培训、防护与安全工作权利，也须合理注意安全和报告危险；不安全工作可停止并提出问题。
-
-<a id="w041"></a>
-
-## W041 · What to do after an injury
-
-- 发布方：State Insurance Regulatory Authority (SIRA)
-- 页面：[What to do after an injury](https://www.sira.nsw.gov.au/workers-compensation/what-to-do-after-an-injury)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：及时治疗、通知雇主、联系保险人和取得能力证明；雇主未投保仍有特殊申索途径。
-
-<a id="w042"></a>
-
-## W042 · For workers with an injury
-
-- 发布方：SIRA
-- 页面：[For workers with an injury](https://www.sira.nsw.gov.au/workers-compensation/workers-compensation-reforms/for-workers-with-an-injury)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：2026-07-01 起 NSW 改革：心理伤害相关事件及复核要求、永久损伤评估次数和过渡期独立法律意见、死亡索赔变化；按伤害及申报日期区分。
-
-<a id="w043"></a>
-
-## W043 · Work break and journey claims
-
-- 发布方：SIRA
-- 页面：[Work break and journey claims](https://www.sira.nsw.gov.au/workers-compensation/what-you-can-claim/work-break-and-journey-claims)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：上下班途中索赔须符合工作与事故的真实重大关联等条件，不能把所有通勤事故视为工伤。
-
-<a id="w044"></a>
-
-## W044 · Apply for unfair deactivation (Form F89)
-
-- 发布方：FWC
-- 页面：[Apply for unfair deactivation (Form F89)](https://www.fwc.gov.au/job-loss-or-dismissal/unfair-deactivation-or-termination-regulated-workers/unfair-deactivation-0)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：部分 employee-like 平台工作者可申请不公平停号救济，须满足服务等条件及 21 天时限。
-
-<a id="w045"></a>
-
-## W045 · Easy steps to secure yourself online
-
-- 发布方：Australian Signals Directorate – Australian Cyber Security Centre (ACSC)
-- 页面：[Easy steps to secure yourself online](https://www.cyber.gov.au/protect-yourself/easy-steps-secure-yourself-online)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：更新、MFA、独立长口令和密码管理器、备份、独立核实可疑联系及网络事件报告。
-
-<a id="w046"></a>
-
-## W046 · Secure your mobile phone
-
-- 发布方：ACSC
-- 页面：[Secure your mobile phone](https://www.cyber.gov.au/protect-yourself/securing-your-devices/how-secure-your-devices/secure-your-mobile-phone)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：锁屏、更新、备份、远程定位锁定/擦除、审查权限与移除不用应用等手机保护措施。
-
-<a id="w047"></a>
-
-## W047 · Unauthorised and mistaken transactions
-
-- 发布方：ASIC Moneysmart
-- 页面：[Unauthorised and mistaken transactions](https://moneysmart.gov.au/banking/unauthorised-and-mistaken-transactions)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：未经授权和转错款须尽快报告银行；ePayments Code 下的责任视情形而定，迟报或泄露安全信息可能影响处理。
-
-<a id="w048"></a>
-
-## W048 · Correct your personal information
-
-- 发布方：Office of the Australian Information Commissioner (OAIC)
-- 页面：[Correct your personal information](https://www.oaic.gov.au/privacy/your-privacy-rights/your-personal-information/correct-your-personal-information)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：APP 覆盖机构须处理更正请求，拒绝时说明理由和投诉途径；法定保存义务限制删除。
-
-<a id="w049"></a>
-
-## W049 · Facial recognition technology: a guide to assessing the privacy risks
-
-- 发布方：OAIC
-- 页面：[Facial recognition technology: a guide to assessing the privacy risks](https://www.oaic.gov.au/privacy/privacy-guidance-for-organisations-and-government-agencies/organisations/facial-recognition-technology-a-guide-to-assessing-the-privacy-risks)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：人脸识别涉及敏感生物信息、必要性和同意及例外；2026 年更新明确须结合具体法律和情境判断。
-
-<a id="w050"></a>
-
-## W050 · Read the Australian Privacy Principles
-
-- 发布方：OAIC
-- 页面：[Read the Australian Privacy Principles](https://www.oaic.gov.au/privacy/australian-privacy-principles/read-the-australian-privacy-principles)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：APP 涵盖必要收集、告知、用途、安全、访问更正及境外披露合理措施；匿名权和删除均有法定例外。
-
-<a id="w051"></a>
-
-## W051 · Small business
-
-- 发布方：OAIC
-- 页面：[Small business](https://www.oaic.gov.au/privacy/privacy-guidance-for-organisations-and-government-agencies/organisations/small-business)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：多数小企业豁免有营业额和活动边界；医疗、个人信息交易等例外可能使小企业仍受 Privacy Act 约束。
-
-<a id="w052"></a>
-
-## W052 · Business Registration Service
-
-- 发布方：Australian Government
-- 页面：[Business Registration Service](https://register.business.gov.au/)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：官方一站式 ABN、企业名称、公司及税务登记入口；ABN 申请免费，其他登记可能收费。
-
-<a id="w053"></a>
-
-## W053 · Tax registration for your business
-
-- 发布方：business.gov.au
-- 页面：[Tax registration for your business](https://business.gov.au/registrations/register-for-taxes/tax-registration-for-your-business)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：GST 门槛通常按营业额而非利润，接送乘客等业务有特殊要求；TFN、ABN、PAYG 等登记须按业务核对。
-
-<a id="w054"></a>
-
-## W054 · Register licences and permits
-
-- 发布方：business.gov.au
-- 页面：[Register licences and permits](https://business.gov.au/Registrations/Register-licences-and-permits)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：许可依业务、地点与政府层级而异，使用 ABLIS 查联邦、州和地方审批。
-
-<a id="w055"></a>
-
-## W055 · Business structures
-
-- 发布方：business.gov.au
-- 页面：[Business structures](https://business.gov.au/planning/business-structures-and-types/business-structures)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：独资、合伙、公司、信托在法律身份和责任上不同，选择结构须结合风险和管理成本。
-
-<a id="w056"></a>
-
-## W056 · Becoming a company director
-
-- 发布方：Australian Securities and Investments Commission (ASIC)
-- 页面：[Becoming a company director](https://www.asic.gov.au/for-business-and-companies/small-business-director-essentials/becoming-a-company-director)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：挂名董事仍承担法定职责，董事须关注财务及偿债能力；个人担保可使个人财产承担风险。
-
-<a id="w057"></a>
-
-## W057 · Before you sign a franchise agreement and buy the franchise
-
-- 发布方：ACCC
-- 页面：[Before you sign a franchise agreement and buy the franchise](https://www.accc.gov.au/by-industry/franchising/before-you-sign-a-franchise-agreement-and-buy-the-franchise)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：加盟前查披露文件、合同、预测依据、现任和离任加盟商反馈，并获独立法律财务意见。
-
-<a id="w058"></a>
-
-## W058 · Prepare a contract
-
-- 发布方：business.gov.au
-- 页面：[Prepare a contract](https://business.gov.au/people/contractors/prepare-a-contract)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：合同应明确范围、付款、IP、保密、责任、保险、变更及争议；独家和竞业限制须审查合理性。
-
-<a id="w059"></a>
-
-## W059 · Hiring employees
-
-- 发布方：FWO
-- 页面：[Hiring employees](https://www.fairwork.gov.au/starting-employment/hiring-employees)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：雇主应确定雇用类型、award/协议、最低权益、工资记录及工资单义务，不能以合同低于法定底线。
-
-<a id="w060"></a>
-
-## W060 · Product safety responsibilities
-
-- 发布方：ACCC
-- 页面：[Product safety responsibilities](https://www.accc.gov.au/business/selling-products-and-services/product-safety-responsibilities)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：供应商负责产品安全、强制标准、禁令及召回，生产和进货应有检测与追溯控制。
-
-<a id="w061"></a>
-
-## W061 · Close your business
-
-- 发布方：business.gov.au
-- 页面：[Close your business](https://business.gov.au/exiting/closing-your-business/close-your-business)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：退场须处理员工、合同、债务、记录、税务和登记；停止营业不自动消除义务，破产路径依主体不同。
-
-<a id="w062"></a>
-
-## W062 · Who owns intellectual property?
-
-- 发布方：IP Australia
-- 页面：[Who owns intellectual property?](https://www.ipaustralia.gov.au/understanding-ip/who-owns-ip)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：雇佣和承包创作的 IP 归属不同且受合同影响；开发前明确权属和使用许可。
-
-<a id="w063"></a>
-
-## W063 · What computer-related inventions can be patented?
-
-- 发布方：IP Australia
-- 页面：[What computer-related inventions can be patented?](https://www.ipaustralia.gov.au/patents/what-are-patents/what-computer-related-inventions-can-be-patented)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：软件也涉及开源许可；使用和再分发须审查具体许可证限制，不存在一概自由使用。
-
-<a id="w064"></a>
-
-## W064 · Criminal Code Act 1995, Part 10.7 (2026-06-30 compilation)
-
-- 发布方：Federal Register of Legislation
-- 页面：[Criminal Code Act 1995, Part 10.7 (2026-06-30 compilation)](https://www.legislation.gov.au/C2004A04868/2026-06-30/2026-06-30/text/original/epub/OEBPS/document_3/document_3.html)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：实际阅读 ss 477.2–478.4：未经授权的受限数据访问、数据修改/通信损害，以及故意供犯罪使用的工具等罪名有各自构成要件。
-
-<a id="w065"></a>
-
-## W065 · Guidance on privacy and the use of commercially available AI products
-
-- 发布方：OAIC
-- 页面：[Guidance on privacy and the use of commercially available AI products](https://www.oaic.gov.au/privacy/privacy-guidance-for-organisations-and-government-agencies/guidance-on-privacy-and-the-use-of-commercially-available-ai-products)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：AI 使用需隐私尽调、人类监督、透明告知；输入输出个人信息均可涉及隐私法，避免把个人尤其敏感信息输入公开生成式工具。
-
-<a id="w066"></a>
-
-## W066 · Avoid sending spam
-
-- 发布方：Australian Communications and Media Authority (ACMA)
-- 页面：[Avoid sending spam](https://www.acma.gov.au/avoid-sending-spam)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：商业电子信息须有适用同意、身份和退订机制；不能发邮件索取同意，购买名单不转移责任，禁止地址采集软件等。
-
-<a id="w067"></a>
-
-## W067 · Regulatory guidance
-
-- 发布方：eSafety Commissioner
-- 页面：[Regulatory guidance](https://www.esafety.gov.au/industry/regulatory-guidance)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：Online Safety 各制度按服务类型适用；2025-12-10 起特定社交平台未满 16 岁账户规则，不是所有网站统一实名；2026 年相关规则仍在更新。
-
-<a id="w068"></a>
-
-## W068 · ASIC remakes non-cash payment facilities instrument
-
-- 发布方：ASIC
-- 页面：[ASIC remakes non-cash payment facilities instrument](https://www.asic.gov.au/about-asic/news-centre/news-items/asic-remakes-non-cash-payment-facilities-instrument)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：非现金支付设施可涉及许可与披露，特定低风险设施有 2026 年重制豁免，支付改革仍在推进。
-
-<a id="w069"></a>
-
-## W069 · Cloud shared responsibility model: Guidance for individuals and small and medium businesses
-
-- 发布方：ACSC
-- 页面：[Cloud shared responsibility model: Guidance for individuals and small and medium businesses](https://www.cyber.gov.au/business-government/protecting-devices-systems/cloud-computing/cloud-shared-responsibility-model-guidance-for-individuals-and-small-and-medium-businesses)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：云服务共同责任模型；客户仍需处理身份权限、配置、备份恢复和供应商责任分工。
-
-<a id="w070"></a>
-
-## W070 · School leaving age
-
-- 发布方：NSW Department of Education
-- 页面：[School leaving age](https://education.nsw.gov.au/schooling/parents-and-carers/pathways-after-school/school-leaving-age)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：完成 Year 10 后到 17 岁须教育、培训、符合条件的工作或其组合，不能照搬中国未满 16 岁一概不得工作。
-
-<a id="w071"></a>
-
-## W071 · Smart and Skilled training
-
-- 发布方：NSW Department of Education
-- 页面：[Smart and Skilled training](https://education.nsw.gov.au/skills-nsw/students-and-job-seekers/low-cost-and-free-training-options/smart-and-skilled-training)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：15 岁以上、已离校、在 NSW 居住或工作且符合身份条件者可查补贴；原学历及课程级别影响费用、供给和资格。
-
-<a id="w072"></a>
-
-## W072 · Commonwealth supported places (CSPs)
-
-- 发布方：Australian Government – StudyAssist
-- 页面：[Commonwealth supported places (CSPs)](https://www.studyassist.gov.au/financial-and-study-support/commonwealth-supported-places-csps)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：CSP 是政府承担部分学费的学额；符合居住等条件的 PR 可能合资格，但录取与 HELP 借款另算。
-
-<a id="w073"></a>
-
-## W073 · HECS-HELP
-
-- 发布方：Australian Government – StudyAssist
-- 页面：[HECS-HELP](https://www.studyassist.gov.au/financial-and-study-support/hecs-help)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：HELP 借款有公民、居住及特定签证例外条件，普通 PR 通常不能借 HECS-HELP；census date 前须办理。
-
-<a id="w074"></a>
-
-## W074 · Choose a course and provider
-
-- 发布方：Australian Skills Quality Authority (ASQA)
-- 页面：[Choose a course and provider](https://www.asqa.gov.au/for-students/choose-a-course-and-provider)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：报班前查认可机构和课程、许可要求、RPL、实习安排、费用和退费；证书不自动等于执业资格。
-
-<a id="w075"></a>
-
-## W075 · Occupation Shortage List
-
-- 发布方：Jobs and Skills Australia
-- 页面：[Occupation Shortage List](https://www.jobsandskills.gov.au/data/occupation-shortage/occupation-shortage-list)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：短缺清单提供时点劳动力市场判断和方法说明；本次未读取动态职业结果，不据此声称某职业当前短缺。
-
-<a id="w076"></a>
-
-## W076 · Complete an apprenticeship or traineeship
-
-- 发布方：NSW Government
-- 页面：[Complete an apprenticeship or traineeship](https://www.nsw.gov.au/education-and-training/apprentices-and-trainees/employers/completing-qualification)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：学徒/实习培训涉及 Training Contract、RTO 培训和工作能力确认，完成资格有双方确认流程。
-
-<a id="w077"></a>
-
-## W077 · Eligibility
-
-- 发布方：Australian Defence Force – ADF Careers
-- 页面：[Eligibility](https://www.adfcareers.gov.au/careers/joining/eligibility)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：ADF 招募依公民/部分合资格 PR、年龄、学历、健康、体能及背景等条件，要求随岗位不同。
-
-<a id="w078"></a>
-
-## W078 · Defence University Sponsorship
-
-- 发布方：ADF Careers
-- 页面：[Defence University Sponsorship](https://www.adfcareers.gov.au/study-and-trades/get-a-degree/DUS)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：指定课程和岗位的大学资助包含选拔、训练及毕业后服务义务，并非所有大学生都可申请或获资助。
-
-<a id="w079"></a>
-
-## W079 · Citizenship in the APS
-
-- 发布方：Australian Public Service Commission
-- 页面：[Citizenship in the APS](https://www.apsc.gov.au/working-aps/hr-practitioners/recruitment-aps/onboarding/citizenship-aps)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：联邦公务员通常须澳籍，agency head 有法定豁免权限；工作权和安全审查另行适用。
-
-<a id="w080"></a>
-
-## W080 · Accredited degrees
-
-- 发布方：NSW Education Standards Authority (NESA)
-- 页面：[Accredited degrees](https://www.nsw.gov.au/education-and-training/nesa/teacher-accreditation/study-teaching/accredited-degrees)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：NSW 教师须符合认可师范课程等资格；并非所有外州或一年课程都可用于 NSW 教师认证。
-
-<a id="w081"></a>
-
-## W081 · Step 1 – Application
-
-- 发布方：Fire and Rescue NSW
-- 页面：[Step 1 – Application](https://careers.fire.nsw.gov.au/step-1-application)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：2026 招募已截止；当期身份、学历、驾驶及后续选拔要求可用于准备但不能当作仍开放职位。
-
-<a id="w082"></a>
-
-## W082 · Emergency information
-
-- 发布方：NSW Health
-- 页面：[Emergency information](https://www.health.nsw.gov.au/emergency/)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：危及生命的情况拨 000 或去急诊；非紧急不确定时可拨 healthdirect 1800 022 222。
-
-<a id="w083"></a>
-
-## W083 · Save for an emergency fund
-
-- 发布方：ASIC Moneysmart
-- 页面：[Save for an emergency fund](https://moneysmart.gov.au/saving/save-for-an-emergency-fund)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：应急金从小额开始，约三个月支出是目标示例，应放可取用账户并按实际处境调整。
-
-<a id="w084"></a>
-
-## W084 · Exemptions from the newly arrived resident's waiting period
-
-- 发布方：Services Australia
-- 页面：[Exemptions from the newly arrived resident's waiting period](https://www.servicesaustralia.gov.au/exemptions-from-newly-arrived-residents-waiting-period?context=51411)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：公民、难民及特定其他情况可有等待期豁免；实质境况变化可能涉及 Special Benefit，须逐项审核。
-
-<a id="w085"></a>
-
-## W085 · Water analysis
-
-- 发布方：Sydney Water
-- 页面：[Water analysis](https://www.sydneywater.com.au/water-the-environment/how-we-manage-sydneys-water/safe-drinking-water/water-analysis.html)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：Sydney Water 供水按澳洲饮用水指南处理和监测并提供质量报告；不能外推至私人井水或忽略当地警报。
-
-<a id="w086"></a>
-
-## W086 · PBS co-payments
-
-- 发布方：Australian Government Department of Health, Disability and Ageing
-- 页面：[PBS co-payments](https://www.health.gov.au/cheaper-medicines/pbs-co-payments)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：PBS 自付、优惠和品牌附加费规则；仿制药作用相同且通常便宜，是否用 60 日处方由临床条件决定。
-
-<a id="w087"></a>
-
-## W087 · Telecommunications Industry Ombudsman
-
-- 发布方：Telecommunications Industry Ombudsman (TIO)
-- 页面：[Telecommunications Industry Ombudsman](https://www.tio.com.au/)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：免费处理个人及小企业电信争议；先向运营商反映再向 TIO 求助。
-
-<a id="w088"></a>
-
-## W088 · Calculate the start-up costs of your business
-
-- 发布方：business.gov.au
-- 页面：[Calculate the start-up costs of your business](https://business.gov.au/planning/new-businesses/calculate-the-start-up-costs-of-your-business)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：先做市场研究、启动和运营费用估算，标明估计及税费，准备运营资金；不是盈利保证。
-
-<a id="w089"></a>
-
-## W089 · Develop a new product
-
-- 发布方：business.gov.au
-- 页面：[Develop a new product](https://business.gov.au/planning/new-businesses/develop-a-new-product)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：先了解客户、原型测试和反馈，再评估生产、供应、包装、成本、IP 与安全要求。
-
-<a id="w090"></a>
-
-## W090 · Your tax residency
-
-- 发布方：Australian Taxation Office (ATO)
-- 页面：[Your tax residency](https://www.ato.gov.au/individuals-and-families/coming-to-australia-or-going-overseas/your-tax-residency)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：页面更新 2026-06-03：税务居民规则与 Home Affairs 不同，按 resides、domicile、183-day、Commonwealth superannuation 等测试判断，不能凭公民/PR 或单一 183 天条件决定。
-
-<a id="w091"></a>
-
-## W091 · Apply for social housing
-
-- 发布方：Homes NSW
-- 页面：[Apply for social housing](https://www.nsw.gov.au/housing-and-construction/social-affordable/finding-social-and-affordable-housing/apply-for-social-housing)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：社会住房有 NSW 居住、身份、收入资产及可维持租约等条件；须提供家庭成员证据，获准登记后仍有等待。
-
-<a id="w092"></a>
-
-## W092 · Assessment of permanent impairment
-
-- 发布方：SIRA
-- 页面：[Assessment of permanent impairment](https://www.sira.nsw.gov.au/resources-library/workers-compensation-resources/publications/workers-and-claims/assessment-of-permanent-impairment)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：2026-07-02 更新的改革专页：自2026-07-01评估前须获独立法律意见；principal assessment影响多项权益，进一步评估限于特定不可预期且实质恶化。
-
-<a id="w093"></a>
-
-## W093 · For families who have lost a relative
-
-- 发布方：SIRA
-- 页面：[For families who have lost a relative](https://www.sira.nsw.gov.au/workers-compensation/what-you-can-claim/for-families-who-have-lost-a-relative)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：工作相关死亡索赔的证据、受扶养人、子女付款、合理丧葬费用和分配；2026-07起可就一次性死亡给付责任争议向PIC申请批准折衷和解。
-
-<a id="w094"></a>
-
-## W094 · Psychological injuries – a guide for workers and employers
-
-- 发布方：SIRA
-- 页面：[Psychological injuries – a guide for workers and employers](https://www.sira.nsw.gov.au/workers-compensation/psychological-injuries-for-workers-and-employers)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：新规则适用于2026-07-01起首次通知雇主的主要心理伤害，存在特定工人和继发心理伤害等排除；相关事件类别决定申请路径，需具体事件和医疗信息。
-
-<a id="w095"></a>
-
-## W095 · Chapter 8: APP 8 Cross-border disclosure of personal information
-
-- 发布方：OAIC
-- 页面：[Chapter 8: APP 8 Cross-border disclosure of personal information](https://www.oaic.gov.au/privacy/australian-privacy-principles/australian-privacy-principles-guidelines/chapter-8-app-8-cross-border-disclosure-of-personal-information)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：境外接收方、披露与仍受有效控制的使用之区分，合理措施、供应商及分包合同和例外。
-
-<a id="w096"></a>
-
-## W096 · Chapter 3: APP 3 Collection of solicited personal information
-
-- 发布方：OAIC
-- 页面：[Chapter 3: APP 3 Collection of solicited personal information](https://www.oaic.gov.au/privacy/australian-privacy-principles/australian-privacy-principles-guidelines/chapter-3-app-3-collection-of-solicited-personal-information)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：2026-05更新：最少必要、合法公平收集，公开互联网个人信息仍受 APP 限制；敏感信息的同意和例外。
-
-<a id="w097"></a>
-
-## W097 · Chapter 2: APP 2 Anonymity and pseudonymity
-
-- 发布方：OAIC
-- 页面：[Chapter 2: APP 2 Anonymity and pseudonymity](https://www.oaic.gov.au/privacy/australian-privacy-principles/australian-privacy-principles-guidelines/chapter-2-app-2-anonymity-and-pseudonymity)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：APP实体通常应容许匿名或化名，法律授权/要求及不切实际是例外，身份核查也不应过度收集。
-
-<a id="w098"></a>
-
-## W098 · Access your personal information
-
-- 发布方：OAIC
-- 页面：[Access your personal information](https://www.oaic.gov.au/privacy/your-privacy-rights/your-personal-information/access-your-personal-information)
-- 访问日期：2026-09-16
-- 读取范围：页面正文
-
-**支持内容（释义）**：访问个人资料的请求、身份验证、合理回复、拒绝理由、可收费用与机构区别及投诉。
-
-<a id="r001"></a>
-
-## R001 · 21st-century hazards of smoking and benefits of cessation in the United States (2013)
-
-- 发布方：Jha P 等 · New England Journal of Medicine
-- 页面：[21st-century hazards of smoking and benefits of cessation in the United States (2013)](https://pubmed.ncbi.nlm.nih.gov/23343063/)
-- DOI：`10.1056/NEJMsa1211128`
-- 访问日期：2026-09-16
-- 读取范围：论文摘要
-
-**支持内容（释义）**：沿用原书第2章戒烟条目引用的同一篇论文。美国队列中，持续吸烟者比从不吸烟者预期寿命短逾10年；25至34、35至44、45至54岁戒烟者，相比继续吸烟者分别多约10、9、6年。属于群体观察结果，不能保证个人延寿，也不能用来量化电子烟风险。实际读取PubMed摘要。
-
-<a id="r002"></a>
-
-## R002 · Daily steps and all-cause mortality: a meta-analysis of 15 international cohorts (2022)
-
-- 发布方：Paluch AE 等 · The Lancet Public Health
-- 页面：[Daily steps and all-cause mortality: a meta-analysis of 15 international cohorts (2022)](https://pubmed.ncbi.nlm.nih.gov/35247352/)
-- DOI：`10.1016/S2468-2667(21)00302-9`
-- 访问日期：2026-09-16
-- 读取范围：论文摘要
-
-**支持内容（释义）**：沿用原书第2章步行条目引用的同一篇论文。15个队列共47471名成年人；步数增加与较低死亡风险相关，60岁及以上约6000至8000步、60岁以下约8000至10000步后关联趋缓。队列汇总不证明因果，不构成每个人的强制步数目标。实际读取PubMed摘要。
-
-<a id="r003"></a>
-
-## R003 · Effect of Salt Substitution on Cardiovascular Events and Death (2021)
-
-- 发布方：Neal B 等 · New England Journal of Medicine
-- 页面：[Effect of Salt Substitution on Cardiovascular Events and Death (2021)](https://pubmed.ncbi.nlm.nih.gov/34459569/)
-- DOI：`10.1056/NEJMoa2105675`
-- 访问日期：2026-09-16
-- 读取范围：论文摘要
-
-**支持内容（释义）**：沿用原书第2章低钠盐条目引用的同一篇论文。中国农村600个村、20995人群组随机试验，入组者有卒中史，或至少60岁且有高血压；75%氯化钠加25%氯化钾组平均随访4.74年，卒中率比0.86（95%CI 0.77至0.96），全因死亡率比0.88（0.82至0.95）。不能由此建议所有读者自行换钾盐。实际经Europe PMC公开API读取原始摘要，PMID 34459569。
-
-<a id="r004"></a>
-
-## R004 · The effect of caffeine on subsequent sleep: A systematic review and meta-analysis (2023)
-
-- 发布方：Gardiner C 等 · Sleep Medicine Reviews
-- 页面：[The effect of caffeine on subsequent sleep: A systematic review and meta-analysis (2023)](https://pubmed.ncbi.nlm.nih.gov/36870101/)
-- DOI：`10.1016/j.smrv.2023.101764`
-- 访问日期：2026-09-16
-- 读取范围：论文摘要
-
-**支持内容（释义）**：沿用原书第3章咖啡因条目引用的同一篇论文。24项研究的汇总结果中，咖啡因摄入使总睡眠时间平均减少45分钟、入睡延迟平均增加9分钟；剂量和饮用时间会影响结果。不能把汇总均值或推算停用时点当作个人保证，也不能证明人人都应在下午两点停用。实际经Europe PMC公开API读取原始摘要，PMID 36870101。
+正文的原始文献书目与澳洲办事来源都可直接点击。这里进一步说明读到了什么：正文、摘要、PDF，还是原书转引。原书转引不等于已独立核实原论文；同一页面有时支持多条建议，记录数不是独立研究数量。
+O 开头的 498 项记录对应原书 498 个条目，固定到同一提交。它们证明选题和转引关系，不单独证明澳洲规则。其余编号的日期和读取范围见具体记录。
+| 编号 | 来源 | 读取范围 |
+|---|---|---|
+| <a id="o0101"></a>[O0101](../docs/核实记录/01-不要早死.md#o0101) | 原书 1.1：系安全带，前排后排都系 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0102"></a>[O0102](../docs/核实记录/01-不要早死.md#o0102) | 原书 1.2：骑摩托车、电动自行车戴头盔并扣好 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0103"></a>[O0103](../docs/核实记录/01-不要早死.md#o0103) | 原书 1.3：装烟雾报警器；冬天在室内烧煤、用燃气取暖的再装一氧化碳报警器 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0104"></a>[O0104](../docs/核实记录/01-不要早死.md#o0104) | 原书 1.4：燃气软管和灶具到期就换，不自己改管道，燃气公司上门推销可以直接拒绝 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0105"></a>[O0105](../docs/核实记录/01-不要早死.md#o0105) | 原书 1.5：不采、不买、不吃野生蘑菇，任何「土办法鉴别」都不成立 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0106"></a>[O0106](../docs/核实记录/01-不要早死.md#o0106) | 原书 1.6：电动自行车不推进楼道、不进电梯、不在家里充电 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0107"></a>[O0107](../docs/核实记录/01-不要早死.md#o0107) | 原书 1.7：量血压，高了就吃药降到达标 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0108"></a>[O0108](../docs/核实记录/01-不要早死.md#o0108) | 原书 1.8：35 岁以后只要超重，就去查一次空腹血糖，正常也每三年再查 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0109"></a>[O0109](../docs/核实记录/01-不要早死.md#o0109) | 原书 1.9：开车不超速、不酒驾 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0110"></a>[O0110](../docs/核实记录/01-不要早死.md#o0110) | 原书 1.10：给 4 岁以下儿童用安全座椅，不要抱在怀里 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0111"></a>[O0111](../docs/核实记录/01-不要早死.md#o0111) | 原书 1.11：家里有小孩就给窗户和阳台装限位器，纱窗不算防护 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0112"></a>[O0112](../docs/核实记录/01-不要早死.md#o0112) | 原书 1.12：儿童近水不离视线，划船、野泳穿救生衣 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0113"></a>[O0113](../docs/核实记录/01-不要早死.md#o0113) | 原书 1.13：60 岁以上练平衡和腿部力量，改造家里的浴室和楼梯 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0114"></a>[O0114](../docs/核实记录/01-不要早死.md#o0114) | 原书 1.14：查乙肝两对半，没有抗体就打疫苗 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0115"></a>[O0115](../docs/核实记录/01-不要早死.md#o0115) | 原书 1.15：被铁钉、木刺扎到或者伤口沾了泥土，当天去处理，顺便问破伤风要不要打 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0116"></a>[O0116](../docs/核实记录/01-不要早死.md#o0116) | 原书 1.16：女性接种 HPV 疫苗，越早越好 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0117"></a>[O0117](../docs/核实记录/01-不要早死.md#o0117) | 原书 1.17：女性 40 岁起做乳腺癌筛查，每两年一次钼靶 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0118"></a>[O0118](../docs/核实记录/01-不要早死.md#o0118) | 原书 1.18：30 岁以上女性做宫颈癌筛查，优先 HPV 检测 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0119"></a>[O0119](../docs/核实记录/01-不要早死.md#o0119) | 原书 1.19：45 到 50 岁起做结直肠癌筛查，粪便免疫化学检测或肠镜 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0120"></a>[O0120](../docs/核实记录/01-不要早死.md#o0120) | 原书 1.20：有心血管病的人和老年人每年打流感疫苗 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0121"></a>[O0121](../docs/核实记录/01-不要早死.md#o0121) | 原书 1.21：50 岁以后打带状疱疹疫苗 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0122"></a>[O0122](../docs/核实记录/01-不要早死.md#o0122) | 原书 1.22：65 岁以上打肺炎球菌疫苗 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0123"></a>[O0123](../docs/核实记录/01-不要早死.md#o0123) | 原书 1.23：查幽门螺杆菌，阳性就根除 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0124"></a>[O0124](../docs/核实记录/01-不要早死.md#o0124) | 原书 1.24：重度吸烟者每年做一次低剂量胸部 CT | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0125"></a>[O0125](../docs/核实记录/01-不要早死.md#o0125) | 原书 1.25：抑郁或有自杀念头时打 12356，家里不囤安眠药和农药 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0126"></a>[O0126](../docs/核实记录/01-不要早死.md#o0126) | 原书 1.26：备齐灭火器、灭火毯、逃生呼吸面罩和急救包，每年检查一次 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0127"></a>[O0127](../docs/核实记录/01-不要早死.md#o0127) | 原书 1.27：尿里出现肉眼看得见的血，哪怕不疼、哪怕第二天就干净了，也要去查一次 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0128"></a>[O0128](../docs/核实记录/01-不要早死.md#o0128) | 原书 1.28：性行为全程用安全套，不和别人共用针具 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0129"></a>[O0129](../docs/核实记录/01-不要早死.md#o0129) | 原书 1.29：有过高危行为就去查一次，疾控中心免费、可匿名 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0201"></a>[O0201](../docs/核实记录/02-不要慢慢死.md#o0201) | 原书 2.1：戒烟，越早越好 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0202"></a>[O0202](../docs/核实记录/02-不要慢慢死.md#o0202) | 原书 2.2：别在家里和车里抽烟，也别让客人在家里抽 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0203"></a>[O0203](../docs/核实记录/02-不要慢慢死.md#o0203) | 原书 2.3：不喝含糖饮料 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0204"></a>[O0204](../docs/核实记录/02-不要慢慢死.md#o0204) | 原书 2.4：不嚼槟榔 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0205"></a>[O0205](../docs/核实记录/02-不要慢慢死.md#o0205) | 原书 2.5：把家里的食盐换成低钠盐（钾盐） | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0206"></a>[O0206](../docs/核实记录/02-不要慢慢死.md#o0206) | 原书 2.6：认真刷牙，每天清一次牙缝，缺牙及时补 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0207"></a>[O0207](../docs/核实记录/02-不要慢慢死.md#o0207) | 原书 2.7：每天走到 7000–8000 步 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0208"></a>[O0208](../docs/核实记录/02-不要慢慢死.md#o0208) | 原书 2.8：有高血压、高血脂就按医嘱规律吃药，别自行停 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0209"></a>[O0209](../docs/核实记录/02-不要慢慢死.md#o0209) | 原书 2.9：每晚睡 7 小时左右，作息固定 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0210"></a>[O0210](../docs/核实记录/02-不要慢慢死.md#o0210) | 原书 2.10：每周累计 150–300 分钟中等强度运动，快走即可 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0211"></a>[O0211](../docs/核实记录/02-不要慢慢死.md#o0211) | 原书 2.11：每周打三次球拍类运动，每次 45 分钟 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0212"></a>[O0212](../docs/核实记录/02-不要慢慢死.md#o0212) | 原书 2.12：把爬楼梯、快走赶路这类零碎的用力活动攒到每天四五分钟 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0213"></a>[O0213](../docs/核实记录/02-不要慢慢死.md#o0213) | 原书 2.13：每周做 30–60 分钟力量训练 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0214"></a>[O0214](../docs/核实记录/02-不要慢慢死.md#o0214) | 原书 2.14：别连着坐太久，隔一阵起身动一动 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0215"></a>[O0215](../docs/核实记录/02-不要慢慢死.md#o0215) | 原书 2.15：少吃加工肉（火腿、培根、香肠、午餐肉） | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0216"></a>[O0216](../docs/核实记录/02-不要慢慢死.md#o0216) | 原书 2.16：少喝或不喝酒 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0217"></a>[O0217](../docs/核实记录/02-不要慢慢死.md#o0217) | 原书 2.17：每天吃一小把坚果 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0218"></a>[O0218](../docs/核实记录/02-不要慢慢死.md#o0218) | 原书 2.18：把一部分红肉换成鱼和禽肉 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0219"></a>[O0219](../docs/核实记录/02-不要慢慢死.md#o0219) | 原书 2.19：把一部分精米白面换成全谷物 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0220"></a>[O0220](../docs/核实记录/02-不要慢慢死.md#o0220) | 原书 2.20：每周喝三次以上茶 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0221"></a>[O0221](../docs/核实记录/02-不要慢慢死.md#o0221) | 原书 2.21：每天喝三到四杯咖啡，不加糖不加奶盖 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0222"></a>[O0222](../docs/核实记录/02-不要慢慢死.md#o0222) | 原书 2.22：每天吃够 5 份（约 400 g）水果蔬菜 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0223"></a>[O0223](../docs/核实记录/02-不要慢慢死.md#o0223) | 原书 2.23：少吃超加工食品（薯片、方便面、糕点、速食） | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0224"></a>[O0224](../docs/核实记录/02-不要慢慢死.md#o0224) | 原书 2.24：不喝甜味饮料，无糖的也算 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0225"></a>[O0225](../docs/核实记录/02-不要慢慢死.md#o0225) | 原书 2.25：做饭、取暖不烧煤和柴，换成电或燃气 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0226"></a>[O0226](../docs/核实记录/02-不要慢慢死.md#o0226) | 原书 2.26：热的东西放一放再喝，不喝滚烫的茶、汤和咖啡 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0227"></a>[O0227](../docs/核实记录/02-不要慢慢死.md#o0227) | 原书 2.27：白天出门晒晒太阳，别整天不见光 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0228"></a>[O0228](../docs/核实记录/02-不要慢慢死.md#o0228) | 原书 2.28：把 BMI 控制在 20–25，超重就减 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0229"></a>[O0229](../docs/核实记录/02-不要慢慢死.md#o0229) | 原书 2.29：每周吃四次以上辣椒 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0230"></a>[O0230](../docs/核实记录/02-不要慢慢死.md#o0230) | 原书 2.30：每天喝一两份奶或酸奶 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0231"></a>[O0231](../docs/核实记录/02-不要慢慢死.md#o0231) | 原书 2.31：鸡蛋不用戒，但别每天三四个 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0232"></a>[O0232](../docs/核实记录/02-不要慢慢死.md#o0232) | 原书 2.32：有条件就泡澡，别只冲淋浴 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0301"></a>[O0301](../docs/核实记录/03-不要浪费精力.md#o0301) | 原书 3.1：关掉非必要通知，工作时把手机放到视线之外 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0302"></a>[O0302](../docs/核实记录/03-不要浪费精力.md#o0302) | 原书 3.2：固定起床时间，周末也一样 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0303"></a>[O0303](../docs/核实记录/03-不要浪费精力.md#o0303) | 原书 3.3：每晚睡够 7 到 8 小时，别把 6 小时当作够用 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0304"></a>[O0304](../docs/核实记录/03-不要浪费精力.md#o0304) | 原书 3.4：下午两点以后不碰咖啡因 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0305"></a>[O0305](../docs/核实记录/03-不要浪费精力.md#o0305) | 原书 3.5：把邮件和消息改成每天固定几次批量处理 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0306"></a>[O0306](../docs/核实记录/03-不要浪费精力.md#o0306) | 原书 3.6：做需要连续思考的工作时，把哪怕几秒钟的打断也挡在外面 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0307"></a>[O0307](../docs/核实记录/03-不要浪费精力.md#o0307) | 原书 3.7：一次只做一件事，不要边开会边回消息 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0308"></a>[O0308](../docs/核实记录/03-不要浪费精力.md#o0308) | 原书 3.8：睡前一小时不看发光屏幕，要看就看纸书或墨水屏 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0309"></a>[O0309](../docs/核实记录/03-不要浪费精力.md#o0309) | 原书 3.9：到点就睡，不为游戏、短视频、色情内容熬夜 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0310"></a>[O0310](../docs/核实记录/03-不要浪费精力.md#o0310) | 原书 3.10：深夜不做重大决定、不发要紧的消息 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0311"></a>[O0311](../docs/核实记录/03-不要浪费精力.md#o0311) | 原书 3.11：下午困了就睡 10 分钟，不要睡半小时 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0312"></a>[O0312](../docs/核实记录/03-不要浪费精力.md#o0312) | 原书 3.12：在开放式办公室工作时用耳塞或找安静房间做需要记忆的活 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0313"></a>[O0313](../docs/核实记录/03-不要浪费精力.md#o0313) | 原书 3.13：每周工作时间不要超过 49 小时 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0314"></a>[O0314](../docs/核实记录/03-不要浪费精力.md#o0314) | 原书 3.14：发现自己在反复回想同一件糟心事时，换个需要动手的活 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0315"></a>[O0315](../docs/核实记录/03-不要浪费精力.md#o0315) | 原书 3.15：把「事情肯定会更糟」这类念头当症状看，不当事实看 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0316"></a>[O0316](../docs/核实记录/03-不要浪费精力.md#o0316) | 原书 3.16：减少让你消耗的人际关系，学会拒绝不想接的请求 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0317"></a>[O0317](../docs/核实记录/03-不要浪费精力.md#o0317) | 原书 3.17：把穿什么、吃什么这类低价值决策固定下来 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0318"></a>[O0318](../docs/核实记录/03-不要浪费精力.md#o0318) | 原书 3.18：生气时先离场，把对方当天气而不是当敌人 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0319"></a>[O0319](../docs/核实记录/03-不要浪费精力.md#o0319) | 原书 3.19：情绪低落时先做性价比最高的几件事：动起来、晒太阳、按时睡、找人说、打 12356 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0401"></a>[O0401](../docs/核实记录/04-不要浪费时间.md#o0401) | 原书 4.1：把「打算做」写成「几点、在哪、遇到什么就做什么」 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0402"></a>[O0402](../docs/核实记录/04-不要浪费时间.md#o0402) | 原书 4.2：开工前写下退出条件 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0403"></a>[O0403](../docs/核实记录/04-不要浪费时间.md#o0403) | 原书 4.3：决定是否继续时，只看未来投入和未来回报，不看已投入多少 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0404"></a>[O0404](../docs/核实记录/04-不要浪费时间.md#o0404) | 原书 4.4：估工期时按过去同类任务的实际耗时估，不按计划推 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0405"></a>[O0405](../docs/核实记录/04-不要浪费时间.md#o0405) | 原书 4.5：会前发议程，没议程的会不开；能站着开就站着开 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0406"></a>[O0406](../docs/核实记录/04-不要浪费时间.md#o0406) | 原书 4.6：砍会议数量，能用文字异步解决的不开会 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0407"></a>[O0407](../docs/核实记录/04-不要浪费时间.md#o0407) | 原书 4.7：把大任务拆成子任务再估时、再开工 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0408"></a>[O0408](../docs/核实记录/04-不要浪费时间.md#o0408) | 原书 4.8：给没有外部截止的事自己定一个日期 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0409"></a>[O0409](../docs/核实记录/04-不要浪费时间.md#o0409) | 原书 4.9：用自己的时薪决定哪些家务外包 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0410"></a>[O0410](../docs/核实记录/04-不要浪费时间.md#o0410) | 原书 4.10：给短视频和无目的刷屏设硬上限 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0411"></a>[O0411](../docs/核实记录/04-不要浪费时间.md#o0411) | 原书 4.11：不看电视和滚动新闻，需要的信息定时集中看 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0412"></a>[O0412](../docs/核实记录/04-不要浪费时间.md#o0412) | 原书 4.12：花一次时间学常用软件的键盘快捷键和自动化 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0413"></a>[O0413](../docs/核实记录/04-不要浪费时间.md#o0413) | 原书 4.13：选住处时把通勤时长放在前面，缩短单程通勤 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0501"></a>[O0501](../docs/核实记录/05-不要浪费钱.md#o0501) | 原书 5.1：关掉所有自动续费，改为到期手动续 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0502"></a>[O0502](../docs/核实记录/05-不要浪费钱.md#o0502) | 原书 5.2：每年三月到六月做一次个税汇算，专项附加扣除该填的填 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0503"></a>[O0503](../docs/核实记录/05-不要浪费钱.md#o0503) | 原书 5.3：公积金不只用来买房：租房、装修、物业费都能提，2026 年 9 月 20 日起按新条例办 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0504"></a>[O0504](../docs/核实记录/05-不要浪费钱.md#o0504) | 原书 5.4：每年重算一次手机和宽带套餐，用不上的降档，运营商不给转就投诉 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0505"></a>[O0505](../docs/核实记录/05-不要浪费钱.md#o0505) | 原书 5.5：不买彩票 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0506"></a>[O0506](../docs/核实记录/05-不要浪费钱.md#o0506) | 原书 5.6：看到「高收益」「保本」「稳赚」直接走开 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0507"></a>[O0507](../docs/核实记录/05-不要浪费钱.md#o0507) | 原书 5.7：不用信用卡最低还款，不为消费开分期或消费贷 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0508"></a>[O0508](../docs/核实记录/05-不要浪费钱.md#o0508) | 原书 5.8：不给主播打赏、不给游戏充值、不冲动下单 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0509"></a>[O0509](../docs/核实记录/05-不要浪费钱.md#o0509) | 原书 5.9：孩子用手机充值打赏，八岁以上的大额支出未经家长追认可以主张退 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0510"></a>[O0510](../docs/核实记录/05-不要浪费钱.md#o0510) | 原书 5.10：教孩子记一句话：任何人让你拿家长的手机去操作、去报验证码，都是骗子 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0511"></a>[O0511](../docs/核实记录/05-不要浪费钱.md#o0511) | 原书 5.11：拒绝电子产品的延长保修（延保） | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0512"></a>[O0512](../docs/核实记录/05-不要浪费钱.md#o0512) | 原书 5.12：优先选通过一致性评价的仿制药和集采中选药 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0513"></a>[O0513](../docs/核实记录/05-不要浪费钱.md#o0513) | 原书 5.13：在医保 App 上办一次家庭共济绑定，职工医保个人账户的钱就能给配偶、父母、子女看病买药 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0514"></a>[O0514](../docs/核实记录/05-不要浪费钱.md#o0514) | 原书 5.14：喝烧开的自来水，不常年买瓶装水 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0515"></a>[O0515](../docs/核实记录/05-不要浪费钱.md#o0515) | 原书 5.15：不频繁交易股票 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0516"></a>[O0516](../docs/核实记录/05-不要浪费钱.md#o0516) | 原书 5.16：不借钱投资、不加杠杆、不买自己看不懂的 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0517"></a>[O0517](../docs/核实记录/05-不要浪费钱.md#o0517) | 原书 5.17：用宽基指数基金替代主动管理基金作为长期底仓 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0518"></a>[O0518](../docs/核实记录/05-不要浪费钱.md#o0518) | 原书 5.18：同类基金优先选费率低的 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0519"></a>[O0519](../docs/核实记录/05-不要浪费钱.md#o0519) | 原书 5.19：别把钱押在一只股票、一个平台、一套房上 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0520"></a>[O0520](../docs/核实记录/05-不要浪费钱.md#o0520) | 原书 5.20：交个税的人开个人养老金账户，每年 12000 元能在税前扣掉；不交个税的人开了不划算 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0521"></a>[O0521](../docs/核实记录/05-不要浪费钱.md#o0521) | 原书 5.21：健身房按次付费或短周期付费，除非有一年以上的稳定记录 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0522"></a>[O0522](../docs/核实记录/05-不要浪费钱.md#o0522) | 原书 5.22：交预付款要签书面合同；商家出风险要停收，跑路前你有权要回未消费的余额 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0523"></a>[O0523](../docs/核实记录/05-不要浪费钱.md#o0523) | 原书 5.23：大额非必需购买设 24 小时冷静期，网购善用七日无理由退货 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0524"></a>[O0524](../docs/核实记录/05-不要浪费钱.md#o0524) | 原书 5.24：不为「划线价」和大促囤货 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0525"></a>[O0525](../docs/核实记录/05-不要浪费钱.md#o0525) | 原书 5.25：保险优先买消费型，把「返还」「分红」当作不保证的部分 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0526"></a>[O0526](../docs/核实记录/05-不要浪费钱.md#o0526) | 原书 5.26：三者险买够：交强险限额全国统一且不高，超出的部分从你自己家里出 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0527"></a>[O0527](../docs/核实记录/05-不要浪费钱.md#o0527) | 原书 5.27：先存出 3 到 6 个月生活费的应急金，放在随时能取的地方 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0528"></a>[O0528](../docs/核实记录/05-不要浪费钱.md#o0528) | 原书 5.28：提前还房贷之前先做一道比较题，不要凭感觉 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0529"></a>[O0529](../docs/核实记录/05-不要浪费钱.md#o0529) | 原书 5.29：网购认平台规则和法条，不认主播和「好评」 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0530"></a>[O0530](../docs/核实记录/05-不要浪费钱.md#o0530) | 原书 5.30：直播间买的东西出了问题，先向平台要卖家和带货人的信息，平台必须给 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0531"></a>[O0531](../docs/核实记录/05-不要浪费钱.md#o0531) | 原书 5.31：买大件前先查国家抽检通报、3C 认证和能效标识 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0601"></a>[O0601](../docs/核实记录/06-反面清单.md#o0601) | 原书 6.1：不要为了长寿或防心血管病吃复合维生素 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0602"></a>[O0602](../docs/核实记录/06-反面清单.md#o0602) | 原书 6.2：不要为了预防心血管病吃普通鱼油 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0603"></a>[O0603](../docs/核实记录/06-反面清单.md#o0603) | 原书 6.3：不要为了长寿给不缺维生素 D 的人补维生素 D | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0604"></a>[O0604](../docs/核实记录/06-反面清单.md#o0604) | 原书 6.4：不要为了防癌吃抗氧化补剂（β 胡萝卜素、维生素 E、维生素 A） | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0605"></a>[O0605](../docs/核实记录/06-反面清单.md#o0605) | 原书 6.5：不要指望氨糖（葡萄糖胺）/软骨素治膝关节炎 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0606"></a>[O0606](../docs/核实记录/06-反面清单.md#o0606) | 原书 6.6：不要靠维生素 C 预防感冒 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0607"></a>[O0607](../docs/核实记录/06-反面清单.md#o0607) | 原书 6.7：不要给没有症状的自己做「全身 PET-CT」或「肿瘤标志物套餐」 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0608"></a>[O0608](../docs/核实记录/06-反面清单.md#o0608) | 原书 6.8：不要指望手环/手表的运动量化帮你减重 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0609"></a>[O0609](../docs/核实记录/06-反面清单.md#o0609) | 原书 6.9：不要为了「更健康」花溢价买有机食品 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0610"></a>[O0610](../docs/核实记录/06-反面清单.md#o0610) | 原书 6.10：不要花大钱买保健品、膏方、滋补品来「调理身体」 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0611"></a>[O0611](../docs/核实记录/06-反面清单.md#o0611) | 原书 6.11：不要在没有肠道问题时长期吃益生菌 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0612"></a>[O0612](../docs/核实记录/06-反面清单.md#o0612) | 原书 6.12：不要为了「增强免疫力」逼自己洗冷水澡 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0613"></a>[O0613](../docs/核实记录/06-反面清单.md#o0613) | 原书 6.13：不要买排毒、清肠、酵素、碱性水这类产品 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0614"></a>[O0614](../docs/核实记录/06-反面清单.md#o0614) | 原书 6.14：不要为了凑够「每天 8 杯水」强迫自己喝水 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0615"></a>[O0615](../docs/核实记录/06-反面清单.md#o0615) | 原书 6.15：不要花钱算命、看塔罗、看星座来做决定 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0616"></a>[O0616](../docs/核实记录/06-反面清单.md#o0616) | 原书 6.16：不要买防蓝光眼镜来「保护视力」，也不要相信「对着屏幕干几个月眼睛就废了」 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0701"></a>[O0701](../docs/核实记录/07-没钱的时候怎么活.md#o0701) | 原书 7.1：失业了先在线申领失业保险金 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0702"></a>[O0702](../docs/核实记录/07-没钱的时候怎么活.md#o0702) | 原书 7.2：被欠薪先投诉劳动监察，再申请劳动仲裁，两条路都不收费，多数案子几个月内有结果 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0703"></a>[O0703](../docs/核实记录/07-没钱的时候怎么活.md#o0703) | 原书 7.3：打不起官司就申请法律援助，讨薪、赡养费、工伤这类案子本来就在范围内 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0704"></a>[O0704](../docs/核实记录/07-没钱的时候怎么活.md#o0704) | 原书 7.4：走投无路时去救助站，管吃住和返乡车票 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0705"></a>[O0705](../docs/核实记录/07-没钱的时候怎么活.md#o0705) | 原书 7.5：急危重症先救治后付费，没钱也要拨 120 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0706"></a>[O0706](../docs/核实记录/07-没钱的时候怎么活.md#o0706) | 原书 7.6：找活先用免费的公共就业服务和零工市场，不找收费中介 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0707"></a>[O0707](../docs/核实记录/07-没钱的时候怎么活.md#o0707) | 原书 7.7：突发变故先申请临时救助 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0708"></a>[O0708](../docs/核实记录/07-没钱的时候怎么活.md#o0708) | 原书 7.8：收入低于当地低保线就申请低保 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0709"></a>[O0709](../docs/核实记录/07-没钱的时候怎么活.md#o0709) | 原书 7.9：持残疾人证的去申请残疾人两项补贴 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0710"></a>[O0710](../docs/核实记录/07-没钱的时候怎么活.md#o0710) | 原书 7.10：居民医保每年 400 元不要断，困难户可减免 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0711"></a>[O0711](../docs/核实记录/07-没钱的时候怎么活.md#o0711) | 原书 7.11：得了重病先走医保、大病保险、医疗救助和异地备案，不碰网贷 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0712"></a>[O0712](../docs/核实记录/07-没钱的时候怎么活.md#o0712) | 原书 7.12：身份证丢了立刻补办，急用先领临时身份证 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0713"></a>[O0713](../docs/核实记录/07-没钱的时候怎么活.md#o0713) | 原书 7.13：办失业登记后争取就业困难人员认定，拿社保补贴或公益性岗位 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0714"></a>[O0714](../docs/核实记录/07-没钱的时候怎么活.md#o0714) | 原书 7.14：失业期间去领职业培训补贴、就业见习补贴和社保补贴，别自费上培训班 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0715"></a>[O0715](../docs/核实记录/07-没钱的时候怎么活.md#o0715) | 原书 7.15：求职别只投简历，用系统方法：学技巧、定目标、找人帮 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0716"></a>[O0716](../docs/核实记录/07-没钱的时候怎么活.md#o0716) | 原书 7.16：不交押金、不押证件、不签「培训贷」、不进传销、不借高利贷 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0717"></a>[O0717](../docs/核实记录/07-没钱的时候怎么活.md#o0717) | 原书 7.17：住房困难先排公租房 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0718"></a>[O0718](../docs/核实记录/07-没钱的时候怎么活.md#o0718) | 原书 7.18：把住和吃压到最低：合租月租代替日租，自炊和助餐食堂代替外卖 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0719"></a>[O0719](../docs/核实记录/07-没钱的时候怎么活.md#o0719) | 原书 7.19：社保断缴不要慌：养老按累计算，医保按规则补 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0720"></a>[O0720](../docs/核实记录/07-没钱的时候怎么活.md#o0720) | 原书 7.20：坐过牢、破过产、上过失信名单，法律上都有重来的路，先把手续走完 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0721"></a>[O0721](../docs/核实记录/07-没钱的时候怎么活.md#o0721) | 原书 7.21：大病之前，基本医保之外配一份一年期医疗险或重疾险，看清「保证续保」四个字 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0722"></a>[O0722](../docs/核实记录/07-没钱的时候怎么活.md#o0722) | 原书 7.22：实在没地方睡，24 小时营业场所只能应急一晚，优先去救助站 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0801"></a>[O0801](../docs/核实记录/08-别把自己搭进去.md#o0801) | 原书 8.1：出了交通事故先停车、救人、报警，不要跑 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0802"></a>[O0802](../docs/核实记录/08-别把自己搭进去.md#o0802) | 原书 8.2：发现被骗，立刻打 110 或 96110 要求止付，别先自己查 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0803"></a>[O0803](../docs/核实记录/08-别把自己搭进去.md#o0803) | 原书 8.3：记住反诈硬规则：来电不轻信、信息不透露、链接不点击、转账多核实 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0804"></a>[O0804](../docs/核实记录/08-别把自己搭进去.md#o0804) | 原书 8.4：视频里看见脸、电话里听见声音都不算核实，涉及转账先挂断，用自己通讯录里的旧号码打回去 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0805"></a>[O0805](../docs/核实记录/08-别把自己搭进去.md#o0805) | 原书 8.5：被指控或被传唤，先请律师，不私了、不删记录 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0806"></a>[O0806](../docs/核实记录/08-别把自己搭进去.md#o0806) | 原书 8.6：喝了酒就不碰方向盘，包括电动车和「挪一下车」 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0807"></a>[O0807](../docs/核实记录/08-别把自己搭进去.md#o0807) | 原书 8.7：不把银行卡、手机卡、支付账号借给任何人，「跑分」不是兼职 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0808"></a>[O0808](../docs/核实记录/08-别把自己搭进去.md#o0808) | 原书 8.8：每年免费查两次自己的征信报告，看有没有不是自己办的贷款和卡 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0809"></a>[O0809](../docs/核实记录/08-别把自己搭进去.md#o0809) | 原书 8.9：起了冲突先报警不动手，先动手的那个几乎一定吃亏 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0810"></a>[O0810](../docs/核实记录/08-别把自己搭进去.md#o0810) | 原书 8.10：跟谁结了怨——被欠薪、被开除、被坑了钱——走投诉、仲裁、起诉，别去找人算账 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0811"></a>[O0811](../docs/核实记录/08-别把自己搭进去.md#o0811) | 原书 8.11：再恨也别对不相干的人下手：驾车冲撞人群、在公共场所行凶按以危险方法危害公共安全定罪，起刑三年，死了人就是死刑 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0812"></a>[O0812](../docs/核实记录/08-别把自己搭进去.md#o0812) | 原书 8.12：冒出「拉个垫背的」「同归于尽」这种念头，当急症处理：离开现场，把车钥匙和刀交给别人，打 12356 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0813"></a>[O0813](../docs/核实记录/08-别把自己搭进去.md#o0813) | 原书 8.13：身边人说出「谁也别想好过」「带着孩子一起走」，别当气话：近亲属可以直接送诊，公安接到报警也必须管 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0814"></a>[O0814](../docs/核实记录/08-别把自己搭进去.md#o0814) | 原书 8.14：网上不骂人、不造谣、不转发没核实的事；被网暴先留证再报警 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0815"></a>[O0815](../docs/核实记录/08-别把自己搭进去.md#o0815) | 原书 8.15：签字前把纸看完，不替人签字，不在空白纸上签 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0816"></a>[O0816](../docs/核实记录/08-别把自己搭进去.md#o0816) | 原书 8.16：借钱写清借条，替人担保前先想清楚自己愿不愿意替他还 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0817"></a>[O0817](../docs/核实记录/08-别把自己搭进去.md#o0817) | 原书 8.17：维权有期限：民事诉讼时效 3 年，劳动仲裁 1 年，过了对方一句「超过时效」就够 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0818"></a>[O0818](../docs/核实记录/08-别把自己搭进去.md#o0818) | 原书 8.18：被起诉、被执行了，如实报财产、能还多少还多少，别把房和钱转给亲友或公司 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0819"></a>[O0819](../docs/核实记录/08-别把自己搭进去.md#o0819) | 原书 8.19：被限制消费或者被列入失信名单，先查清是按哪一条纳入的，能纠正的申请纠正 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0820"></a>[O0820](../docs/核实记录/08-别把自己搭进去.md#o0820) | 原书 8.20：网购、二手交易被骗，先平台投诉，再报警，再算值不值得起诉 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0821"></a>[O0821](../docs/核实记录/08-别把自己搭进去.md#o0821) | 原书 8.21：恋爱和婚内的大额赠与，交付之前想清楚，交付之后原则上要不回 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0822"></a>[O0822](../docs/核实记录/08-别把自己搭进去.md#o0822) | 原书 8.22：彩礼走转账并备注，聊天记录留好；借婚姻要钱可以要回 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0823"></a>[O0823](../docs/核实记录/08-别把自己搭进去.md#o0823) | 原书 8.23：婚前财产不用怕，房子加名和父母出资先写清楚 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0824"></a>[O0824](../docs/核实记录/08-别把自己搭进去.md#o0824) | 原书 8.24：结婚前核对对方婚姻状况，以结婚为幌子骗钱的按诈骗罪追究 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0825"></a>[O0825](../docs/核实记录/08-别把自己搭进去.md#o0825) | 原书 8.25：上门维修、验车、装修，先问价再动手，全程在旁边看着 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0826"></a>[O0826](../docs/核实记录/08-别把自己搭进去.md#o0826) | 原书 8.26：别当「挂名法人」，别把身份证借给人注册公司 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0827"></a>[O0827](../docs/核实记录/08-别把自己搭进去.md#o0827) | 原书 8.27：出入境不帮陌生人带东西，不代收来路不明的包裹 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0828"></a>[O0828](../docs/核实记录/08-别把自己搭进去.md#o0828) | 原书 8.28：养狗必须牵绳：不牵绳出了事是无过错责任，赔到底 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0829"></a>[O0829](../docs/核实记录/08-别把自己搭进去.md#o0829) | 原书 8.29：对方喝到意识不清、睡着，或者可能不满 14 岁，就不要发生关系 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0830"></a>[O0830](../docs/核实记录/08-别把自己搭进去.md#o0830) | 原书 8.30：对方拿报警、发照片、告诉你单位来要钱，一分钱不给，直接报警 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0831"></a>[O0831](../docs/核实记录/08-别把自己搭进去.md#o0831) | 原书 8.31：被人捏造事实举报，可以要求追究：够治安处罚的拘留 5 日起，够罪的判 3 年以下 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0832"></a>[O0832](../docs/核实记录/08-别把自己搭进去.md#o0832) | 原书 8.32：证据不足本来就应当判无罪，逼出来的口供应当排除；判了还有申诉和再审 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0833"></a>[O0833](../docs/核实记录/08-别把自己搭进去.md#o0833) | 原书 8.33：被羁押后撤案、不起诉或者判无罪的，去申请国家赔偿，按天算钱 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0834"></a>[O0834](../docs/核实记录/08-别把自己搭进去.md#o0834) | 原书 8.34：自己是受害人去索赔，走 12315、起诉或者律师，别单独赴对方的约，别把「给钱」和「我不曝光」绑成一句话 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0835"></a>[O0835](../docs/核实记录/08-别把自己搭进去.md#o0835) | 原书 8.35：被网暴了：先开防护、先固证，再在平台、禁令、报警三条路里挑 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0901"></a>[O0901](../docs/核实记录/09-普通人容易踩的法律红线.md#o0901) | 原书 9.1：群里不转发不知真假的灾情、疫情、警情消息，不 P 图、不用 AI 造现场图 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0902"></a>[O0902](../docs/核实记录/09-普通人容易踩的法律红线.md#o0902) | 原书 9.2：不发、不转侮辱英烈的图片、表情包和评论，不拿国旗国歌开玩笑 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0903"></a>[O0903](../docs/核实记录/09-普通人容易踩的法律红线.md#o0903) | 原书 9.3：境外网站上的东西看完就关，不截图、不转发、不搬进群里，也不在评论区跟着说 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0904"></a>[O0904](../docs/核实记录/09-普通人容易踩的法律红线.md#o0904) | 原书 9.4：黄色视频自己看归自己，别往群里发、别卖「资源」、别建群 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0905"></a>[O0905](../docs/核实记录/09-普通人容易踩的法律红线.md#o0905) | 原书 9.5：「兼职」要你用自己的卡收钱、取现、转账，不管给多少好处费都不做 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0906"></a>[O0906](../docs/核实记录/09-普通人容易踩的法律红线.md#o0906) | 原书 9.6：有人拉你去「包装材料」贷款、按贷款额分你好处费，一个都不做 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0907"></a>[O0907](../docs/核实记录/09-普通人容易踩的法律红线.md#o0907) | 原书 9.7：捡到银行卡不取钱，捡到手机、钱包联系失主或交给警察，不揣走 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0908"></a>[O0908](../docs/核实记录/09-普通人容易踩的法律红线.md#o0908) | 原书 9.8：优惠用自己的真实身份领，不买虚拟号批量注册小号，不靠漏洞重复领 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0909"></a>[O0909](../docs/核实记录/09-普通人容易踩的法律红线.md#o0909) | 原书 9.9：阳台、窗户不往外扔任何东西，烟头、垃圾袋、酒瓶都算 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0910"></a>[O0910](../docs/核实记录/09-普通人容易踩的法律红线.md#o0910) | 原书 9.10：不网购仿真枪、钢珠枪、气枪，不买来路不明的「玩具枪」 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0911"></a>[O0911](../docs/核实记录/09-普通人容易踩的法律红线.md#o0911) | 原书 9.11：买了无人机先实名登记，机场、军事区和城市管制空域不飞，不破解限高 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0912"></a>[O0912](../docs/核实记录/09-普通人容易踩的法律红线.md#o0912) | 原书 9.12：不偷拍别人，不在出租屋、民宿、酒店房间装摄像头 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0913"></a>[O0913](../docs/核实记录/09-普通人容易踩的法律红线.md#o0913) | 原书 9.13：麻将、扑克可以打，不抽头、不当庄、不组局收钱，不玩网络赌博 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0914"></a>[O0914](../docs/核实记录/09-普通人容易踩的法律红线.md#o0914) | 原书 9.14：不吃野味，不买卖、不养保护动物当宠物 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0915"></a>[O0915](../docs/核实记录/09-普通人容易踩的法律红线.md#o0915) | 原书 9.15：要债不扣人、不关人、不跟到家里赖着不让走 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0916"></a>[O0916](../docs/核实记录/09-普通人容易踩的法律红线.md#o0916) | 原书 9.16：身份证不借人，不用别人的身份证，也不拿别人的证件登记、开卡、买票 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0917"></a>[O0917](../docs/核实记录/09-普通人容易踩的法律红线.md#o0917) | 原书 9.17：被警察拦下或带走时配合，不推、不打、不抢执法记录仪，喝了酒更要忍 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0918"></a>[O0918](../docs/核实记录/09-普通人容易踩的法律红线.md#o0918) | 原书 9.18：对方不满 14 岁就不能发生关系，「她同意」不是理由 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0919"></a>[O0919](../docs/核实记录/09-普通人容易踩的法律红线.md#o0919) | 原书 9.19：动手打人前算清这笔账：拘留、赔钱、判刑 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o0920"></a>[O0920](../docs/核实记录/09-普通人容易踩的法律红线.md#o0920) | 原书 9.20：孩子生下来养不了，只有民政登记这一条合法出路：收钱把孩子给人可能按拐卖罪判，扔下不管是遗弃罪 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1001"></a>[O1001](../docs/核实记录/10-恋爱和结婚划不划算.md#o1001) | 原书 10.1：认识更多人，而不是死磕一个：两个人合不合得来，见面之前预测不出来 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1002"></a>[O1002](../docs/核实记录/10-恋爱和结婚划不划算.md#o1002) | 原书 10.2：对方明确拒绝之后就停下，继续纠缠是治安违法，不是「诚意」 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1003"></a>[O1003](../docs/核实记录/10-恋爱和结婚划不划算.md#o1003) | 原书 10.3：判断对方有没有兴趣，看行为不看「信号」：谁主动、谁安排、谁跟进 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1004"></a>[O1004](../docs/核实记录/10-恋爱和结婚划不划算.md#o1004) | 原书 10.4：关系好不好，主要看你自己在这段关系里的感受，不是看对方条件 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1005"></a>[O1005](../docs/核实记录/10-恋爱和结婚划不划算.md#o1005) | 原书 10.5：想拉近距离就轮流回答一组由浅入深的问题，别学话术 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1006"></a>[O1006](../docs/核实记录/10-恋爱和结婚划不划算.md#o1006) | 原书 10.6：异地不比同城差，真正的坎是搬到一起之后的头三个月 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1007"></a>[O1007](../docs/核实记录/10-恋爱和结婚划不划算.md#o1007) | 原书 10.7：先看登记数据再听长辈：结婚率、离婚率各是什么口径 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1008"></a>[O1008](../docs/核实记录/10-恋爱和结婚划不划算.md#o1008) | 原书 10.8：把健康收益算进去，但按观察性数据打折 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1009"></a>[O1009](../docs/核实记录/10-恋爱和结婚划不划算.md#o1009) | 原书 10.9：时间账按「无酬劳动」算，谈清分工再领证 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1010"></a>[O1010](../docs/核实记录/10-恋爱和结婚划不划算.md#o1010) | 原书 10.10：钱账先看法律默认规则，再决定要不要书面约定 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1011"></a>[O1011](../docs/核实记录/10-恋爱和结婚划不划算.md#o1011) | 原书 10.11：父母出资买房，在转账的时候就把是借是送写清楚 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1012"></a>[O1012](../docs/核实记录/10-恋爱和结婚划不划算.md#o1012) | 原书 10.12：配偶一方大额借的钱，你没签字也没追认，不自动变成你的债 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1013"></a>[O1013](../docs/核实记录/10-恋爱和结婚划不划算.md#o1013) | 原书 10.13：领证只要身份证加一份签字声明，不用户口簿，不收钱，当场发证 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1014"></a>[O1014](../docs/核实记录/10-恋爱和结婚划不划算.md#o1014) | 原书 10.14：婚前做一次婚检，有重大疾病必须在登记前如实告诉对方 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1015"></a>[O1015](../docs/核实记录/10-恋爱和结婚划不划算.md#o1015) | 原书 10.15：情绪价值别只问「有没有」，要看关系质量 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1016"></a>[O1016](../docs/核实记录/10-恋爱和结婚划不划算.md#o1016) | 原书 10.16：算退出成本：协议离婚有 30 天冷静期，诉讼离婚有法定条件 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1017"></a>[O1017](../docs/核实记录/10-恋爱和结婚划不划算.md#o1017) | 原书 10.17：给「为长辈结婚」单独记一笔账，别和自己的账混在一起 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1101"></a>[O1101](../docs/核实记录/11-程序员和技术人容易踩的红线.md#o1101) | 原书 11.1：动手前先问三句：损害了谁的利益、对方多有能力追究、我留了多少证据；被追究后马上找刑事律师 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1102"></a>[O1102](../docs/核实记录/11-程序员和技术人容易踩的红线.md#o1102) | 原书 11.2：不做、不卖游戏外挂和辅助，包括「只读屏幕不碰内存」的 AI 辅助 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1103"></a>[O1103](../docs/核实记录/11-程序员和技术人容易踩的红线.md#o1103) | 原书 11.3：不写、不卖抢票、秒杀、刷单、薅羊毛脚本，哪怕只是「自动化点按钮」 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1104"></a>[O1104](../docs/核实记录/11-程序员和技术人容易踩的红线.md#o1104) | 原书 11.4：爬虫只爬无需登录的公开页面，不绕反爬、不碰个人信息，爬到的数据不卖 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1105"></a>[O1105](../docs/核实记录/11-程序员和技术人容易踩的红线.md#o1105) | 原书 11.5：不接赌博、诈骗、色情 App 的开发单，不替「客户」搭支付通道、解封账号 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1106"></a>[O1106](../docs/核实记录/11-程序员和技术人容易踩的红线.md#o1106) | 原书 11.6：离职时交清账号权限，不删库、不留后门、不改密码锁系统，哪怕公司欠你钱 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1107"></a>[O1107](../docs/核实记录/11-程序员和技术人容易踩的红线.md#o1107) | 原书 11.7：离职不带走源码、客户名单和技术文档，不上传个人网盘，不在下家复用 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1108"></a>[O1108](../docs/核实记录/11-程序员和技术人容易踩的红线.md#o1108) | 原书 11.8：不在别人的电脑、服务器、摄像头上跑自己的程序，公司机器不拿来挖矿 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1109"></a>[O1109](../docs/核实记录/11-程序员和技术人容易踩的红线.md#o1109) | 原书 11.9：不卖翻墙工具、VPN 账号，不替人搭这类节点 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1110"></a>[O1110](../docs/核实记录/11-程序员和技术人容易踩的红线.md#o1110) | 原书 11.10：签了竞业协议，离职后公司不按月给补偿就书面催告，满 3 个月没给可以解除；没接触过商业秘密的岗位可请求确认条款不生效 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1111"></a>[O1111](../docs/核实记录/11-程序员和技术人容易踩的红线.md#o1111) | 原书 11.11：上班时间、用公司资源写的代码归公司，自己的开源项目用自己的时间和设备做，不混公司代码 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1112"></a>[O1112](../docs/核实记录/11-程序员和技术人容易踩的红线.md#o1112) | 原书 11.12：用 GPL 等开源代码做产品，按许可证要求开源或换许可证，不当「没人管」 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1113"></a>[O1113](../docs/核实记录/11-程序员和技术人容易踩的红线.md#o1113) | 原书 11.13：做 App 只收业务必需的个人信息，14 岁以下要监护人同意，隐私政策写清楚 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1114"></a>[O1114](../docs/核实记录/11-程序员和技术人容易踩的红线.md#o1114) | 原书 11.14：网站、App 上线前先做 ICP 备案，按等级保护要求留 6 个月以上日志 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1115"></a>[O1115](../docs/核实记录/11-程序员和技术人容易踩的红线.md#o1115) | 原书 11.15：对公众提供生成式 AI 服务前先按规定做安全评估和算法备案，生成内容加标识 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1201"></a>[O1201](../docs/核实记录/12-创业与做生意.md#o1201) | 原书 12.1：只拿亏得起的钱创业，不动家底、不借钱开张 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1202"></a>[O1202](../docs/核实记录/12-创业与做生意.md#o1202) | 原书 12.2：不给公司贷款签个人担保，配偶更不要跟着签 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1203"></a>[O1203](../docs/核实记录/12-创业与做生意.md#o1203) | 原书 12.3：开张前选对主体：个体户和合伙人赔到底，有限公司才「有限」 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1204"></a>[O1204](../docs/核实记录/12-创业与做生意.md#o1204) | 原书 12.4：不当挂名股东，不替人代持股权 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1205"></a>[O1205](../docs/核实记录/12-创业与做生意.md#o1205) | 原书 12.5：加盟前先查商务部备案，拿到书面披露，把「冷静期」写进合同 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1206"></a>[O1206](../docs/核实记录/12-创业与做生意.md#o1206) | 原书 12.6：注册前把名称、经营场所、经营范围和注册资本定下来，材料齐了当场就能领执照 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1207"></a>[O1207](../docs/核实记录/12-创业与做生意.md#o1207) | 原书 12.7：要许可证的行当，证没下来不开张 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1208"></a>[O1208](../docs/核实记录/12-创业与做生意.md#o1208) | 原书 12.8：领了执照就开始有申报义务，没有收入也要按期零申报 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1209"></a>[O1209](../docs/核实记录/12-创业与做生意.md#o1209) | 原书 12.9：发票只按真实交易开，小规模纳税人用足免税额 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1210"></a>[O1210](../docs/核实记录/12-创业与做生意.md#o1210) | 原书 12.10：自称税务局催你交钱报税的都是骗子，办税只走电子税务局和 12366 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1211"></a>[O1211](../docs/核实记录/12-创业与做生意.md#o1211) | 原书 12.11：收钱写「定金」不写「订金」，违约金写明数，账期当放贷来审 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1212"></a>[O1212](../docs/核实记录/12-创业与做生意.md#o1212) | 原书 12.12：用人第一个月内签书面合同，30 日内办社保登记 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1213"></a>[O1213](../docs/核实记录/12-创业与做生意.md#o1213) | 原书 12.13：工资按合同和法律给，加薪、借款、奖金都走书面 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1214"></a>[O1214](../docs/核实记录/12-创业与做生意.md#o1214) | 原书 12.14：先卖再造：用预售和小订单验证有人买，再投钱生产 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1215"></a>[O1215](../docs/核实记录/12-创业与做生意.md#o1215) | 原书 12.15：样品做出来先过一遍量产清单，再谈开工 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1216"></a>[O1216](../docs/核实记录/12-创业与做生意.md#o1216) | 原书 12.16：进货一批留一批票据和上家信息，进货价明显低于市场价的不进：员工进的假货，老板是被判的那个 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1217"></a>[O1217](../docs/核实记录/12-创业与做生意.md#o1217) | 原书 12.17：商品、包装、吊牌和宣传图上的图案要么自己做要么买授权，改个颜色、加个图标不算「改过了」 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1218"></a>[O1218](../docs/核实记录/12-创业与做生意.md#o1218) | 原书 12.18：在岗位上按规程办事，规程之外的好意先想清楚责任归谁 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1219"></a>[O1219](../docs/核实记录/12-创业与做生意.md#o1219) | 原书 12.19：亏了就按程序退场：能简易注销就注销，资不抵债走破产，别放着不管 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1301"></a>[O1301](../docs/核实记录/13-紧急情况.md#o1301) | 原书 13.1：有人倒地没呼吸，立刻用力按压胸口，让旁人打 120 并找 AED | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1302"></a>[O1302](../docs/核实记录/13-紧急情况.md#o1302) | 原书 13.2：老人摔倒、有人倒地，先蹲下喊他、打 120，别急着把人扶起来；陌生人这档走开也合法，停下来就别上手搬 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1303"></a>[O1303](../docs/核实记录/13-紧急情况.md#o1303) | 原书 13.3：突然嘴歪、一侧胳膊没劲、说话说不清，立刻打 120，不要等、不要自己开车去 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1304"></a>[O1304](../docs/核实记录/13-紧急情况.md#o1304) | 原书 13.4：突然天旋地转站不稳、看东西成双、一只眼发黑，或者手指点不到自己鼻尖，也按卒中打 120 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1305"></a>[O1305](../docs/核实记录/13-紧急情况.md#o1305) | 原书 13.5：一只眼睛突然像拉下窗帘一样黑掉，哪怕几分钟就自己好了，也当天按卒中去急诊 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1306"></a>[O1306](../docs/核实记录/13-紧急情况.md#o1306) | 原书 13.6：胸口压着疼、闷、发紧超过 15 分钟不缓解，打 120，不要自己扛也不要自己开车 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1307"></a>[O1307](../docs/核实记录/13-紧急情况.md#o1307) | 原书 13.7：突然像被撕开一样的剧痛，从胸口往后背、往腰一路挪，打 120 并说清「疼在移动」 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1308"></a>[O1308](../docs/核实记录/13-紧急情况.md#o1308) | 原书 13.8：突然一记「这辈子最疼的头痛」，一小时内就到最疼，立刻去急诊做头颅 CT | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1309"></a>[O1309](../docs/核实记录/13-紧急情况.md#o1309) | 原书 13.9：老人磕过头之后两三周到几个月变得走路不稳、迟钝、嗜睡或者一侧没劲，去做头颅 CT | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1310"></a>[O1310](../docs/核实记录/13-紧急情况.md#o1310) | 原书 13.10：一条腿突然肿起来、发紧、按着疼，尽快就医；再加上突然喘不上气或者胸痛，立刻打 120 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1311"></a>[O1311](../docs/核实记录/13-紧急情况.md#o1311) | 原书 13.11：大出血先用手死死压住伤口，四肢压不住就上止血带，同时打 120 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1312"></a>[O1312](../docs/核实记录/13-紧急情况.md#o1312) | 原书 13.12：被狗、猫咬伤或抓破皮，先用肥皂水和流水交替冲 15 分钟，当天去打疫苗 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1313"></a>[O1313](../docs/核实记录/13-紧急情况.md#o1313) | 原书 13.13：烫伤后立刻用凉的流动水冲 20 分钟，别抹牙膏酱油 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1314"></a>[O1314](../docs/核实记录/13-紧急情况.md#o1314) | 原书 13.14：突然全身起疹、喘不上气或者发晕，按过敏性休克处理，立刻叫 120 并说清楚 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1315"></a>[O1315](../docs/核实记录/13-紧急情况.md#o1315) | 原书 13.15：有人抽搐倒地，清开周围、让他侧躺、看表计时，什么都别往嘴里塞 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1316"></a>[O1316](../docs/核实记录/13-紧急情况.md#o1316) | 原书 13.16：糖尿病人突然发抖、出冷汗、说话不清，先给 15 克糖，15 分钟后复测 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1317"></a>[O1317](../docs/核实记录/13-紧急情况.md#o1317) | 原书 13.17：有人触电，先断电，再用干燥的木棍之类挑开电源，不要直接上手拉 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1318"></a>[O1318](../docs/核实记录/13-紧急情况.md#o1318) | 原书 13.18：一氧化碳报警器响了，或者一屋子人同时头痛恶心，先出门再打电话 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1319"></a>[O1319](../docs/核实记录/13-紧急情况.md#o1319) | 原书 13.19：误服清洁剂、农药、药物先别催吐，带上瓶子立刻就医；溅到眼睛或皮肤用大量清水冲 15 分钟 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1320"></a>[O1320](../docs/核实记录/13-紧急情况.md#o1320) | 原书 13.20：酸碱等化学品溅到身上，立刻脱掉污染的衣服、用大量流动清水冲，眼睛要掰开眼皮冲，冲够时间再走 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1321"></a>[O1321](../docs/核实记录/13-紧急情况.md#o1321) | 原书 13.21：记住七种最常见的网络骗局，凡是让你先转钱、先交费、共享屏幕的直接挂 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1322"></a>[O1322](../docs/核实记录/13-紧急情况.md#o1322) | 原书 13.22：被人用隐私照片、视频威胁，一分钱不给、一条记录不删，立刻报警 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1323"></a>[O1323](../docs/核实记录/13-紧急情况.md#o1323) | 原书 13.23：高温下头晕、恶心、不出汗或意识不清，立刻挪到阴凉处脱衣泼水降温，意识不清的不喂水、打 120 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1324"></a>[O1324](../docs/核实记录/13-紧急情况.md#o1324) | 原书 13.24：中暑的人只要清醒，就少量多次喝凉的淡盐水或运动饮料，别猛灌、别喝酒和高糖饮料 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1325"></a>[O1325](../docs/核实记录/13-紧急情况.md#o1325) | 原书 13.25：火灾时贴地爬、摸门再开门、门烫就别开，走楼梯不坐电梯，出去了别回头 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1326"></a>[O1326](../docs/核实记录/13-紧急情况.md#o1326) | 原书 13.26：看到有人溺水，先叫人和打 110/120，伸竿、抛漂浮物，自己不下水 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1327"></a>[O1327](../docs/核实记录/13-紧急情况.md#o1327) | 原书 13.27：有人噎住说不出话，站到背后做 5 次拍背加 5 次腹部冲击，倒下就做心肺复苏 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1328"></a>[O1328](../docs/核实记录/13-紧急情况.md#o1328) | 原书 13.28：在戈壁、沙漠、无人区迷路或车坏了，留在原地或车旁，先报位置，再遮阳保温，省水，不乱走 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1329"></a>[O1329](../docs/核实记录/13-紧急情况.md#o1329) | 原书 13.29：发抖、说话含糊、走路打晃是失温，换掉湿衣、包起来，先暖躯干，喝热甜饮不喝酒 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1330"></a>[O1330](../docs/核实记录/13-紧急情况.md#o1330) | 原书 13.30：被蛇咬，坐下别动、摘掉戒指手表、尽快送医院打抗蛇毒血清，不切、不吸、不绑死 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1331"></a>[O1331](../docs/核实记录/13-紧急情况.md#o1331) | 原书 13.31：地震时先看自己在什么房子里：符合抗震设防的楼里就地躲，会垮的老房子门在几步外就出去 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1332"></a>[O1332](../docs/核实记录/13-紧急情况.md#o1332) | 原书 13.32：遇到熊、野猪、成群野狗，别跑、别尖叫、别对视，侧身慢慢退开 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1333"></a>[O1333](../docs/核实记录/13-紧急情况.md#o1333) | 原书 13.33：野外遇上雷雨，钻进有硬顶的车或建筑，避开山脊、孤树、水面和金属 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1334"></a>[O1334](../docs/核实记录/13-紧急情况.md#o1334) | 原书 13.34：上高原按睡眠海拔慢慢升，症状加重就下撤，不要硬扛 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1335"></a>[O1335](../docs/核实记录/13-紧急情况.md#o1335) | 原书 13.35：被蜱虫叮住，用尖头镊子贴着皮肤稳稳拉出来，别涂油别用火烧 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1336"></a>[O1336](../docs/核实记录/13-紧急情况.md#o1336) | 原书 13.36：野外的水一律烧开再喝，滚开一分钟就够，不用因为海拔高多煮 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1337"></a>[O1337](../docs/核实记录/13-紧急情况.md#o1337) | 原书 13.37：荒郊野外被陌生人索财，钱给他，不动手，记特征，脱身后报警 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1338"></a>[O1338](../docs/核实记录/13-紧急情况.md#o1338) | 原书 13.38：撞见一群人打架，退开走人，别上去拉架、别围观、别捡地上的家伙；要报警就退到安全距离打 110 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1339"></a>[O1339](../docs/核实记录/13-紧急情况.md#o1339) | 原书 13.39：可能被 HIV 暴露了，72 小时内去拿阻断药，越早越好 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1340"></a>[O1340](../docs/核实记录/13-紧急情况.md#o1340) | 原书 13.40：救人受了伤、搭进了钱，先找加害人和医保，再去申报见义勇为确认 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1341"></a>[O1341](../docs/核实记录/13-紧急情况.md#o1341) | 原书 13.41：刀、钢筋、玻璃扎进身体，压住异物周围止血，不要把它拔出来 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1342"></a>[O1342](../docs/核实记录/13-紧急情况.md#o1342) | 原书 13.42：怀疑骨折就别再动那个部位，托着不动、冷敷 20 分钟以内，别自己掰正 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1401"></a>[O1401](../docs/核实记录/14-账号与信息安全.md#o1401) | 原书 14.1：邮箱、支付、社交账号都开二次验证，优先用手机弹窗确认，其次才是短信验证码 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1402"></a>[O1402](../docs/核实记录/14-账号与信息安全.md#o1402) | 原书 14.2：邮箱密码单独一个，不和任何网站重复 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1403"></a>[O1403](../docs/核实记录/14-账号与信息安全.md#o1403) | 原书 14.3：手机设锁屏密码，SIM 卡设 PIN 码 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1404"></a>[O1404](../docs/核实记录/14-账号与信息安全.md#o1404) | 原书 14.4：手机丢了按这个顺序做：挂失 SIM 卡、远程锁定、改密码、报警、冻结银行卡 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1405"></a>[O1405](../docs/核实记录/14-账号与信息安全.md#o1405) | 原书 14.5：卡被盗刷先挂失冻结再报警，然后要求银行赔：证明「是你自己刷的」是银行的责任 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1406"></a>[O1406](../docs/核实记录/14-账号与信息安全.md#o1406) | 原书 14.6：每隔一段时间看一次账号的登录设备和已授权应用，不用的清掉 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1407"></a>[O1407](../docs/核实记录/14-账号与信息安全.md#o1407) | 原书 14.7：别为了用 App 点「全部同意」：不是必需的信息，你不同意也不能拒绝给你服务 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1408"></a>[O1408](../docs/核实记录/14-账号与信息安全.md#o1408) | 原书 14.8：你有权查看、复制、更正和删除自己的个人信息，被拒绝可以起诉 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1409"></a>[O1409](../docs/核实记录/14-账号与信息安全.md#o1409) | 原书 14.9：刷脸不是必须答应的：有别的办法就不能只让你刷脸，你不同意得给你其他方式 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1501"></a>[O1501](../docs/核实记录/15-租房与买房.md#o1501) | 原书 15.1：押金的数额、退还时间和扣减情形，必须写进合同 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1502"></a>[O1502](../docs/核实记录/15-租房与买房.md#o1502) | 原书 15.2：被断水断电、换锁、上门威胁赶人，先报警留证：法规禁止用这些方式逼你腾房 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1503"></a>[O1503](../docs/核实记录/15-租房与买房.md#o1503) | 原书 15.3：中介不得代收代付租金和押金，钱直接给房东 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1504"></a>[O1504](../docs/核实记录/15-租房与买房.md#o1504) | 原书 15.4：租长租公寓先查它的资金监管账户，别图便宜一次性付一年 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1505"></a>[O1505](../docs/核实记录/15-租房与买房.md#o1505) | 原书 15.5：房子租期内被卖掉，租约继续有效，不用搬 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1506"></a>[O1506](../docs/核实记录/15-租房与买房.md#o1506) | 原书 15.6：签约前核对产权证和抵押情况，所有款项走转账并备注用途 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1507"></a>[O1507](../docs/核实记录/15-租房与买房.md#o1507) | 原书 15.7：二手房让中介代收房款的，必须走中介在银行开的交易资金专用存款账户 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1508"></a>[O1508](../docs/核实记录/15-租房与买房.md#o1508) | 原书 15.8：别租隔断房：最小出租单位是原设计的房间，厨房、卫生间、阳台不得住人 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1601"></a>[O1601](../docs/核实记录/16-得了慢性病之后怎么活.md#o1601) | 原书 16.1：药按医嘱吃满，别感觉好了就停 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1602"></a>[O1602](../docs/核实记录/16-得了慢性病之后怎么活.md#o1602) | 原书 16.2：先办门诊慢特病认定再办异地备案，高血压、糖尿病、放化疗、透析、抗排异就能异地直接结算 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1603"></a>[O1603](../docs/核实记录/16-得了慢性病之后怎么活.md#o1603) | 原书 16.3：复查按医生给的间隔做，把每次的指标记在同一个本子上 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1604"></a>[O1604](../docs/核实记录/16-得了慢性病之后怎么活.md#o1604) | 原书 16.4：别为了试偏方、保健品停掉正规治疗 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1605"></a>[O1605](../docs/核实记录/16-得了慢性病之后怎么活.md#o1605) | 原书 16.5：病情稳定的慢性病，在社区医院一次可以开到 12 周的药 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1606"></a>[O1606](../docs/核实记录/16-得了慢性病之后怎么活.md#o1606) | 原书 16.6：在社区签家庭医生之前，问清楚哪些进医保、哪些自费 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1607"></a>[O1607](../docs/核实记录/16-得了慢性病之后怎么活.md#o1607) | 原书 16.7：确诊糖尿病就去查一次眼底，之后按医生给的间隔查；每年查一次脚 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1701"></a>[O1701](../docs/核实记录/17-家里有老人.md#o1701) | 原书 17.1：趁老人清醒，书面指定将来的监护人 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1702"></a>[O1702](../docs/核实记录/17-家里有老人.md#o1702) | 原书 17.2：把遗嘱立了，记住后立的推翻先立的，公证遗嘱不再优先 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1703"></a>[O1703](../docs/核实记录/17-家里有老人.md#o1703) | 原书 17.3：老人的钱单独放一个账户，大额支出定一个双人确认的规矩 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1704"></a>[O1704](../docs/核实记录/17-家里有老人.md#o1704) | 原书 17.4：给老人一句可以随时说出口的挡箭牌话术 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1705"></a>[O1705](../docs/核实记录/17-家里有老人.md#o1705) | 原书 17.5：凡是让老人先交钱的「投资养老」都别碰：办卡、买床位、买养老公寓、旅居养老、买老年产品是同一套非法集资 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1706"></a>[O1706](../docs/核实记录/17-家里有老人.md#o1706) | 原书 17.6：除了保险公司的住房反向抵押养老保险，其他「以房养老」都别碰，绝不抵押房子去买理财 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1707"></a>[O1707](../docs/核实记录/17-家里有老人.md#o1707) | 原书 17.7：家里老人长期卧床或重度失能，去参保地医保部门申请长期护理保险 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1801"></a>[O1801](../docs/核实记录/18-养孩子划不划算.md#o1801) | 原书 18.1：先把能领的算进来：国家育儿补贴每孩每年 3600 元，发到 3 岁 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1802"></a>[O1802](../docs/核实记录/18-养孩子划不划算.md#o1802) | 原书 18.2：产假 98 天，生育津贴由生育保险基金按单位上年度职工月平均工资发 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1803"></a>[O1803](../docs/核实记录/18-养孩子划不划算.md#o1803) | 原书 18.3：知道这条：不得因怀孕、生育、哺乳降工资或者辞退 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1804"></a>[O1804](../docs/核实记录/18-养孩子划不划算.md#o1804) | 原书 18.4：时间账按「谁的时间被占掉」算，不按「辛不辛苦」算 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1805"></a>[O1805](../docs/核实记录/18-养孩子划不划算.md#o1805) | 原书 18.5：钱账分三段算：0 到 3 岁、义务教育、义务教育之后 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1806"></a>[O1806](../docs/核实记录/18-养孩子划不划算.md#o1806) | 原书 18.6：为长辈生、为婚姻生、为养老生，各记一笔账 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1901"></a>[O1901](../docs/核实记录/19-在职离职和工伤.md#o1901) | 原书 19.1：加班费按 1.5 倍、2 倍、3 倍三档算，不给就投诉劳动监察，逾期不付还要加付 50% 到 100% | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1902"></a>[O1902](../docs/核实记录/19-在职离职和工伤.md#o1902) | 原书 19.2：年休假按累计工龄算 5、10、15 天，没休成的按日工资 300% 折钱 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1903"></a>[O1903](../docs/核实记录/19-在职离职和工伤.md#o1903) | 原书 19.3：试用期有法定上限、工资不得低于 80%，而且只能约定一次 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1904"></a>[O1904](../docs/核实记录/19-在职离职和工伤.md#o1904) | 原书 19.4：被裁先算清 N：每满一年一个月工资，不满六个月按半个月 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1905"></a>[O1905](../docs/核实记录/19-在职离职和工伤.md#o1905) | 原书 19.5：公司没提前 30 天通知，还要多付一个月工资 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1906"></a>[O1906](../docs/核实记录/19-在职离职和工伤.md#o1906) | 原书 19.6：公司违法解除的，赔偿金是经济补偿标准的二倍 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1907"></a>[O1907](../docs/核实记录/19-在职离职和工伤.md#o1907) | 原书 19.7：不要签「个人原因主动辞职」，那一签就没有 N 了 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1908"></a>[O1908](../docs/核实记录/19-在职离职和工伤.md#o1908) | 原书 19.8：离职前把工资条、考勤、劳动合同、社保记录和聊天记录先存下来 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1909"></a>[O1909](../docs/核实记录/19-在职离职和工伤.md#o1909) | 原书 19.9：走人之后立刻办两件事：失业登记领失业保险金，看清竞业协议 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1910"></a>[O1910](../docs/核实记录/19-在职离职和工伤.md#o1910) | 原书 19.10：进有粉尘、噪声、化学品的岗位之前，先看合同里写没写危害；三次职业健康检查由单位安排并掏钱 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1911"></a>[O1911](../docs/核实记录/19-在职离职和工伤.md#o1911) | 原书 19.11：粉尘、噪声、化学毒物造成的损伤不可逆：防护用品单位必须给，没有防护措施的作业可以拒绝 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1912"></a>[O1912](../docs/核实记录/19-在职离职和工伤.md#o1912) | 原书 19.12：上班受伤、上下班路上被撞，第一件事是做工伤认定，单位不报你自己报 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1913"></a>[O1913](../docs/核实记录/19-在职离职和工伤.md#o1913) | 原书 19.13：别信「撑到工位就算工伤」：突发不适先打 120，不是先赶去打卡 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1914"></a>[O1914](../docs/核实记录/19-在职离职和工伤.md#o1914) | 原书 19.14：单位没给你交工伤保险，工伤待遇一样有，由单位按同样的标准全额出 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1915"></a>[O1915](../docs/核实记录/19-在职离职和工伤.md#o1915) | 原书 19.15：伤情稳定后去做劳动能力鉴定，伤残等级直接换算成钱 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o1916"></a>[O1916](../docs/核实记录/19-在职离职和工伤.md#o1916) | 原书 19.16：工亡的三笔钱要分清：丧葬补助金、供养亲属抚恤金、一次性工亡补助金 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o2001"></a>[O2001](../docs/核实记录/20-刚出生的孩子怎么带.md#o2001) | 原书 20.1：让孩子仰着睡，睡硬的平面，同房不同床，床上不放任何软东西 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o2002"></a>[O2002](../docs/核实记录/20-刚出生的孩子怎么带.md#o2002) | 原书 20.2：出生后 24 小时内打上乙肝疫苗第一针 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o2003"></a>[O2003](../docs/核实记录/20-刚出生的孩子怎么带.md#o2003) | 原书 20.3：按国家免疫规划把该打的疫苗打齐，全程免费，错过了只补没打完的剂次 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o2004"></a>[O2004](../docs/核实记录/20-刚出生的孩子怎么带.md#o2004) | 原书 20.4：前 6 个月只喂母乳，连水都不用喂，6 个月起加辅食并继续母乳 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o2005"></a>[O2005](../docs/核实记录/20-刚出生的孩子怎么带.md#o2005) | 原书 20.5：冲奶粉用 70 ℃ 以上的水，冲好放凉再喂，喝剩的倒掉 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o2006"></a>[O2006](../docs/核实记录/20-刚出生的孩子怎么带.md#o2006) | 原书 20.6：不满 1 岁不喂蜂蜜 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o2007"></a>[O2007](../docs/核实记录/20-刚出生的孩子怎么带.md#o2007) | 原书 20.7：出生时的维生素 K 针一定要打 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o2008"></a>[O2008](../docs/核实记录/20-刚出生的孩子怎么带.md#o2008) | 原书 20.8：不满 3 个月的婴儿体温到 38 ℃ 就直接去医院，不在家观察 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o2009"></a>[O2009](../docs/核实记录/20-刚出生的孩子怎么带.md#o2009) | 原书 20.9：无论多累多气都不要摇晃婴儿 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o2010"></a>[O2010](../docs/核实记录/20-刚出生的孩子怎么带.md#o2010) | 原书 20.10：尿布不看牌子看三件事：合不合身、换得勤不勤、有没有被抽检通报过 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o2011"></a>[O2011](../docs/核实记录/20-刚出生的孩子怎么带.md#o2011) | 原书 20.11：大件按「借、买二手、买新」的顺序考虑，别一次性配齐 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o2101"></a>[O2101](../docs/核实记录/21-出国旅行与境外安全.md#o2101) | 原书 21.1：出发前查一次外交部安全提醒，标了「暂勿前往」的地方就别去 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o2102"></a>[O2102](../docs/核实记录/21-出国旅行与境外安全.md#o2102) | 原书 21.2：把 12308 和当地使领馆的领保电话存进手机，别等出事再找 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o2103"></a>[O2103](../docs/核实记录/21-出国旅行与境外安全.md#o2103) | 原书 21.3：知道领事保护能做什么、不能做什么：能探视，不能捞人，费用还得自己付 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o2104"></a>[O2104](../docs/核实记录/21-出国旅行与境外安全.md#o2104) | 原书 21.4：买一份含境外医疗和医疗转运的保险，别只买航班延误险 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o2105"></a>[O2105](../docs/核实记录/21-出国旅行与境外安全.md#o2105) | 原书 21.5：「境外高薪招聘」一律当诈骗看，被骗去做电诈回来还要被限制出境 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o2106"></a>[O2106](../docs/核实记录/21-出国旅行与境外安全.md#o2106) | 原书 21.6：护照、签证、身份证都拍照存一份在云端，丢了先报警再补旅行证 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o2107"></a>[O2107](../docs/核实记录/21-出国旅行与境外安全.md#o2107) | 原书 21.7：境外自驾先确认当地认不认中国驾照，网上卖的「国际驾照」多数是废纸 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o2108"></a>[O2108](../docs/核实记录/21-出国旅行与境外安全.md#o2108) | 原书 21.8：找中介办签证、留学、移民，先问它有没有在移民管理机构备案 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o2109"></a>[O2109](../docs/核实记录/21-出国旅行与境外安全.md#o2109) | 原书 21.9：别替陌生人出具邀请函，也别让人借你的名义办出入境手续 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o2110"></a>[O2110](../docs/核实记录/21-出国旅行与境外安全.md#o2110) | 原书 21.10：出境前把行程、住处和同行人发给一位家人，约好多久联系一次 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o2201"></a>[O2201](../docs/核实记录/22-怎么放松.md#o2201) | 原书 22.1：进 KTV、酒吧、密室之前先看一眼安全出口在哪，被锁被堵就换一家 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o2202"></a>[O2202](../docs/核实记录/22-怎么放松.md#o2202) | 原书 22.2：点单前要价目表，娱乐场所必须明码标价，不接受「先玩后算」 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o2203"></a>[O2203](../docs/核实记录/22-怎么放松.md#o2203) | 原书 22.3：场子里有人递「东西」就立刻走，容留和提供都不是「帮朋友」 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o2204"></a>[O2204](../docs/核实记录/22-怎么放松.md#o2204) | 原书 22.4：不吃陌生人给的糖和零食，不喝离开过视线的饮料，不接别人递的烟弹 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o2205"></a>[O2205](../docs/核实记录/22-怎么放松.md#o2205) | 原书 22.5：网吧上网用自己的身份证，别借证也别用别人的证 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o2206"></a>[O2206](../docs/核实记录/22-怎么放松.md#o2206) | 原书 22.6：剧本杀、密室别去开在居民楼里或者地下二层以下的 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o2207"></a>[O2207](../docs/核实记录/22-怎么放松.md#o2207) | 原书 22.7：心情差就去走或者跑，抗抑郁的效应量跟强度成正比 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o2208"></a>[O2208](../docs/核实记录/22-怎么放松.md#o2208) | 原书 22.8：焦虑到影响生活时，正念减压课的效果不劣于常用的抗焦虑药 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o2209"></a>[O2209](../docs/核实记录/22-怎么放松.md#o2209) | 原书 22.9：当场想缓过来，用 5 分钟「循环叹息」：吸气两段，呼气拉长 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o2210"></a>[O2210](../docs/核实记录/22-怎么放松.md#o2210) | 原书 22.10：把「定期和人见面」当成健康支出，别只在心情差时才找人 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o2211"></a>[O2211](../docs/核实记录/22-怎么放松.md#o2211) | 原书 22.11：住得离绿地近就多用它，散步、遛弯、坐着都算 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o2301"></a>[O2301](../docs/核实记录/23-学什么技能划算.md#o2301) | 原书 23.1：不满 16 周岁没有「去打工」这个选项：招你的单位每月被罚 5000 元，肯招的都是黑工 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o2302"></a>[O2302](../docs/核实记录/23-学什么技能划算.md#o2302) | 原书 23.2：把「读书有没有用」也放进死亡率账里：每多受一年教育，成人死亡风险降约 1.9% | 原书转引；未据此声称独立阅读全文 |
+| <a id="o2303"></a>[O2303](../docs/核实记录/23-学什么技能划算.md#o2303) | 原书 23.3：判断「学历是不是贬值了」之前，先看全国的学历结构：每 10 万人里只有 15467 人有大学文化程度 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o2304"></a>[O2304](../docs/核实记录/23-学什么技能划算.md#o2304) | 原书 23.4：「读不起」先按政策算一遍：中职学费大多已免，助学金 2300 元，助学贷款每年最高 2 万 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o2305"></a>[O2305](../docs/核实记录/23-学什么技能划算.md#o2305) | 原书 23.5：没考上普高不等于路断了：中职有贯通招生和单独考试，技能岗位招聘还可以降学历要求 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o2306"></a>[O2306](../docs/核实记录/23-学什么技能划算.md#o2306) | 原书 23.6：把「读书还是打工」算成一道题：早挣的三年工资，对上往后几十年的年收入差 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o2307"></a>[O2307](../docs/核实记录/23-学什么技能划算.md#o2307) | 原书 23.7：先记住基准线：多受一年教育，全球平均的私人回报约为每年 9% | 原书转引；未据此声称独立阅读全文 |
+| <a id="o2308"></a>[O2308](../docs/核实记录/23-学什么技能划算.md#o2308) | 原书 23.8：花钱考证之前，先查这张证在不在国家职业资格目录或人社部备案的评价机构名单里 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o2309"></a>[O2309](../docs/核实记录/23-学什么技能划算.md#o2309) | 原书 23.9：培训优先走政府补贴渠道，别一上来就自费报商业班 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o2310"></a>[O2310](../docs/核实记录/23-学什么技能划算.md#o2310) | 原书 23.10：挑技能时优先看「要不要动手、要不要现场判断」，这类最难被自动化顶掉 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o2311"></a>[O2311](../docs/核实记录/23-学什么技能划算.md#o2311) | 原书 23.11：学之前先确认这个技能有没有等级评价，等级能不能换成钱 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o2312"></a>[O2312](../docs/核实记录/23-学什么技能划算.md#o2312) | 原书 23.12：别把「网上说工资高」当成缺人，去查当地的紧缺职业目录和补贴目录 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o2313"></a>[O2313](../docs/核实记录/23-学什么技能划算.md#o2313) | 原书 23.13：同样的钱和时间，优先选能直接上岗的短周期项目 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o2401"></a>[O2401](../docs/核实记录/24-看病.md#o2401) | 原书 24.1：常见病先在社区看，经基层逐级转诊上去，住院起付线接着算 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o2402"></a>[O2402](../docs/核实记录/24-看病.md#o2402) | 原书 24.2：同一个统筹地区里，级别越低报销比例越高，差距约 10 个百分点 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o2403"></a>[O2403](../docs/核实记录/24-看病.md#o2403) | 原书 24.3：要去大医院，走基层转诊或者医院的转诊中心，别找号贩子 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o2404"></a>[O2404](../docs/核实记录/24-看病.md#o2404) | 原书 24.4：跨省异地就医之前先在本地问一句，必要性原则上要副主任医师以上评估 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o2405"></a>[O2405](../docs/核实记录/24-看病.md#o2405) | 原书 24.5：别再拿三级医院当开药点，稳定期的慢病回基层 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o2406"></a>[O2406](../docs/核实记录/24-看病.md#o2406) | 原书 24.6：每次看完病，把病历、检查报告和影像自己存一份 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o2407"></a>[O2407](../docs/核实记录/24-看病.md#o2407) | 原书 24.7：对诊疗有疑问就当场要求封存病历，双方在场、开清单、各执一份 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o2408"></a>[O2408](../docs/核实记录/24-看病.md#o2408) | 原书 24.8：急重的伤病直奔急诊预检分诊台，别去挂号窗口排队 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o2409"></a>[O2409](../docs/核实记录/24-看病.md#o2409) | 原书 24.9：没带钱、没带证件、说不清自己是谁，急诊也必须先救 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o2410"></a>[O2410](../docs/核实记录/24-看病.md#o2410) | 原书 24.10：伤残鉴定要等治疗终结之后再做，做早了等级会评低 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o2411"></a>[O2411](../docs/核实记录/24-看病.md#o2411) | 原书 24.11：治完之后确实留下功能障碍，去户籍地县级残联申请残疾人证 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o2501"></a>[O2501](../docs/核实记录/25-人走了以后要办什么.md#o2501) | 原书 25.1：人在家里或外面没了，先分清正常死亡还是非正常死亡：意外、死因不明、独居才发现的，立刻报警，遗体和现场不要动 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o2502"></a>[O2502](../docs/核实记录/25-人走了以后要办什么.md#o2502) | 原书 25.2：死亡证明是后面所有事的钥匙：谁救治谁开，家中正常死亡找社区卫生服务机构，一日内签发 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o2503"></a>[O2503](../docs/核实记录/25-人走了以后要办什么.md#o2503) | 原书 25.3：遗体接运、存放、火化只能走殡仪馆，医院太平间不办殡仪，存放一般不超过 3 日 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o2504"></a>[O2504](../docs/核实记录/25-人走了以后要办什么.md#o2504) | 原书 25.4：对死因有异议，48 小时内提出尸检，同时封存病历 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o2505"></a>[O2505](../docs/核实记录/25-人走了以后要办什么.md#o2505) | 原书 25.5：注销户口有法定时限：城市在安葬前，农村在一个月以内 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o2506"></a>[O2506](../docs/核实记录/25-人走了以后要办什么.md#o2506) | 原书 25.6：殡葬服务分基础项目和非基础项目，基础项目有清单、收费依法制定 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o2507"></a>[O2507](../docs/核实记录/25-人走了以后要办什么.md#o2507) | 原书 25.7：遇到强制搭售、标价外加价、把一项拆成几项收费，记下来投诉 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o2508"></a>[O2508](../docs/核实记录/25-人走了以后要办什么.md#o2508) | 原书 25.8：殡葬代理、用品代购、策划主持这类中介，要在县级民政备案 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o2509"></a>[O2509](../docs/核实记录/25-人走了以后要办什么.md#o2509) | 原书 25.9：分散在各处的钱要逐个去取：公积金余额、社保待遇、工伤待遇 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o2510"></a>[O2510](../docs/核实记录/25-人走了以后要办什么.md#o2510) | 原书 25.10：死者的账号和个人信息，近亲属可以要求查阅、复制、更正、删除 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o2601"></a>[O2601](../docs/核实记录/26-做一个网站或平台.md#o2601) | 原书 26.1：平台不要自己收钱再转给卖家，让钱走持牌支付机构直接结算 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o2602"></a>[O2602](../docs/核实记录/26-做一个网站或平台.md#o2602) | 原书 26.2：收费的网站要许可证，撮合交易的是另一类许可，免费的只要备案 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o2603"></a>[O2603](../docs/核实记录/26-做一个网站或平台.md#o2603) | 原书 26.3：做直播要网络文化经营许可证，做视听节目的那张证民营基本拿不到 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o2604"></a>[O2604](../docs/核实记录/26-做一个网站或平台.md#o2604) | 原书 26.4：服务器放境内就要备案，接入商必须自己持有增值电信许可 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o2605"></a>[O2605](../docs/核实记录/26-做一个网站或平台.md#o2605) | 原书 26.5：让用户上来卖东西，平台就要核验登记、报送信息、留存三年 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o2606"></a>[O2606](../docs/核实记录/26-做一个网站或平台.md#o2606) | 原书 26.6：用户发的内容你要管：审核机制、举报入口、发现违法立即停传并报告 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o2607"></a>[O2607](../docs/核实记录/26-做一个网站或平台.md#o2607) | 原书 26.7：提供信息发布、即时通讯服务，必须要求用户提供真实身份信息 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o2608"></a>[O2608](../docs/核实记录/26-做一个网站或平台.md#o2608) | 原书 26.8：不给未满 16 周岁的人开直播，打赏按年龄分档处理 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o2609"></a>[O2609](../docs/核实记录/26-做一个网站或平台.md#o2609) | 原书 26.9：接到侵权通知要及时处理，转送声明后 15 日没有下文就恢复 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o2610"></a>[O2610](../docs/核实记录/26-做一个网站或平台.md#o2610) | 原书 26.10：用户信息不要随手放到境外，出境有法定条件和人数门槛 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o2611"></a>[O2611](../docs/核实记录/26-做一个网站或平台.md#o2611) | 原书 26.11：选服务器先看停机能不能忍，再看有没有人运维，最后才比价 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o2701"></a>[O2701](../docs/核实记录/27-怀孕和生产.md#o2701) | 原书 27.1：准备怀孕就开始每天补 0.4 毫克叶酸，一直吃到孕早期满 3 个月 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o2702"></a>[O2702](../docs/核实记录/27-怀孕和生产.md#o2702) | 原书 27.2：孕 13 周前去社区卫生服务中心建《母子健康手册》，把免费产检额度用掉 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o2703"></a>[O2703](../docs/核实记录/27-怀孕和生产.md#o2703) | 原书 27.3：第一次产检就把艾滋病、梅毒、乙肝三项查掉，查出来也有免费的阻断 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o2704"></a>[O2704](../docs/核实记录/27-怀孕和生产.md#o2704) | 原书 27.4：整个孕期一支烟一口酒都不要，家里人也别在屋里抽 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o2705"></a>[O2705](../docs/核实记录/27-怀孕和生产.md#o2705) | 原书 27.5：有子痫前期高危因素的，孕 12 周后开始每天一片小剂量阿司匹林 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o2706"></a>[O2706](../docs/核实记录/27-怀孕和生产.md#o2706) | 原书 27.6：孕 24 周及以后做一次妊娠期糖尿病筛查，别嫌喝糖水麻烦 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o2707"></a>[O2707](../docs/核实记录/27-怀孕和生产.md#o2707) | 原书 27.7：背下这张「立刻去医院」的清单，孕期和产后一年内都算数 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o2708"></a>[O2708](../docs/核实记录/27-怀孕和生产.md#o2708) | 原书 27.8：破水了就地平躺、垫高臀部、打 120，不要走动也不要洗澡 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o2709"></a>[O2709](../docs/核实记录/27-怀孕和生产.md#o2709) | 原书 27.9：想要无痛分娩就直接说，它不增加剖宫产的风险 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o2710"></a>[O2710](../docs/核实记录/27-怀孕和生产.md#o2710) | 原书 27.10：没有医学指征就别主动要求剖宫产，也别为了挑日子开刀 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o2711"></a>[O2711](../docs/核实记录/27-怀孕和生产.md#o2711) | 原书 27.11：怀孕前就确认生育保险的参保状态，未就业的配偶也能报生育医疗费用 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o2712"></a>[O2712](../docs/核实记录/27-怀孕和生产.md#o2712) | 原书 27.12：出院前把《出生医学证明》办掉，名字提前想好、别写错字 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o2713"></a>[O2713](../docs/核实记录/27-怀孕和生产.md#o2713) | 原书 27.13：新生儿足跟血筛查和听力筛查都别拒绝 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o2714"></a>[O2714](../docs/核实记录/27-怀孕和生产.md#o2714) | 原书 27.14：拿到出生医学证明就给孩子办居民医保，别等落完户 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o2715"></a>[O2715](../docs/核实记录/27-怀孕和生产.md#o2715) | 原书 27.15：孩子出生后一个月以内去派出所申报出生登记 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o2716"></a>[O2716](../docs/核实记录/27-怀孕和生产.md#o2716) | 原书 27.16：产后 42 天那次复查别跳过，它同时是产后抑郁的筛查 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o2801"></a>[O2801](../docs/核实记录/28-别为了外形把身体搞坏.md#o2801) | 原书 28.1：不要用极端节食、断食或催吐来控制体重，要减就从运动那一侧减 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o2802"></a>[O2802](../docs/核实记录/28-别为了外形把身体搞坏.md#o2802) | 原书 28.2：打针、埋线、开刀之前查两样：机构许可证上有没有「医疗美容」，动手的人是不是主诊医师 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o2803"></a>[O2803](../docs/核实记录/28-别为了外形把身体搞坏.md#o2803) | 原书 28.3：面部填充避开鼻背、眉间、额头这几个部位，更别为省钱找非正规注射 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o2804"></a>[O2804](../docs/核实记录/28-别为了外形把身体搞坏.md#o2804) | 原书 28.4：不要买承诺「快速瘦」的减肥药、减肥咖啡、瘦身糖果和酵素梅 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o2805"></a>[O2805](../docs/核实记录/28-别为了外形把身体搞坏.md#o2805) | 原书 28.5：不要用合成代谢类固醇（「增肌针」「口服药」）来长肌肉 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o2806"></a>[O2806](../docs/核实记录/28-别为了外形把身体搞坏.md#o2806) | 原书 28.6：要吃减肥药就去医院拿处方，别在不用处方就发货的网店买 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o2807"></a>[O2807](../docs/核实记录/28-别为了外形把身体搞坏.md#o2807) | 原书 28.7：性激素类药只在医生开方并定期复查的前提下用，不要网购、不要自己加量 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o2808"></a>[O2808](../docs/核实记录/28-别为了外形把身体搞坏.md#o2808) | 原书 28.8：如果「觉得自己丑」已经到反复照镜子、反复想改的程度，先做一次体像评估再谈手术 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o2901"></a>[O2901](../docs/核实记录/29-遭遇重大打击之后.md#o2901) | 原书 29.1：亲人刚走的那几天别一个人待着，有心脏病、高血压、糖尿病的照常吃药，胸口压着疼就叫 120 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o2902"></a>[O2902](../docs/核实记录/29-遭遇重大打击之后.md#o2902) | 原书 29.2：被告知重病诊断的那一周，别一个人去拿报告，治疗以外的决定往后放 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o2903"></a>[O2903](../docs/核实记录/29-遭遇重大打击之后.md#o2903) | 原书 29.3：失业之后先把作息、医保和找工作的节奏固定下来，别整天待在家里 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o2904"></a>[O2904](../docs/核实记录/29-遭遇重大打击之后.md#o2904) | 原书 29.4：亲人死于自杀、意外或凶案的，别指望硬扛，主动去找专业帮助 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o2905"></a>[O2905](../docs/核实记录/29-遭遇重大打击之后.md#o2905) | 原书 29.5：丧偶后的头半年，把三餐、睡觉、慢性病的药和复查交给一个固定的人盯着 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o2906"></a>[O2906](../docs/核实记录/29-遭遇重大打击之后.md#o2906) | 原书 29.6：家长去世后，如实告诉孩子、让他参加告别、别送去别处「换个环境」 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o2907"></a>[O2907](../docs/核实记录/29-遭遇重大打击之后.md#o2907) | 原书 29.7：哀伤过了半年还在原地、日子过不下去，去精神科或临床心理科挂号 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o2908"></a>[O2908](../docs/核实记录/29-遭遇重大打击之后.md#o2908) | 原书 29.8：别一上来就花钱做哀伤咨询，先看自己有没有对上第 7 条那几条 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o2909"></a>[O2909](../docs/核实记录/29-遭遇重大打击之后.md#o2909) | 原书 29.9：分居离婚之后别断医保、别用酒顶着 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o2910"></a>[O2910](../docs/核实记录/29-遭遇重大打击之后.md#o2910) | 原书 29.10：要人陪着说话打 12356，未成年人和青少年打 12355，要看医生挂心理门诊 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o2911"></a>[O2911](../docs/核实记录/29-遭遇重大打击之后.md#o2911) | 原书 29.11：变故后的头三个月，凡是不可逆的大决定一律往后推 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o3001"></a>[O3001](../docs/核实记录/30-上学以后的孩子.md#o3001) | 原书 30.1：孩子说突然剧痛、而且越来越重，立刻去医院，不要让他忍到放学 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o3002"></a>[O3002](../docs/核实记录/30-上学以后的孩子.md#o3002) | 原书 30.2：该做的治疗别为了「等考完」往后拖，有些窗口跟着骨龄走，不跟着考试安排走 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o3003"></a>[O3003](../docs/核实记录/30-上学以后的孩子.md#o3003) | 原书 30.3：孩子被欺凌，当天就报到学校并要求书面处理，涉及打人、抢钱、传谣的直接报警 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o3004"></a>[O3004](../docs/核实记录/30-上学以后的孩子.md#o3004) | 原书 30.4：让孩子每天在户外待够 2 小时，这是目前唯一有随机试验支持的防近视办法 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o3005"></a>[O3005](../docs/核实记录/30-上学以后的孩子.md#o3005) | 原书 30.5：每年那次学生体检的报告单要自己看一遍，异常项当年带去医院查 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o3006"></a>[O3006](../docs/核实记录/30-上学以后的孩子.md#o3006) | 原书 30.6：12 到 18 岁的孩子做一次抑郁筛查，别拿学校的心理测评当诊断 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o3007"></a>[O3007](../docs/核实记录/30-上学以后的孩子.md#o3007) | 原书 30.7：不买号称能「治愈近视」「降低度数」的产品和服务 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o3008"></a>[O3008](../docs/核实记录/30-上学以后的孩子.md#o3008) | 原书 30.8：睡眠、作业、体育和排名都有明文规定，学校做不到可以提 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o3009"></a>[O3009](../docs/核实记录/30-上学以后的孩子.md#o3009) | 原书 30.9：孩子撑不住了可以休学，学籍学校必须给他留着，最长 1 年 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o3010"></a>[O3010](../docs/核实记录/30-上学以后的孩子.md#o3010) | 原书 30.10：查出视力不良，去医院做散瞳验光，之后按医生给的间隔复查 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o3011"></a>[O3011](../docs/核实记录/30-上学以后的孩子.md#o3011) | 原书 30.11：恒磨牙长出来以后做窝沟封闭 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o3101"></a>[O3101](../docs/核实记录/31-十八岁之后有哪几条路.md#o3101) | 原书 31.1：先把门槛对一遍：八条路的年龄和学历要求都是明文写死的 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o3102"></a>[O3102](../docs/核实记录/31-十八岁之后有哪几条路.md#o3102) | 原书 31.2：十八岁那年 10 月 31 日前要做兵役登记；义务兵服现役就是两年 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o3103"></a>[O3103](../docs/核实记录/31-十八岁之后有哪几条路.md#o3103) | 原书 31.3：应征之后拒服兵役，两年内不准出境或升学复学，还进不了公务员和国企 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o3104"></a>[O3104](../docs/核实记录/31-十八岁之后有哪几条路.md#o3104) | 原书 31.4：大学生当兵最实的两块：学费每年补最高 20000 元，学籍保留两年、考研有专项计划 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o3105"></a>[O3105](../docs/核实记录/31-十八岁之后有哪几条路.md#o3105) | 原书 31.5：退役后只有六种情况由政府安排工作；自主就业的 30 日内必须报到 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o3106"></a>[O3106](../docs/核实记录/31-十八岁之后有哪几条路.md#o3106) | 原书 31.6：退役后的三笔账：一次性退役金、军龄算工龄、自己干每年扣减 20000 元税 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o3107"></a>[O3107](../docs/核实记录/31-十八岁之后有哪几条路.md#o3107) | 原书 31.7：想进体制内不止考公一条：基层服务项目干满两年，能报每年 10% 的定向考录计划 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o3108"></a>[O3108](../docs/核实记录/31-十八岁之后有哪几条路.md#o3108) | 原书 31.8：特岗教师三年服务期满、考核合格又愿意留下的，应当及时入编 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o3109"></a>[O3109](../docs/核实记录/31-十八岁之后有哪几条路.md#o3109) | 原书 31.9：消防员和军队文职是另外两个公开招录的口子，门槛比考公低 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o3110"></a>[O3110](../docs/核实记录/31-十八岁之后有哪几条路.md#o3110) | 原书 31.10：学历不是一锤子买卖：自考不限年龄和已受教育程度，成人高考和开放大学都能补 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o3111"></a>[O3111](../docs/核实记录/31-十八岁之后有哪几条路.md#o3111) | 原书 31.11：不进单位就是灵活就业：养老和医疗要自己在就业地参保，户籍限制已经放开 | 原书转引；未据此声称独立阅读全文 |
+| <a id="o3112"></a>[O3112](../docs/核实记录/31-十八岁之后有哪几条路.md#o3112) | 原书 31.12：送外卖、跑网约车、拉同城货运，平台按单给你交职业伤害保障费，自己不缴 | 原书转引；未据此声称独立阅读全文 |
+| <a id="h001"></a>[H001](../docs/核实记录/健康与急救.md#h001) | Enrolling in Medicare | 相关页面正文 |
+| <a id="h002"></a>[H002](../docs/核实记录/健康与急救.md#h002) | Bulk billing | 相关页面正文 |
+| <a id="h003"></a>[H003](../docs/核实记录/健康与急救.md#h003) | Services available under a GP chronic condition management plan | 相关页面正文 |
+| <a id="h004"></a>[H004](../docs/核实记录/健康与急救.md#h004) | Eligibility for 60-day prescriptions | 相关页面正文 |
+| <a id="h005"></a>[H005](../docs/核实记录/健康与急救.md#h005) | Medicines safety for older people | 相关页面正文 |
+| <a id="h006"></a>[H006](../docs/核实记录/健康与急救.md#h006) | Diabetes health checks | 相关页面正文 |
+| <a id="h007"></a>[H007](../docs/核实记录/健康与急救.md#h007) | High blood pressure (hypertension) | 相关页面正文 |
+| <a id="h008"></a>[H008](../docs/核实记录/健康与急救.md#h008) | Type 2 diabetes | 相关页面正文 |
+| <a id="h009"></a>[H009](../docs/核实记录/健康与急救.md#h009) | National Bowel Cancer Screening Program | 相关页面正文 |
+| <a id="h010"></a>[H010](../docs/核实记录/健康与急救.md#h010) | National Cervical Screening Program | 相关页面正文 |
+| <a id="h011"></a>[H011](../docs/核实记录/健康与急救.md#h011) | BreastScreen Australia Program | 相关页面正文 |
+| <a id="h012"></a>[H012](../docs/核实记录/健康与急救.md#h012) | How the National Lung Cancer Screening Program works | 相关页面正文 |
+| <a id="h013"></a>[H013](../docs/核实记录/健康与急救.md#h013) | Adult vaccinations fact sheet | 相关页面正文 |
+| <a id="h014"></a>[H014](../docs/核实记录/健康与急救.md#h014) | NSW immunisation schedule (children and adults) | 相关页面正文 |
+| <a id="h015"></a>[H015](../docs/核实记录/健康与急救.md#h015) | National Immunisation Program Schedule | 相关页面正文 |
+| <a id="h016"></a>[H016](../docs/核实记录/健康与急救.md#h016) | Sexual health and STIs | 相关页面正文 |
+| <a id="h017"></a>[H017](../docs/核实记录/健康与急救.md#h017) | Wild mushroom poisoning | 相关页面正文 |
+| <a id="h018"></a>[H018](../docs/核实记录/健康与急救.md#h018) | Blood in urine (haematuria) | 相关页面正文 |
+| <a id="h019"></a>[H019](../docs/核实记录/健康与急救.md#h019) | Seatbelts | 相关页面正文 |
+| <a id="h020"></a>[H020](../docs/核实记录/健康与急救.md#h020) | Child car seats | 相关页面正文 |
+| <a id="h021"></a>[H021](../docs/核实记录/健康与急救.md#h021) | Home fire safety | 相关页面正文 |
+| <a id="h022"></a>[H022](../docs/核实记录/健康与急救.md#h022) | Lithium-ion batteries: shop, charge, and recycle safely | 相关页面正文 |
+| <a id="h023"></a>[H023](../docs/核实记录/健康与急救.md#h023) | Home escape plans | 相关页面正文 |
+| <a id="h024"></a>[H024](../docs/核实记录/健康与急救.md#h024) | Older people and falls | 相关页面正文 |
+| <a id="h025"></a>[H025](../docs/核实记录/健康与急救.md#h025) | Balconies, windows and railing safety | 相关页面正文 |
+| <a id="h026"></a>[H026](../docs/核实记录/健康与急救.md#h026) | Services to help you quit | 相关页面正文 |
+| <a id="h027"></a>[H027](../docs/核实记录/健康与急救.md#h027) | Australian Guide to Healthy Eating – description | 相关页面正文 |
+| <a id="h028"></a>[H028](../docs/核实记录/健康与急救.md#h028) | How much do we need each day? | 相关页面正文 |
+| <a id="h029"></a>[H029](../docs/核实记录/健康与急救.md#h029) | Australian guidelines to reduce health risks from drinking alcohol | 相关页面正文 |
+| <a id="h030"></a>[H030](../docs/核实记录/健康与急救.md#h030) | Recommendations for adults (18 to 64 years) | 相关页面正文 |
+| <a id="h031"></a>[H031](../docs/核实记录/健康与急救.md#h031) | Sleep | 相关页面正文 |
+| <a id="h032"></a>[H032](../docs/核实记录/健康与急救.md#h032) | Dental care and teeth cleaning | 相关页面正文 |
+| <a id="h033"></a>[H033](../docs/核实记录/健康与急救.md#h033) | Sunscreen | 相关页面正文 |
+| <a id="h034"></a>[H034](../docs/核实记录/健康与急救.md#h034) | Dietary supplements | 相关页面正文 |
+| <a id="h035"></a>[H035](../docs/核实记录/健康与急救.md#h035) | Blue-light filtering spectacle lenses for visual performance, sleep, and macular health in adults | 论文摘要 |
+| <a id="h036"></a>[H036](../docs/核实记录/健康与急救.md#h036) | Full-Body CT Scans – What You Need to Know | 相关页面正文 |
+| <a id="h037"></a>[H037](../docs/核实记录/健康与急救.md#h037) | Drinking water and your health | 相关页面正文 |
+| <a id="h038"></a>[H038](../docs/核实记录/健康与急救.md#h038) | Probiotics | 相关页面正文 |
+| <a id="h039"></a>[H039](../docs/核实记录/健康与急救.md#h039) | Mental Health Line | 相关页面正文 |
+| <a id="h040"></a>[H040](../docs/核实记录/健康与急救.md#h040) | Mental health treatment plan | 相关页面正文 |
+| <a id="h041"></a>[H041](../docs/核实记录/健康与急救.md#h041) | Grief and loss | 相关页面正文 |
+| <a id="h042"></a>[H042](../docs/核实记录/健康与急救.md#h042) | Kids and mental health | 相关页面正文 |
+| <a id="h043"></a>[H043](../docs/核实记录/健康与急救.md#h043) | Body dysmorphic disorder | 相关页面正文 |
+| <a id="h044"></a>[H044](../docs/核实记录/健康与急救.md#h044) | Anabolic steroids | 相关页面正文 |
+| <a id="h045"></a>[H045](../docs/核实记录/健康与急救.md#h045) | Guide to cosmetic surgery | 相关页面正文 |
+| <a id="h046"></a>[H046](../docs/核实记录/健康与急救.md#h046) | Imported unregistered GLP-1 weight-loss products | 相关页面正文 |
+| <a id="h047"></a>[H047](../docs/核实记录/健康与急救.md#h047) | NSW Health Care Interpreting Services | 相关页面正文 |
+| <a id="h048"></a>[H048](../docs/核实记录/健康与急救.md#h048) | What can I make a complaint about? | 相关页面正文 |
+| <a id="h049"></a>[H049](../docs/核实记录/健康与急救.md#h049) | How to check your eligibility | 相关页面正文 |
+| <a id="h050"></a>[H050](../docs/核实记录/健康与急救.md#h050) | Emergency services | 相关页面正文 |
+| <a id="h051"></a>[H051](../docs/核实记录/健康与急救.md#h051) | Exemptions from NSW Ambulance fees | 相关页面正文 |
+| <a id="h052"></a>[H052](../docs/核实记录/健康与急救.md#h052) | The Six Safe Sleep Recommendations | 相关页面正文 |
+| <a id="h053"></a>[H053](../docs/核实记录/健康与急救.md#h053) | Hepatitis B vaccine for babies | 相关页面正文 |
+| <a id="h054"></a>[H054](../docs/核实记录/健康与急救.md#h054) | Formula: making, storing and transporting it | 相关页面正文 |
+| <a id="h055"></a>[H055](../docs/核实记录/健康与急救.md#h055) | Introducing solids: why, when, what and how | 相关页面正文 |
+| <a id="h056"></a>[H056](../docs/核实记录/健康与急救.md#h056) | Vitamin K deficiency | 相关页面正文 |
+| <a id="h057"></a>[H057](../docs/核实记录/健康与急救.md#h057) | Fever in children | 相关页面正文 |
+| <a id="h058"></a>[H058](../docs/核实记录/健康与急救.md#h058) | Crying and unsettled babies | 相关页面正文 |
+| <a id="h059"></a>[H059](../docs/核实记录/健康与急救.md#h059) | Pregnancy: vitamins and minerals | 相关页面正文 |
+| <a id="h060"></a>[H060](../docs/核实记录/健康与急救.md#h060) | Routine antenatal tests | 相关页面正文 |
+| <a id="h061"></a>[H061](../docs/核实记录/健康与急救.md#h061) | Warning signs during pregnancy | 相关页面正文 |
+| <a id="h062"></a>[H062](../docs/核实记录/健康与急救.md#h062) | Maternity care in Australia | 相关页面正文 |
+| <a id="h063"></a>[H063](../docs/核实记录/健康与急救.md#h063) | Registering your baby’s birth and other paperwork | 相关页面正文 |
+| <a id="h064"></a>[H064](../docs/核实记录/健康与急救.md#h064) | Newborn bloodspot screening | PDF 相关正文 |
+| <a id="h065"></a>[H065](../docs/核实记录/健康与急救.md#h065) | Mother and baby health checks | 相关页面正文 |
+| <a id="h066"></a>[H066](../docs/核实记录/健康与急救.md#h066) | If your child is being bullied | 相关页面正文 |
+| <a id="h067"></a>[H067](../docs/核实记录/健康与急救.md#h067) | Short-sightedness (myopia) | 相关页面正文 |
+| <a id="h068"></a>[H068](../docs/核实记录/健康与急救.md#h068) | Dental fissure sealants | 相关页面正文 |
+| <a id="h069"></a>[H069](../docs/核实记录/健康与急救.md#h069) | Healthy habits for children – Advise | 相关页面正文 |
+| <a id="h070"></a>[H070](../docs/核实记录/健康与急救.md#h070) | Guideline 8 – Cardiopulmonary Resuscitation | 相关页面正文 |
+| <a id="h071"></a>[H071](../docs/核实记录/健康与急救.md#h071) | Guideline 4 – Airway | PDF 相关正文 |
+| <a id="h072"></a>[H072](../docs/核实记录/健康与急救.md#h072) | Guideline 9.2.2 – Stroke | 相关页面正文 |
+| <a id="h073"></a>[H073](../docs/核实记录/健康与急救.md#h073) | Guideline 9.2.1 – Suspected Heart Attack | 相关页面正文 |
+| <a id="h074"></a>[H074](../docs/核实记录/健康与急救.md#h074) | Guideline 9.1.1 – Management of Bleeding | 相关页面正文 |
+| <a id="h075"></a>[H075](../docs/核实记录/健康与急救.md#h075) | Guideline 9.1.3 – First Aid for Burns | 相关页面正文 |
+| <a id="h076"></a>[H076](../docs/核实记录/健康与急救.md#h076) | Guideline 9.2.7 – First Aid Management of Anaphylaxis | 相关页面正文 |
+| <a id="h077"></a>[H077](../docs/核实记录/健康与急救.md#h077) | Guideline 9.2.4 – First Aid Management of a Seizure | 相关页面正文 |
+| <a id="h078"></a>[H078](../docs/核实记录/健康与急救.md#h078) | Guideline 9.2.9 – First Aid Management of a Diabetic Emergency | 相关页面正文 |
+| <a id="h079"></a>[H079](../docs/核实记录/健康与急救.md#h079) | Guideline 9.5.1 – First Aid Management of Poisoning | 相关页面正文 |
+| <a id="h080"></a>[H080](../docs/核实记录/健康与急救.md#h080) | Guideline 9.3.4 – Heat Induced Illness | 相关页面正文 |
+| <a id="h081"></a>[H081](../docs/核实记录/健康与急救.md#h081) | Guideline 9.3.3 – Hypothermia and Cold-Related Injuries | 相关页面正文 |
+| <a id="h082"></a>[H082](../docs/核实记录/健康与急救.md#h082) | Guideline 9.3.2 – Resuscitation in Drowning | 相关页面正文 |
+| <a id="h083"></a>[H083](../docs/核实记录/健康与急救.md#h083) | Guideline 9.4.1 – Australian Snake Bite | 相关页面正文 |
+| <a id="h084"></a>[H084](../docs/核实记录/健康与急救.md#h084) | Guideline 9.4.3 – Tick Bites and Bee, Wasp and Ant Stings | 相关页面正文 |
+| <a id="h085"></a>[H085](../docs/核实记录/健康与急救.md#h085) | Dog, cat, bat and human bites | 相关页面正文 |
+| <a id="h086"></a>[H086](../docs/核实记录/健康与急救.md#h086) | Head injuries | 相关页面正文 |
+| <a id="h087"></a>[H087](../docs/核实记录/健康与急救.md#h087) | Wearing the right cycling safety gear | 相关页面正文 |
+| <a id="h088"></a>[H088](../docs/核实记录/健康与急救.md#h088) | How do I keep my family and myself safe from carbon monoxide? | 相关页面正文 |
+| <a id="h089"></a>[H089](../docs/核实记录/健康与急救.md#h089) | Salt and sodium – how to reduce intake | 相关页面正文 |
+| <a id="h090"></a>[H090](../docs/核实记录/健康与急救.md#h090) | How do I pay for healthcare? | 相关页面正文 |
+| <a id="h091"></a>[H091](../docs/核实记录/健康与急救.md#h091) | The role of a GP | 相关页面正文 |
+| <a id="h092"></a>[H092](../docs/核实记录/健康与急救.md#h092) | Why does my baby need a hearing screen? | 相关页面正文 |
+| <a id="h093"></a>[H093](../docs/核实记录/健康与急救.md#h093) | Pre-eclampsia | 相关页面正文 |
+| <a id="h094"></a>[H094](../docs/核实记录/健康与急救.md#h094) | How to help a child cope with the death of a parent | 相关页面正文 |
+| <a id="h095"></a>[H095](../docs/核实记录/健康与急救.md#h095) | Fractures | 相关页面正文 |
+| <a id="h096"></a>[H096](../docs/核实记录/健康与急救.md#h096) | Deep vein thrombosis (DVT) | 相关页面正文 |
+| <a id="h097"></a>[H097](../docs/核实记录/健康与急救.md#h097) | Electric shocks and burns | 相关页面正文 |
+| <a id="h098"></a>[H098](../docs/核实记录/健康与急救.md#h098) | Harms of tobacco smoking and second-hand smoke | 相关页面正文 |
+| <a id="h099"></a>[H099](../docs/核实记录/健康与急救.md#h099) | Inclusive learning support glossary: Health care plan and adjustments | 相关页面正文 |
+| <a id="h100"></a>[H100](../docs/核实记录/健康与急救.md#h100) | Pain relief during labour | 相关页面正文 |
+| <a id="h101"></a>[H101](../docs/核实记录/健康与急救.md#h101) | Eating disorders | 相关页面正文 |
+| <a id="h102"></a>[H102](../docs/核实记录/健康与急救.md#h102) | Abdominal pain in children | 相关页面正文 |
+| <a id="h103"></a>[H103](../docs/核实记录/健康与急救.md#h103) | Consent requirements for pregnancy and birth | 相关页面正文 |
+| <a id="h104"></a>[H104](../docs/核实记录/健康与急救.md#h104) | Labour and birth | 相关页面正文 |
+| <a id="h105"></a>[H105](../docs/核实记录/健康与急救.md#h105) | Guideline 6 – Compressions | 相关页面正文 |
+| <a id="h106"></a>[H106](../docs/核实记录/健康与急救.md#h106) | Medicines during pregnancy | 相关页面正文 |
+| <a id="h107"></a>[H107](../docs/核实记录/健康与急救.md#h107) | Head and neck cancers: symptoms and risk factors | 相关页面正文 |
+| <a id="h108"></a>[H108](../docs/核实记录/健康与急救.md#h108) | Wounds, cuts and grazes | 相关页面正文 |
+| <a id="h109"></a>[H109](../docs/核实记录/健康与急救.md#h109) | Australian bat lyssavirus | 相关页面正文 |
+| <a id="rh001"></a>[RH001](../docs/核实记录/健康与急救.md#rh001) | Using a gasfitter for repairs or building work | 相关页面正文 |
+| <a id="rh002"></a>[RH002](../docs/核实记录/健康与急救.md#rh002) | Dealing with sexual extortion | 相关页面正文 |
+| <a id="rh003"></a>[RH003](../docs/核实记录/健康与急救.md#rh003) | Helicobacter pylori | 相关页面正文 |
+| <a id="rh004"></a>[RH004](../docs/核实记录/健康与急救.md#rh004) | What to do if a boil water alert is in place | 相关页面正文 |
+| <a id="rh005"></a>[RH005](../docs/核实记录/健康与急救.md#rh005) | Think Before You TREK | 相关页面正文 |
+| <a id="rh006"></a>[RH006](../docs/核实记录/健康与急救.md#rh006) | Part 8 - Good Samaritans | 相关页面正文 |
+| <a id="rh007"></a>[RH007](../docs/核实记录/健康与急救.md#rh007) | Stay safe in Outback NSW | 相关页面正文 |
+| <a id="rh008"></a>[RH008](../docs/核实记录/健康与急救.md#rh008) | Earthquake | 相关页面正文 |
+| <a id="rh009"></a>[RH009](../docs/核实记录/健康与急救.md#rh009) | Be dingo-safe on K'gari | 相关页面正文 |
+| <a id="rh010"></a>[RH010](../docs/核实记录/健康与急救.md#rh010) | The Effect of Cold Showering on Health and Work: A Randomized Controlled Trial | 论文摘要 |
+| <a id="rh011"></a>[RH011](../docs/核实记录/健康与急救.md#rh011) | Permanent impairment | 相关页面正文 |
+| <a id="rh012"></a>[RH012](../docs/核实记录/健康与急救.md#rh012) | Assessment of permanent impairment | 相关页面正文 |
+| <a id="rh013"></a>[RH013](../docs/核实记录/健康与急救.md#rh013) | Eligibility criteria — Victims Support Scheme | 相关页面正文 |
+| <a id="rh014"></a>[RH014](../docs/核实记录/健康与急救.md#rh014) | Nappy rash | 相关页面正文 |
+| <a id="rh015"></a>[RH015](../docs/核实记录/健康与急救.md#rh015) | Household cots guide | 相关页面正文 |
+| <a id="rh016"></a>[RH016](../docs/核实记录/健康与急救.md#rh016) | Play safely with baby | 相关页面正文 |
+| <a id="rh017"></a>[RH017](../docs/核实记录/健康与急救.md#rh017) | Robbery | 相关页面正文 |
+| <a id="rh018"></a>[RH018](../docs/核实记录/健康与急救.md#rh018) | Severe weather and coastal hazard warning services | 相关页面正文 |
+| <a id="rh019"></a>[RH019](../docs/核实记录/健康与急救.md#rh019) | School attendance | 相关页面正文 |
+| <a id="rh020"></a>[RH020](../docs/核实记录/健康与急救.md#rh020) | Going overseas for sports and adventure | 相关页面正文 |
+| <a id="rh021"></a>[RH021](../docs/核实记录/健康与急救.md#rh021) | Cosmetic injections | 相关页面正文 |
+| <a id="rh022"></a>[RH022](../docs/核实记录/健康与急救.md#rh022) | Informed consent and hormone therapy | PDF 相关正文 |
+| <a id="rh023"></a>[RH023](../docs/核实记录/健康与急救.md#rh023) | Homework K–12 advice | 相关页面正文 |
+| <a id="rh024"></a>[RH024](../docs/核实记录/健康与急救.md#rh024) | Alcohol limits, drugs and medicines | 相关页面正文 |
+| <a id="rh025"></a>[RH025](../docs/核实记录/健康与急救.md#rh025) | Breastfeeding your baby | 相关页面正文 |
+| <a id="rh026"></a>[RH026](../docs/核实记录/健康与急救.md#rh026) | Aortic dissection | 相关页面正文 |
+| <a id="rh027"></a>[RH027](../docs/核实记录/健康与急救.md#rh027) | Hepatitis B | 相关页面正文 |
+| <a id="rh028"></a>[RH028](../docs/核实记录/健康与急救.md#rh028) | Medicare during pregnancy | 相关页面正文 |
+| <a id="rh029"></a>[RH029](../docs/核实记录/健康与急救.md#rh029) | Giving birth - waters breaking | 相关页面正文 |
+| <a id="rh030"></a>[RH030](../docs/核实记录/健康与急救.md#rh030) | Waters breaking early | 相关页面正文 |
+| <a id="rh031"></a>[RH031](../docs/核实记录/健康与急救.md#rh031) | Outdoor light key to reducing myopia | 相关页面正文 |
+| <a id="rh032"></a>[RH032](../docs/核实记录/健康与急救.md#rh032) | Public hospitals | 相关页面正文 |
+| <a id="rh033"></a>[RH033](../docs/核实记录/健康与急救.md#rh033) | Register for MyMedicare | 相关页面正文 |
+| <a id="rh034"></a>[RH034](../docs/核实记录/健康与急救.md#rh034) | Predictors of survival from out-of-hospital cardiac arrest: a systematic review and meta-analysis | 论文摘要 |
+| <a id="rh035"></a>[RH035](../docs/核实记录/健康与急救.md#rh035) | Effect of treatment delay, age, and stroke severity on the effects of intravenous thrombolysis with alteplase for acute ischaemic stroke | 论文摘要 |
+| <a id="rh036"></a>[RH036](../docs/核实记录/健康与急救.md#rh036) | Pit and fissure sealants for preventing dental decay in permanent teeth | 论文摘要 |
+| <a id="rh037"></a>[RH037](../docs/核实记录/健康与急救.md#rh037) | Blood pressure lowering for prevention of cardiovascular disease and death: a systematic review and meta-analysis | 论文摘要 |
+| <a id="rh038"></a>[RH038](../docs/核实记录/健康与急救.md#rh038) | About Water Treatment Options When Hiking, Camping, or Traveling | 相关页面正文 |
+| <a id="rh039"></a>[RH039](../docs/核实记录/健康与急救.md#rh039) | Hormones – Feminising | 相关页面正文 |
+| <a id="s001"></a>[S001](../docs/核实记录/其他研究与澳洲资料.md#s001) | Access your myGov account | 相关页面正文 |
+| <a id="s002"></a>[S002](../docs/核实记录/其他研究与澳洲资料.md#s002) | How to create a MyServiceNSW Account | 相关页面正文 |
+| <a id="s003"></a>[S003](../docs/核实记录/其他研究与澳洲资料.md#s003) | Link services to your account | 相关页面正文 |
+| <a id="s004"></a>[S004](../docs/核实记录/其他研究与澳洲资料.md#s004) | Enrol to vote | 相关页面正文 |
+| <a id="s005"></a>[S005](../docs/核实记录/其他研究与澳洲资料.md#s005) | Book a free pick-up for bulky items | 相关页面正文 |
+| <a id="s006"></a>[S006](../docs/核实记录/其他研究与澳洲资料.md#s006) | Help using TIS National | 相关页面正文 |
+| <a id="r001"></a>[R001](../docs/核实记录/其他研究与澳洲资料.md#r001) | 21st-century hazards of smoking and benefits of cessation in the United States (2013) | 论文摘要 |
+| <a id="r002"></a>[R002](../docs/核实记录/其他研究与澳洲资料.md#r002) | Daily steps and all-cause mortality: a meta-analysis of 15 international cohorts (2022) | 论文摘要 |
+| <a id="r003"></a>[R003](../docs/核实记录/其他研究与澳洲资料.md#r003) | Effect of Salt Substitution on Cardiovascular Events and Death (2021) | 论文摘要 |
+| <a id="r004"></a>[R004](../docs/核实记录/其他研究与澳洲资料.md#r004) | The effect of caffeine on subsequent sleep: A systematic review and meta-analysis (2023) | 论文摘要 |
+| <a id="rx001"></a>[RX001](../docs/核实记录/其他研究与澳洲资料.md#rx001) | First Home Super Saver Scheme | 相关页面正文 |
+| <a id="rx002"></a>[RX002](../docs/核实记录/其他研究与澳洲资料.md#rx002) | How to register for Medicare Safety Nets | 相关页面正文 |
+| <a id="rx003"></a>[RX003](../docs/核实记录/其他研究与澳洲资料.md#rx003) | Tax and super | 相关页面正文 |
+| <a id="rx004"></a>[RX004](../docs/核实记录/其他研究与澳洲资料.md#rx004) | Warranties | 相关页面正文 |
+| <a id="rx005"></a>[RX005](../docs/核实记录/其他研究与澳洲资料.md#rx005) | In-app purchasing | 相关页面正文 |
+| <a id="rx006"></a>[RX006](../docs/核实记录/其他研究与澳洲资料.md#rx006) | How to manage money in games | 相关页面正文 |
+| <a id="rx007"></a>[RX007](../docs/核实记录/其他研究与澳洲资料.md#rx007) | Types of accounts covered under the Financial Claims Scheme | 相关页面正文 |
+| <a id="rx008"></a>[RX008](../docs/核实记录/其他研究与澳洲资料.md#rx008) | Price displays | 相关页面正文 |
+| <a id="rx009"></a>[RX009](../docs/核实记录/其他研究与澳洲资料.md#rx009) | Education and Work, Australia, May 2025 | 相关页面正文 |
+| <a id="rx010"></a>[RX010](../docs/核实记录/其他研究与澳洲资料.md#rx010) | Transition support for members | 相关页面正文 |
+| <a id="rx011"></a>[RX011](../docs/核实记录/其他研究与澳洲资料.md#rx011) | Important Information for All Candidates — revised 27 August 2026 | PDF 相关正文 |
+| <a id="rx012"></a>[RX012](../docs/核实记录/其他研究与澳洲资料.md#rx012) | How the rural benefits and incentives work | 相关页面正文 |
+| <a id="rx013"></a>[RX013](../docs/核实记录/其他研究与澳洲资料.md#rx013) | Pathways | 相关页面正文 |
+| <a id="rx014"></a>[RX014](../docs/核实记录/其他研究与澳洲资料.md#rx014) | Understand the Energy Rating Label | 相关页面正文 |
+| <a id="rx015"></a>[RX015](../docs/核实记录/其他研究与澳洲资料.md#rx015) | Generic prescription medicines — fact sheet | 相关页面正文 |
+| <a id="rx016"></a>[RX016](../docs/核实记录/其他研究与澳洲资料.md#rx016) | Buying online | 相关页面正文 |
+| <a id="rx017"></a>[RX017](../docs/核实记录/其他研究与澳洲资料.md#rx017) | Electrical safety requirements and consumer rights | 相关页面正文 |
+| <a id="rx018"></a>[RX018](../docs/核实记录/其他研究与澳洲资料.md#rx018) | Product safety recalls and consumer guides | 相关页面正文 |
+| <a id="rx020"></a>[RX020](../docs/核实记录/其他研究与澳洲资料.md#rx020) | Super contributions | 相关页面正文 |
+| <a id="rx021"></a>[RX021](../docs/核实记录/其他研究与澳洲资料.md#rx021) | Graduate Opportunities — 2027 intake | 相关页面正文 |
+| <a id="rx022"></a>[RX022](../docs/核实记录/其他研究与澳洲资料.md#rx022) | Financial support during ADF transition | 相关页面正文 |
+| <a id="rx023"></a>[RX023](../docs/核实记录/其他研究与澳洲资料.md#rx023) | Self-employment | 相关页面正文 |
+| <a id="rx024"></a>[RX024](../docs/核实记录/其他研究与澳洲资料.md#rx024) | Worker or contractor status tool | 相关页面正文 |
+| <a id="rx025"></a>[RX025](../docs/核实记录/其他研究与澳洲资料.md#rx025) | Ways to join | 相关页面正文 |
+| <a id="rx040"></a>[RX040](../docs/核实记录/其他研究与澳洲资料.md#rx040) | Statins | 相关页面正文 |
+| <a id="rx041"></a>[RX041](../docs/核实记录/其他研究与澳洲资料.md#rx041) | Association of wearable device-measured vigorous intermittent lifestyle physical activity with mortality (2022) | 相关页面正文 |
+| <a id="rx042"></a>[RX042](../docs/核实记录/其他研究与澳洲资料.md#rx042) | Effect of Salt Substitution on Cardiovascular Events and Death (2021) | 相关页面正文 |
+| <a id="rx043"></a>[RX043](../docs/核实记录/其他研究与澳洲资料.md#rx043) | The association between daily step count and all-cause and cardiovascular mortality: a meta-analysis (2023) | 论文摘要 |
+| <a id="rx030"></a>[RX030](../docs/核实记录/其他研究与澳洲资料.md#rx030) | Put together an emergency kit | 相关页面正文 |
+| <a id="rx031"></a>[RX031](../docs/核实记录/其他研究与澳洲资料.md#rx031) | Fire safety equipment | 相关页面正文 |
+| <a id="rx032"></a>[RX032](../docs/核实记录/其他研究与澳洲资料.md#rx032) | First aid kits | 相关页面正文 |
+| <a id="rx033"></a>[RX033](../docs/核实记录/其他研究与澳洲资料.md#rx033) | Smoke alarm maintenance guide | 相关页面正文 |
+| <a id="rx034"></a>[RX034](../docs/核实记录/其他研究与澳洲资料.md#rx034) | Home safety education and provision of safety equipment for injury prevention (2012) | 论文摘要 |
+| <a id="rx035"></a>[RX035](../docs/核实记录/其他研究与澳洲资料.md#rx035) | Guidance Statement 10.5.1 — Legal issues and resuscitation | 相关页面正文 |
+| <a id="rx036"></a>[RX036](../docs/核实记录/其他研究与澳洲资料.md#rx036) | Civil Liability Act — Part 8 Good Samaritans | 相关页面正文 |
+| <a id="rx037"></a>[RX037](../docs/核实记录/其他研究与澳洲资料.md#rx037) | Guideline 2 — Managing an Emergency | 相关页面正文 |
+| <a id="rx038"></a>[RX038](../docs/核实记录/其他研究与澳洲资料.md#rx038) | SES Emergency Kit checklist | PDF 相关正文 |
+| <a id="rx039"></a>[RX039](../docs/核实记录/其他研究与澳洲资料.md#rx039) | Guidance Statement 10.5.2 — Consent | 相关页面正文 |
+| <a id="w001"></a>[W001](../docs/核实记录/工作法律与金钱.md#w001) | Budget planner | 相关页面正文 |
+| <a id="w002"></a>[W002](../docs/核实记录/工作法律与金钱.md#w002) | Direct debits | 相关页面正文 |
+| <a id="w003"></a>[W003](../docs/核实记录/工作法律与金钱.md#w003) | Pay off your credit card | 相关页面正文 |
+| <a id="w004"></a>[W004](../docs/核实记录/工作法律与金钱.md#w004) | Financial hardship | 相关页面正文 |
+| <a id="w005"></a>[W005](../docs/核实记录/工作法律与金钱.md#w005) | Consumer rights and guarantees | 相关页面正文 |
+| <a id="w006"></a>[W006](../docs/核实记录/工作法律与金钱.md#w006) | Repair, replace, refund, cancel | 相关页面正文 |
+| <a id="w007"></a>[W007](../docs/核实记录/工作法律与金钱.md#w007) | Diversification | 相关页面正文 |
+| <a id="w008"></a>[W008](../docs/核实记录/工作法律与金钱.md#w008) | Choosing a managed fund | 相关页面正文 |
+| <a id="w009"></a>[W009](../docs/核实记录/工作法律与金钱.md#w009) | Borrowing to invest | 相关页面正文 |
+| <a id="w010"></a>[W010](../docs/核实记录/工作法律与金钱.md#w010) | Getting your super | 相关页面正文 |
+| <a id="w011"></a>[W011](../docs/核实记录/工作法律与金钱.md#w011) | When you can access your super early | 相关页面正文 |
+| <a id="w012"></a>[W012](../docs/核实记录/工作法律与金钱.md#w012) | Mortgage offset accounts | 相关页面正文 |
+| <a id="w013"></a>[W013](../docs/核实记录/工作法律与金钱.md#w013) | Choosing car insurance | 相关页面正文 |
+| <a id="w014"></a>[W014](../docs/核实记录/工作法律与金钱.md#w014) | How life insurance works | 相关页面正文 |
+| <a id="w015"></a>[W015](../docs/核实记录/工作法律与金钱.md#w015) | GambleAware NSW | 相关页面正文 |
+| <a id="w016"></a>[W016](../docs/核实记录/工作法律与金钱.md#w016) | What to do if you've been scammed | 相关页面正文 |
+| <a id="w017"></a>[W017](../docs/核实记录/工作法律与金钱.md#w017) | Lodging a tax return | 相关页面正文 |
+| <a id="w018"></a>[W018](../docs/核实记录/工作法律与金钱.md#w018) | Who can get JobSeeker Payment | 相关页面正文 |
+| <a id="w019"></a>[W019](../docs/核实记录/工作法律与金钱.md#w019) | When you'll get your first JobSeeker payment | 相关页面正文 |
+| <a id="w020"></a>[W020](../docs/核实记录/工作法律与金钱.md#w020) | Newly arrived resident's waiting period | 相关页面正文 |
+| <a id="w021"></a>[W021](../docs/核实记录/工作法律与金钱.md#w021) | Crisis Payment | 相关页面正文 |
+| <a id="w022"></a>[W022](../docs/核实记录/工作法律与金钱.md#w022) | Who can get a Low Income Health Care Card | 相关页面正文 |
+| <a id="w023"></a>[W023](../docs/核实记录/工作法律与金钱.md#w023) | Benefits of a Low Income Health Care Card | 相关页面正文 |
+| <a id="w024"></a>[W024](../docs/核实记录/工作法律与金钱.md#w024) | Enrolling in Medicare | 相关页面正文 |
+| <a id="w025"></a>[W025](../docs/核实记录/工作法律与金钱.md#w025) | Before claiming Disability Support Pension | 相关页面正文 |
+| <a id="w026"></a>[W026](../docs/核实记录/工作法律与金钱.md#w026) | Homelessness | 相关页面正文 |
+| <a id="w027"></a>[W027](../docs/核实记录/工作法律与金钱.md#w027) | Legal advice | 相关页面正文 |
+| <a id="w028"></a>[W028](../docs/核实记录/工作法律与金钱.md#w028) | Workforce Australia employment services | 相关页面正文 |
+| <a id="w029"></a>[W029](../docs/核实记录/工作法律与金钱.md#w029) | Consequences of bankruptcy | 相关页面正文 |
+| <a id="w030"></a>[W030](../docs/核实记录/工作法律与金钱.md#w030) | Minimum wages | 相关页面正文 |
+| <a id="w031"></a>[W031](../docs/核实记录/工作法律与金钱.md#w031) | Pay, entitlements and working conditions | 相关页面正文 |
+| <a id="w032"></a>[W032](../docs/核实记录/工作法律与金钱.md#w032) | Independent contractors | 相关页面正文 |
+| <a id="w033"></a>[W033](../docs/核实记录/工作法律与金钱.md#w033) | Annual leave | 相关页面正文 |
+| <a id="w034"></a>[W034](../docs/核实记录/工作法律与金钱.md#w034) | Probation | 相关页面正文 |
+| <a id="w035"></a>[W035](../docs/核实记录/工作法律与金钱.md#w035) | Final pay | 相关页面正文 |
+| <a id="w036"></a>[W036](../docs/核实记录/工作法律与金钱.md#w036) | Redundancy pay and entitlements | 相关页面正文 |
+| <a id="w037"></a>[W037](../docs/核实记录/工作法律与金钱.md#w037) | Difference between the Fair Work Ombudsman and the Fair Work Commission | 相关页面正文 |
+| <a id="w038"></a>[W038](../docs/核实记录/工作法律与金钱.md#w038) | Overview of unfair dismissal | 相关页面正文 |
+| <a id="w039"></a>[W039](../docs/核实记录/工作法律与金钱.md#w039) | What is the minimum period of employment? | 相关页面正文 |
+| <a id="w040"></a>[W040](../docs/核实记录/工作法律与金钱.md#w040) | Worker obligations | 相关页面正文 |
+| <a id="w041"></a>[W041](../docs/核实记录/工作法律与金钱.md#w041) | What to do after an injury | 相关页面正文 |
+| <a id="w042"></a>[W042](../docs/核实记录/工作法律与金钱.md#w042) | For workers with an injury | 相关页面正文 |
+| <a id="w043"></a>[W043](../docs/核实记录/工作法律与金钱.md#w043) | Work break and journey claims | 相关页面正文 |
+| <a id="w044"></a>[W044](../docs/核实记录/工作法律与金钱.md#w044) | Apply for unfair deactivation (Form F89) | 相关页面正文 |
+| <a id="w045"></a>[W045](../docs/核实记录/工作法律与金钱.md#w045) | Easy steps to secure yourself online | 相关页面正文 |
+| <a id="w046"></a>[W046](../docs/核实记录/工作法律与金钱.md#w046) | Secure your mobile phone | 相关页面正文 |
+| <a id="w047"></a>[W047](../docs/核实记录/工作法律与金钱.md#w047) | Unauthorised and mistaken transactions | 相关页面正文 |
+| <a id="w048"></a>[W048](../docs/核实记录/工作法律与金钱.md#w048) | Correct your personal information | 相关页面正文 |
+| <a id="w049"></a>[W049](../docs/核实记录/工作法律与金钱.md#w049) | Facial recognition technology: a guide to assessing the privacy risks | 相关页面正文 |
+| <a id="w050"></a>[W050](../docs/核实记录/工作法律与金钱.md#w050) | Read the Australian Privacy Principles | 相关页面正文 |
+| <a id="w051"></a>[W051](../docs/核实记录/工作法律与金钱.md#w051) | Small business | 相关页面正文 |
+| <a id="w052"></a>[W052](../docs/核实记录/工作法律与金钱.md#w052) | Business Registration Service | 相关页面正文 |
+| <a id="w053"></a>[W053](../docs/核实记录/工作法律与金钱.md#w053) | Tax registration for your business | 相关页面正文 |
+| <a id="w054"></a>[W054](../docs/核实记录/工作法律与金钱.md#w054) | Register licences and permits | 相关页面正文 |
+| <a id="w055"></a>[W055](../docs/核实记录/工作法律与金钱.md#w055) | Business structures | 相关页面正文 |
+| <a id="w056"></a>[W056](../docs/核实记录/工作法律与金钱.md#w056) | Becoming a company director | 相关页面正文 |
+| <a id="w057"></a>[W057](../docs/核实记录/工作法律与金钱.md#w057) | Before you sign a franchise agreement and buy the franchise | 相关页面正文 |
+| <a id="w058"></a>[W058](../docs/核实记录/工作法律与金钱.md#w058) | Prepare a contract | 相关页面正文 |
+| <a id="w059"></a>[W059](../docs/核实记录/工作法律与金钱.md#w059) | Hiring employees | 相关页面正文 |
+| <a id="w060"></a>[W060](../docs/核实记录/工作法律与金钱.md#w060) | Product safety responsibilities | 相关页面正文 |
+| <a id="w061"></a>[W061](../docs/核实记录/工作法律与金钱.md#w061) | Close your business | 相关页面正文 |
+| <a id="w062"></a>[W062](../docs/核实记录/工作法律与金钱.md#w062) | Who owns intellectual property? | 相关页面正文 |
+| <a id="w063"></a>[W063](../docs/核实记录/工作法律与金钱.md#w063) | What computer-related inventions can be patented? | 相关页面正文 |
+| <a id="w064"></a>[W064](../docs/核实记录/工作法律与金钱.md#w064) | Criminal Code Act 1995, Part 10.7 (2026-06-30 compilation) | 相关页面正文 |
+| <a id="w065"></a>[W065](../docs/核实记录/工作法律与金钱.md#w065) | Guidance on privacy and the use of commercially available AI products | 相关页面正文 |
+| <a id="w066"></a>[W066](../docs/核实记录/工作法律与金钱.md#w066) | Avoid sending spam | 相关页面正文 |
+| <a id="w067"></a>[W067](../docs/核实记录/工作法律与金钱.md#w067) | Regulatory guidance | 相关页面正文 |
+| <a id="w068"></a>[W068](../docs/核实记录/工作法律与金钱.md#w068) | ASIC remakes non-cash payment facilities instrument | 相关页面正文 |
+| <a id="w069"></a>[W069](../docs/核实记录/工作法律与金钱.md#w069) | Cloud shared responsibility model: Guidance for individuals and small and medium businesses | 相关页面正文 |
+| <a id="w070"></a>[W070](../docs/核实记录/工作法律与金钱.md#w070) | School leaving age | 相关页面正文 |
+| <a id="w071"></a>[W071](../docs/核实记录/工作法律与金钱.md#w071) | Smart and Skilled training | 相关页面正文 |
+| <a id="w072"></a>[W072](../docs/核实记录/工作法律与金钱.md#w072) | Commonwealth supported places (CSPs) | 相关页面正文 |
+| <a id="w073"></a>[W073](../docs/核实记录/工作法律与金钱.md#w073) | HECS-HELP | 相关页面正文 |
+| <a id="w074"></a>[W074](../docs/核实记录/工作法律与金钱.md#w074) | Choose a course and provider | 相关页面正文 |
+| <a id="w075"></a>[W075](../docs/核实记录/工作法律与金钱.md#w075) | Occupation Shortage List | 相关页面正文 |
+| <a id="w076"></a>[W076](../docs/核实记录/工作法律与金钱.md#w076) | Complete an apprenticeship or traineeship | 相关页面正文 |
+| <a id="w077"></a>[W077](../docs/核实记录/工作法律与金钱.md#w077) | Eligibility | 相关页面正文 |
+| <a id="w078"></a>[W078](../docs/核实记录/工作法律与金钱.md#w078) | Defence University Sponsorship | 相关页面正文 |
+| <a id="w079"></a>[W079](../docs/核实记录/工作法律与金钱.md#w079) | Citizenship in the APS | 相关页面正文 |
+| <a id="w080"></a>[W080](../docs/核实记录/工作法律与金钱.md#w080) | Accredited degrees | 相关页面正文 |
+| <a id="w081"></a>[W081](../docs/核实记录/工作法律与金钱.md#w081) | Step 1 – Application | 相关页面正文 |
+| <a id="w082"></a>[W082](../docs/核实记录/工作法律与金钱.md#w082) | Emergency information | 相关页面正文 |
+| <a id="w083"></a>[W083](../docs/核实记录/工作法律与金钱.md#w083) | Save for an emergency fund | 相关页面正文 |
+| <a id="w084"></a>[W084](../docs/核实记录/工作法律与金钱.md#w084) | Exemptions from the newly arrived resident's waiting period | 相关页面正文 |
+| <a id="w085"></a>[W085](../docs/核实记录/工作法律与金钱.md#w085) | Water analysis | 相关页面正文 |
+| <a id="w086"></a>[W086](../docs/核实记录/工作法律与金钱.md#w086) | PBS co-payments | 相关页面正文 |
+| <a id="w087"></a>[W087](../docs/核实记录/工作法律与金钱.md#w087) | Telecommunications Industry Ombudsman | 相关页面正文 |
+| <a id="w088"></a>[W088](../docs/核实记录/工作法律与金钱.md#w088) | Calculate the start-up costs of your business | 相关页面正文 |
+| <a id="w089"></a>[W089](../docs/核实记录/工作法律与金钱.md#w089) | Develop a new product | 相关页面正文 |
+| <a id="w090"></a>[W090](../docs/核实记录/工作法律与金钱.md#w090) | Your tax residency | 相关页面正文 |
+| <a id="w091"></a>[W091](../docs/核实记录/工作法律与金钱.md#w091) | Apply for social housing | 相关页面正文 |
+| <a id="w092"></a>[W092](../docs/核实记录/工作法律与金钱.md#w092) | Assessment of permanent impairment | 相关页面正文 |
+| <a id="w093"></a>[W093](../docs/核实记录/工作法律与金钱.md#w093) | For families who have lost a relative | 相关页面正文 |
+| <a id="w094"></a>[W094](../docs/核实记录/工作法律与金钱.md#w094) | Psychological injuries – a guide for workers and employers | 相关页面正文 |
+| <a id="w095"></a>[W095](../docs/核实记录/工作法律与金钱.md#w095) | Chapter 8: APP 8 Cross-border disclosure of personal information | 相关页面正文 |
+| <a id="w096"></a>[W096](../docs/核实记录/工作法律与金钱.md#w096) | Chapter 3: APP 3 Collection of solicited personal information | 相关页面正文 |
+| <a id="w097"></a>[W097](../docs/核实记录/工作法律与金钱.md#w097) | Chapter 2: APP 2 Anonymity and pseudonymity | 相关页面正文 |
+| <a id="w098"></a>[W098](../docs/核实记录/工作法律与金钱.md#w098) | Access your personal information | 相关页面正文 |
+| <a id="rw001"></a>[RW001](../docs/核实记录/工作法律与金钱.md#rw001) | How to register for Medicare Safety Nets | 相关页面正文 |
+| <a id="rw002"></a>[RW002](../docs/核实记录/工作法律与金钱.md#rw002) | Replace a NSW Photo Card | 相关页面正文 |
+| <a id="rw003"></a>[RW003](../docs/核实记录/工作法律与金钱.md#rw003) | Recover your ID | 相关页面正文 |
+| <a id="rw004"></a>[RW004](../docs/核实记录/工作法律与金钱.md#rw004) | Driving and criminal records | 相关页面正文 |
+| <a id="rw005"></a>[RW005](../docs/核实记录/工作法律与金钱.md#rw005) | Waiting periods | 相关页面正文 |
+| <a id="rw006"></a>[RW006](../docs/核实记录/工作法律与金钱.md#rw006) | Police powers: Your rights and responsibilities | 相关页面正文 |
+| <a id="rw007"></a>[RW007](../docs/核实记录/工作法律与金钱.md#rw007) | Defamation — Civil Trials Bench Book | 相关页面正文 |
+| <a id="rw008"></a>[RW008](../docs/核实记录/工作法律与金钱.md#rw008) | Responding to an examination notice or order | 相关页面正文 |
+| <a id="rw009"></a>[RW009](../docs/核实记录/工作法律与金钱.md#rw009) | Ex gratia payments | 相关页面正文 |
+| <a id="rw010"></a>[RW010](../docs/核实记录/工作法律与金钱.md#rw010) | Appeals in criminal cases | 相关页面正文 |
+| <a id="rw011"></a>[RW011](../docs/核实记录/工作法律与金钱.md#rw011) | Fraud — Part 4AA Crimes Act 1900 | 相关页面正文 |
+| <a id="rw012"></a>[RW012](../docs/核实记录/工作法律与金钱.md#rw012) | What is illegal and restricted online content? | 相关页面正文 |
+| <a id="rw013"></a>[RW013](../docs/核实记录/工作法律与金钱.md#rw013) | Making a claim | 相关页面正文 |
+| <a id="rw014"></a>[RW014](../docs/核实记录/工作法律与金钱.md#rw014) | Freedom of information, opinion and expression | 相关页面正文 |
+| <a id="rw015"></a>[RW015](../docs/核实记录/工作法律与金钱.md#rw015) | Protect yourself from illegal gambling operators | 相关页面正文 |
+| <a id="rw016"></a>[RW016](../docs/核实记录/工作法律与金钱.md#rw016) | Wildlife licences | 相关页面正文 |
+| <a id="rw017"></a>[RW017](../docs/核实记录/工作法律与金钱.md#rw017) | Litter laws | 相关页面正文 |
+| <a id="rw018"></a>[RW018](../docs/核实记录/工作法律与金钱.md#rw018) | Offences against justice/in public office | 相关页面正文 |
+| <a id="rw019"></a>[RW019](../docs/核实记录/工作法律与金钱.md#rw019) | Onus and standard of proof | 相关页面正文 |
+| <a id="rw020"></a>[RW020](../docs/核实记录/工作法律与金钱.md#rw020) | Being under arrest — After the arrest | 相关页面正文 |
+| <a id="rw021"></a>[RW021](../docs/核实记录/工作法律与金钱.md#rw021) | GNU General Public License version 3 | 相关页面正文 |
+| <a id="rw022"></a>[RW022](../docs/核实记录/工作法律与金钱.md#rw022) | Information and document obligations under the franchising code | 相关页面正文 |
+| <a id="rw023"></a>[RW023](../docs/核实记录/工作法律与金钱.md#rw023) | Ending a franchise agreement | 相关页面正文 |
+| <a id="rw024"></a>[RW024](../docs/核实记录/工作法律与金钱.md#rw024) | Voluntary deregistration of a company | 相关页面正文 |
+| <a id="rw025"></a>[RW025](../docs/核实记录/工作法律与金钱.md#rw025) | Wind up an insolvent company | 相关页面正文 |
+| <a id="rw026"></a>[RW026](../docs/核实记录/工作法律与金钱.md#rw026) | Pay slips and record-keeping | 相关页面正文 |
+| <a id="rw027"></a>[RW027](../docs/核实记录/工作法律与金钱.md#rw027) | Health monitoring | 相关页面正文 |
+| <a id="rw028"></a>[RW028](../docs/核实记录/工作法律与金钱.md#rw028) | Compensation cap | 相关页面正文 |
+| <a id="rw029"></a>[RW029](../docs/核实记录/工作法律与金钱.md#rw029) | Dismissal | 相关页面正文 |
+| <a id="rw030"></a>[RW030](../docs/核实记录/工作法律与金钱.md#rw030) | Sharing Economy Reporting Regime Implementation Guide v4.3 | PDF 相关正文 |
+| <a id="rw031"></a>[RW031](../docs/核实记录/工作法律与金钱.md#rw031) | About carriers and carriage service providers | 相关页面正文 |
+| <a id="rw032"></a>[RW032](../docs/核实记录/工作法律与金钱.md#rw032) | Past copyright reforms and consultations | 相关页面正文 |
+| <a id="rw033"></a>[RW033](../docs/核实记录/工作法律与金钱.md#rw033) | How will the social media age restrictions affect me? | 相关页面正文 |
+| <a id="rw034"></a>[RW034](../docs/核实记录/工作法律与金钱.md#rw034) | Tax time mythbusting: your business tax questions answered | 相关页面正文 |
+| <a id="rw035"></a>[RW035](../docs/核实记录/工作法律与金钱.md#rw035) | The Law Handbook, 15th edition, Chapter 14: Criminal law | PDF 相关正文 |
+| <a id="rw036"></a>[RW036](../docs/核实记录/工作法律与金钱.md#rw036) | Alcohol limits, drugs and medicines | 相关页面正文 |
+| <a id="rw037"></a>[RW037](../docs/核实记录/工作法律与金钱.md#rw037) | Travelling or returning to Australia | PDF 相关正文 |
+| <a id="rw038"></a>[RW038](../docs/核实记录/工作法律与金钱.md#rw038) | Ticket reselling | 相关页面正文 |
+| <a id="rw039"></a>[RW039](../docs/核实记录/工作法律与金钱.md#rw039) | Children and young people | 相关页面正文 |
+| <a id="rw040"></a>[RW040](../docs/核实记录/工作法律与金钱.md#rw040) | Security tips for remote working | 相关页面正文 |
+| <a id="rw041"></a>[RW041](../docs/核实记录/工作法律与金钱.md#rw041) | Non-compete clauses and other restraints | 相关页面正文 |
+| <a id="rw042"></a>[RW042](../docs/核实记录/工作法律与金钱.md#rw042) | Shareholder rights and responsibilities | 相关页面正文 |
+| <a id="rw043"></a>[RW043](../docs/核实记录/工作法律与金钱.md#rw043) | How to invoice | 相关页面正文 |
+| <a id="rw044"></a>[RW044](../docs/核实记录/工作法律与金钱.md#rw044) | BAS lodgement advice from the ATO | 相关页面正文 |
+| <a id="rw045"></a>[RW045](../docs/核实记录/工作法律与金钱.md#rw045) | Australian Taxation Office (ATO) and myGov impersonation scams | 相关页面正文 |
+| <a id="rw046"></a>[RW046](../docs/核实记录/工作法律与金钱.md#rw046) | Forced resignation | 相关页面正文 |
+| <a id="rw047"></a>[RW047](../docs/核实记录/工作法律与金钱.md#rw047) | Cashing out annual leave | 相关页面正文 |
+| <a id="rw048"></a>[RW048](../docs/核实记录/工作法律与金钱.md#rw048) | Who does not get redundancy pay | 相关页面正文 |
+| <a id="rw049"></a>[RW049](../docs/核实记录/工作法律与金钱.md#rw049) | Broadcasting content licences | 相关页面正文 |
+| <a id="rw050"></a>[RW050](../docs/核实记录/工作法律与金钱.md#rw050) | Online Safety Codes and Standards | 相关页面正文 |
+| <a id="rw051"></a>[RW051](../docs/核实记录/工作法律与金钱.md#rw051) | Australian content requirement for subscription video on demand services: understanding service types and obligations | 相关页面正文 |
+| <a id="rw052"></a>[RW052](../docs/核实记录/工作法律与金钱.md#rw052) | Ticket reselling in Australia: Decision Regulation Impact Statement (2018), Box 12 | PDF 相关正文 |
+| <a id="l001"></a>[L001](../docs/核实记录/生活与家庭.md#l001) | 睡眠（Sleep） | 相关页面正文 |
+| <a id="l002"></a>[L002](../docs/核实记录/生活与家庭.md#l002) | Practical Techniques to Stop Procrastination — Module 5 | PDF 相关正文 |
+| <a id="l003"></a>[L003](../docs/核实记录/生活与家庭.md#l003) | Worry and Rumination | 相关页面正文 |
+| <a id="l004"></a>[L004](../docs/核实记录/生活与家庭.md#l004) | Assertiveness | 相关页面正文 |
+| <a id="l005"></a>[L005](../docs/核实记录/生活与家庭.md#l005) | Relaxation | 相关页面正文 |
+| <a id="l006"></a>[L006](../docs/核实记录/生活与家庭.md#l006) | Mental health crisis support | 相关页面正文 |
+| <a id="l007"></a>[L007](../docs/核实记录/生活与家庭.md#l007) | What to do if you've been scammed | 相关页面正文 |
+| <a id="l008"></a>[L008](../docs/核实记录/生活与家庭.md#l008) | Police powers | 相关页面正文 |
+| <a id="l009"></a>[L009](../docs/核实记录/生活与家庭.md#l009) | Health, sex and the law | 相关页面正文 |
+| <a id="l010"></a>[L010](../docs/核实记录/生活与家庭.md#l010) | Crash reporting FAQs | 相关页面正文 |
+| <a id="l011"></a>[L011](../docs/核实记录/生活与家庭.md#l011) | De facto relationships | 相关页面正文 |
+| <a id="l012"></a>[L012](../docs/核实记录/生活与家庭.md#l012) | Financial agreements | 相关页面正文 |
+| <a id="l013"></a>[L013](../docs/核实记录/生活与家庭.md#l013) | Divorce overview | 相关页面正文 |
+| <a id="l014"></a>[L014](../docs/核实记录/生活与家庭.md#l014) | Get married | 相关页面正文 |
+| <a id="l015"></a>[L015](../docs/核实记录/生活与家庭.md#l015) | Coercive control and the law | 相关页面正文 |
+| <a id="l016"></a>[L016](../docs/核实记录/生活与家庭.md#l016) | Rental Bonds Online for tenants | 相关页面正文 |
+| <a id="l017"></a>[L017](../docs/核实记录/生活与家庭.md#l017) | Getting repairs done | 相关页面正文 |
+| <a id="l018"></a>[L018](../docs/核实记录/生活与家庭.md#l018) | Eviction of a tenant from a rental property | 相关页面正文 |
+| <a id="l019"></a>[L019](../docs/核实记录/生活与家庭.md#l019) | Minimum standards for rental properties | 相关页面正文 |
+| <a id="l020"></a>[L020](../docs/核实记录/生活与家庭.md#l020) | Getting your bond back | 相关页面正文 |
+| <a id="l021"></a>[L021](../docs/核实记录/生活与家庭.md#l021) | Giving notice to end a residential tenancy | 相关页面正文 |
+| <a id="l022"></a>[L022](../docs/核实记录/生活与家庭.md#l022) | Contracts and deposits when buying property in NSW | 相关页面正文 |
+| <a id="l023"></a>[L023](../docs/核实记录/生活与家庭.md#l023) | Enduring Guardianship | 相关页面正文 |
+| <a id="l024"></a>[L024](../docs/核实记录/生活与家庭.md#l024) | Enduring Power of Attorney | 相关页面正文 |
+| <a id="l025"></a>[L025](../docs/核实记录/生活与家庭.md#l025) | Learn about wills | 相关页面正文 |
+| <a id="l026"></a>[L026](../docs/核实记录/生活与家庭.md#l026) | Advance Care Planning | 相关页面正文 |
+| <a id="l027"></a>[L027](../docs/核实记录/生活与家庭.md#l027) | Financial abuse | 相关页面正文 |
+| <a id="l028"></a>[L028](../docs/核实记录/生活与家庭.md#l028) | Reverse mortgage and home equity release | 相关页面正文 |
+| <a id="l029"></a>[L029](../docs/核实记录/生活与家庭.md#l029) | Should I apply? | 相关页面正文 |
+| <a id="l030"></a>[L030](../docs/核实记录/生活与家庭.md#l030) | Support at Home costs and contributions | 相关页面正文 |
+| <a id="l031"></a>[L031](../docs/核实记录/生活与家庭.md#l031) | First steps after a death | 相关页面正文 |
+| <a id="l032"></a>[L032](../docs/核实记录/生活与家庭.md#l032) | Death certificates | 相关页面正文 |
+| <a id="l033"></a>[L033](../docs/核实记录/生活与家庭.md#l033) | How much funerals cost | 相关页面正文 |
+| <a id="l034"></a>[L034](../docs/核实记录/生活与家庭.md#l034) | Acting as an executor | 相关页面正文 |
+| <a id="l035"></a>[L035](../docs/核实记录/生活与家庭.md#l035) | Cancel or transfer services | 相关页面正文 |
+| <a id="l036"></a>[L036](../docs/核实记录/生活与家庭.md#l036) | Consular Services Charter | 相关页面正文 |
+| <a id="l037"></a>[L037](../docs/核实记录/生活与家庭.md#l037) | Travel insurance | 相关页面正文 |
+| <a id="l038"></a>[L038](../docs/核实记录/生活与家庭.md#l038) | Permanent resident | 相关页面正文 |
+| <a id="l039"></a>[L039](../docs/核实记录/生活与家庭.md#l039) | Road safety | 相关页面正文 |
+| <a id="l040"></a>[L040](../docs/核实记录/生活与家庭.md#l040) | Tapping on and tapping off | 相关页面正文 |
+| <a id="l041"></a>[L041](../docs/核实记录/生活与家庭.md#l041) | Contactless concessions | 相关页面正文 |
+| <a id="l042"></a>[L042](../docs/核实记录/生活与家庭.md#l042) | Transfer an overseas driver licence | 相关页面正文 |
+| <a id="l043"></a>[L043](../docs/核实记录/生活与家庭.md#l043) | Drone safety rules | 相关页面正文 |
+| <a id="l044"></a>[L044](../docs/核实记录/生活与家庭.md#l044) | Sexual consent | 相关页面正文 |
+| <a id="l045"></a>[L045](../docs/核实记录/生活与家庭.md#l045) | Money mule | 相关页面正文 |
+| <a id="l046"></a>[L046](../docs/核实记录/生活与家庭.md#l046) | Parental leave | 相关页面正文 |
+| <a id="l048"></a>[L048](../docs/核实记录/生活与家庭.md#l048) | How the Energy Made Easy plan search works | 相关页面正文 |
+| <a id="l049"></a>[L049](../docs/核实记录/生活与家庭.md#l049) | Find your local council | 相关页面正文 |
+| <a id="l050"></a>[L050](../docs/核实记录/生活与家庭.md#l050) | Join the library | 相关页面正文 |
+| <a id="l051"></a>[L051](../docs/核实记录/生活与家庭.md#l051) | Who can get Parental Leave Pay | 相关页面正文 |
+| <a id="l052"></a>[L052](../docs/核实记录/生活与家庭.md#l052) | Who can get Child Care Subsidy | 相关页面正文 |
+| <a id="l053"></a>[L053](../docs/核实记录/生活与家庭.md#l053) | Building and maintaining healthy relationships | 相关页面正文 |
+| <a id="l054"></a>[L054](../docs/核实记录/生活与家庭.md#l054) | Think Safe to Drink Safe patron tips | 相关页面正文 |
+| <a id="l055"></a>[L055](../docs/核实记录/生活与家庭.md#l055) | Financial or property: Overview | 相关页面正文 |
+| <a id="l056"></a>[L056](../docs/核实记录/生活与家庭.md#l056) | Dealing with sexual extortion | 相关页面正文 |
+| <a id="l057"></a>[L057](../docs/核实记录/生活与家庭.md#l057) | Pets in public places and bushland | 相关页面正文 |
+| <a id="l058"></a>[L058](../docs/核实记录/生活与家庭.md#l058) | Frequently Asked Questions — Firearms and Ammunition | 相关页面正文 |
+| <a id="l060"></a>[L060](../docs/核实记录/生活与家庭.md#l060) | Evidence in criminal cases | 相关页面正文 |
+| <a id="l061"></a>[L061](../docs/核实记录/生活与家庭.md#l061) | Report adult cyber abuse | 相关页面正文 |
+| <a id="l062"></a>[L062](../docs/核实记录/生活与家庭.md#l062) | Credit scores and credit reports | 相关页面正文 |
+| <a id="l063"></a>[L063](../docs/核实记录/生活与家庭.md#l063) | Reporting harm and keeping children safe | 相关页面正文 |
+| <a id="l064"></a>[L064](../docs/核实记录/生活与家庭.md#l064) | Going guarantor on a loan | 相关页面正文 |
+| <a id="l065"></a>[L065](../docs/核实记录/生活与家庭.md#l065) | Company director fraud | 相关页面正文 |
+| <a id="l066"></a>[L066](../docs/核实记录/生活与家庭.md#l066) | When a death is unexpected | 相关页面正文 |
+| <a id="l067"></a>[L067](../docs/核实记录/生活与家庭.md#l067) | When a death is referred to the coroner | 相关页面正文 |
+| <a id="l069"></a>[L069](../docs/核实记录/生活与家庭.md#l069) | Consumer claims | 相关页面正文 |
+| <a id="l070"></a>[L070](../docs/核实记录/生活与家庭.md#l070) | Entitlements while pregnant | 相关页面正文 |
+| <a id="l071"></a>[L071](../docs/核实记录/生活与家庭.md#l071) | How do I find a registered migration agent? | 相关页面正文 |
+| <a id="l072"></a>[L072](../docs/核实记录/生活与家庭.md#l072) | Scams that affect travellers | 相关页面正文 |
+| <a id="l073"></a>[L073](../docs/核实记录/生活与家庭.md#l073) | Lost or damaged property overseas | 相关页面正文 |
+| <a id="l074"></a>[L074](../docs/核实记录/生活与家庭.md#l074) | Reducing the risk of theft while travelling overseas | 相关页面正文 |
+| <a id="l075"></a>[L075](../docs/核实记录/生活与家庭.md#l075) | Preparing for a death at home | 相关页面正文 |
+| <a id="l076"></a>[L076](../docs/核实记录/生活与家庭.md#l076) | Fire Safety Compliance Unit | 相关页面正文 |
+| <a id="l077"></a>[L077](../docs/核实记录/生活与家庭.md#l077) | Small business fire safety | 相关页面正文 |
+| <a id="rl001"></a>[RL001](../docs/核实记录/生活与家庭.md#rl001) | Paying rent in advance | 相关页面正文 |
+| <a id="rl002"></a>[RL002](../docs/核实记录/生活与家庭.md#rl002) | How much Parental Leave Pay you can get | 相关页面正文 |
+| <a id="rl003"></a>[RL003](../docs/核实记录/生活与家庭.md#rl003) | Marriages and Divorces, Australia, 2024 | 相关页面正文 |
+| <a id="rl004"></a>[RL004](../docs/核实记录/生活与家庭.md#rl004) | How Australians use their time, 2024 | 相关页面正文 |
+| <a id="rl005"></a>[RL005](../docs/核实记录/生活与家庭.md#rl005) | Who can get Family Tax Benefit | 相关页面正文 |
+| <a id="rl006"></a>[RL006](../docs/核实记录/生活与家庭.md#rl006) | Residence rules for Family Tax Benefit | 相关页面正文 |
+| <a id="rl007"></a>[RL007](../docs/核实记录/生活与家庭.md#rl007) | Types of AVOs | 相关页面正文 |
+| <a id="rl008"></a>[RL008](../docs/核实记录/生活与家庭.md#rl008) | Landlord ending a tenancy | 相关页面正文 |
+| <a id="rl009"></a>[RL009](../docs/核实记录/生活与家庭.md#rl009) | The cumulative cost of additional wakefulness | 论文摘要 |
+| <a id="rl010"></a>[RL010](../docs/核实记录/生活与家庭.md#rl010) | A brief afternoon nap following nocturnal sleep restriction | 论文摘要 |
+| <a id="rl011"></a>[RL011](../docs/核实记录/生活与家庭.md#rl011) | Marital quality and health: a meta-analytic review | 论文摘要 |
+| <a id="rl012"></a>[RL012](../docs/核实记录/生活与家庭.md#rl012) | Mindfulness-Based Stress Reduction vs Escitalopram | 论文摘要 |
+| <a id="rl013"></a>[RL013](../docs/核实记录/生活与家庭.md#rl013) | Marital status and mortality in the elderly | 论文摘要 |
+| <a id="rl014"></a>[RL014](../docs/核实记录/生活与家庭.md#rl014) | The rising relative risk of mortality for singles | 论文摘要 |
+| <a id="rl015"></a>[RL015](../docs/核实记录/生活与家庭.md#rl015) | Sex differences in the association between marital status and mortality | 相关页面正文 |
+| <a id="rl016"></a>[RL016](../docs/核实记录/生活与家庭.md#rl016) | Effect of exercise for depression: systematic review and network meta-analysis of randomised controlled trials | 论文摘要 |
+| <a id="rl017"></a>[RL017](../docs/核实记录/生活与家庭.md#rl017) | Brief structured respiration practices enhance mood and reduce physiological arousal | 论文摘要 |
+| <a id="rl018"></a>[RL018](../docs/核实记录/生活与家庭.md#rl018) | Green spaces and mortality: a systematic review and meta-analysis of cohort studies | 论文摘要 |
+| <a id="rl019"></a>[RL019](../docs/核实记录/生活与家庭.md#rl019) | Loneliness and social isolation as risk factors for mortality: a meta-analytic review | 论文摘要 |
+| <a id="rl020"></a>[RL020](../docs/核实记录/生活与家庭.md#rl020) | Pessimism is associated with greater all-cause and cardiovascular mortality, but optimism is not protective | 论文摘要 |
+| <a id="rl021"></a>[RL021](../docs/核实记录/生活与家庭.md#rl021) | Machine learning uncovers the most robust self-report predictors of relationship quality across 43 longitudinal couples studies | 论文摘要 |
+| <a id="rl022"></a>[RL022](../docs/核实记录/生活与家庭.md#rl022) | Is Romantic Desire Predictable? Machine Learning Applied to Initial Romantic Attraction | 论文摘要 |
+| <a id="rl023"></a>[RL023](../docs/核实记录/生活与家庭.md#rl023) | Evening use of light-emitting eReaders negatively affects sleep, circadian timing, and next-morning alertness | 论文摘要 |
+| <a id="rl024"></a>[RL024](../docs/核实记录/生活与家庭.md#rl024) | Caffeine effects on sleep taken 0, 3, or 6 hours before going to bed | 论文摘要 |
+| <a id="rl025"></a>[RL025](../docs/核实记录/生活与家庭.md#rl025) | The effect of caffeine on subsequent sleep: A systematic review and meta-analysis | 论文摘要 |
+| <a id="rl026"></a>[RL026](../docs/核实记录/生活与家庭.md#rl026) | Dealing with feeling: a meta-analysis of the effectiveness of strategies derived from the process model of emotion regulation | 论文摘要 |
+| <a id="rl027"></a>[RL027](../docs/核实记录/生活与家庭.md#rl027) | The attentional cost of receiving a cell phone notification | 论文摘要 |
+| <a id="rl028"></a>[RL028](../docs/核实记录/生活与家庭.md#rl028) | Use a SIM PIN for your iPhone or iPad | 相关页面正文 |
+| <a id="rl029"></a>[RL029](../docs/核实记录/生活与家庭.md#rl029) | Objecting to a post mortem | 相关页面正文 |
+| <a id="rl030"></a>[RL030](../docs/核实记录/生活与家庭.md#rl030) | Working as a funeral director | 相关页面正文 |
+| <a id="rl031"></a>[RL031](../docs/核实记录/生活与家庭.md#rl031) | Separating with debt: a guide to your legal options (June 2025 update) | PDF 相关正文 |
+| <a id="rl032"></a>[RL032](../docs/核实记录/生活与家庭.md#rl032) | Sharing a residential rental property | 相关页面正文 |
+| <a id="rl033"></a>[RL033](../docs/核实记录/生活与家庭.md#rl033) | Requirements when managing property in NSW | 相关页面正文 |
+| <a id="rl034"></a>[RL034](../docs/核实记录/生活与家庭.md#rl034) | Providing accurate information | 相关页面正文 |
+| <a id="rl035"></a>[RL035](../docs/核实记录/生活与家庭.md#rl035) | Jobs and employment scams | 相关页面正文 |
+| <a id="rl036"></a>[RL036](../docs/核实记录/生活与家庭.md#rl036) | The experimental generation of interpersonal closeness: a procedure and some preliminary findings | PDF 相关正文 |
+| <a id="rl037"></a>[RL037](../docs/核实记录/生活与家庭.md#rl037) | What is personal information? — Information about deceased persons | 相关页面正文 |
+| <a id="rl038"></a>[RL038](../docs/核实记录/生活与家庭.md#rl038) | Price displays | 相关页面正文 |
+| <a id="rl039"></a>[RL039](../docs/核实记录/生活与家庭.md#rl039) | Final arrangements of the deceased | 相关页面正文 |
+| <a id="rl040"></a>[RL040](../docs/核实记录/生活与家庭.md#rl040) | Frequently asked questions on post-mortem (or autopsy) examinations in NSW | 相关页面正文 |
+| <a id="rl041"></a>[RL041](../docs/核实记录/生活与家庭.md#rl041) | Returning to work from parental leave — Breastfeeding in the workplace | 相关页面正文 |
+| <a id="rl042"></a>[RL042](../docs/核实记录/生活与家庭.md#rl042) | What our advice levels mean | 相关页面正文 |
+| <a id="rl043"></a>[RL043](../docs/核实记录/生活与家庭.md#rl043) | Supply of prohibited drugs — Criminal Trial Courts Bench Book | 相关页面正文 |
+| <a id="rl044"></a>[RL044](../docs/核实记录/生活与家庭.md#rl044) | Real estate trust accounts and audit requirements | 相关页面正文 |
