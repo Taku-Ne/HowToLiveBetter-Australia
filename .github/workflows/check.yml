@@ -1,0 +1,22 @@
+name: Content integrity
+on:
+  push:
+  pull_request:
+permissions:
+  contents: read
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Check publication gates
+        run: python tools/test_validation.py
+      - name: Rebuild documents and reader data
+        run: python tools/build.py
+      - name: Validate references and upstream coverage
+        run: python tools/validate.py
+      - name: Detect stale generated documents
+        run: git diff --exit-code
