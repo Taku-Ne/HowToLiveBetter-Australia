@@ -30,20 +30,25 @@ def main():
         for number,e in enumerate(c['entries'],1):
             references='；'.join(
                 f'{sources[sid]["publisher"]}：[{sources[sid]["title"]}]({sources[sid]["url"]})'
-                +(f'，DOI：`{sources[sid]["doi"]}`' if sources[sid].get('doi') else '')
-                +f'（[核实记录](../sources/README.md#{sid.lower()})）' for sid in e['sources'])
-            steps=' '.join(f'{i}）{step}' for i,step in enumerate(e['steps'],1))
+                +(f'，DOI：`{sources[sid]["doi"]}`' if sources[sid].get('doi') else '') for sid in e['sources'])
+            records='、'.join(f'[{sid}](../sources/README.md#{sid.lower()})' for sid in e['sources'])
+            references+=f'。核实记录：{records}。'
+            steps='\n'.join(f'{i}. {step}' for i,step in enumerate(e['steps'],1))
+            scope=f'适用：{paragraph(e["applies_to"])}；{e["jurisdiction"]}。'
+            details=(f'**具体做法**\n\n{steps}\n\n'
+                     f'资料核实：{e["reviewed_on"]}。')
+            # Emergency instructions remain visible without opening a disclosure.
+            if c['number'] != 13:
+                details='<details>\n<summary>具体做法</summary>\n\n'+steps+'\n\n'+f'资料核实：{e["reviewed_on"]}。\n\n</details>'
             lines += [f'<a id="{e["id"]}"></a>',f'### {number}. {e["title"]}',
                       '\n'.join([
                           f'- 成本：{e["cost"]}',
                           f'- 说人话：{e["action"]}',
-                          f'- 怎么做：{steps}',
                           f'- 收益：{e["benefit"]}',
                           f'- 依据：{e["evidence_type"]}',
                           f'- 来源：{references}',
-                          f'- 备注：{paragraph(e["caveats"])}',
-                          f'- 适用：{paragraph(e["applies_to"])}；{e["jurisdiction"]}。资料核实：{e["reviewed_on"]}。'
-                      ])]
+                          f'- 备注：{paragraph(e["caveats"])} {scope}'
+                      ]),details]
         write(f'book/{c["number"]:02d}.md','\n\n'.join(lines))
     source_lines=['# 来源与核实记录','[← 总目录](../README.md)',
       '想知道一条建议根据什么，先看正文后面的来源；想知道具体核了哪部分，在这里找。每项记录都写明发布方、链接、访问日期、读了什么，以及它能支持什么。',
@@ -112,9 +117,9 @@ def main():
     question_table='\n'.join(f'| {question} | [{number}. {titles[number]}](book/{number:02d}.md) |' for number,question in questions)
     readme=f'''# 高性价比人生指南（澳洲悉尼版）
 
-在悉尼生活，哪些事值得做，哪些坑可以绕开。
+用尽量少的钱、时间和精力，避开能避开的病、损失和麻烦。
 
-覆盖防病与急救、省钱与理财、失业兜底、租房买房、劳动权益、恋爱婚育、养老、出国和学技能。{len(data['chapters'])} 章、{total} 条建议，每条写清花什么、换什么、怎么做、根据什么。
+覆盖防病与急救、省钱与理财、失业兜底、租房买房、劳动权益、恋爱婚育、养老、出国和学技能。{len(data['chapters'])} 章、{total} 条建议，每条写明做什么、花掉什么、换回什么，出处跟在结论后面。
 
 主要给能读中文的澳洲公民和永久居民看。办事方法以澳洲、NSW 和悉尼为准。资料最近核实于 {DATE}，共引用 {unique_sources} 个来源页面。
 
@@ -130,13 +135,14 @@ def main():
 
 ## 怎么读
 
-- 只想先知道该干什么：看条目标题和「说人话」。准备照着做时，把「怎么做」「备注」「适用」一起读。
-- 想算值不值：看「成本」和「收益」。能省多少钱、能降低多少风险，有可靠数字就写数字，没有就不硬编。
+- 先看值不值得做：读标题和「说人话」。这里用日常话解释收益和代价；研究里的数字、政策里的期限，放在「收益」中供你核对。
+- 再看要付出什么：读「成本」。钱、时间、长期坚持的负担都算成本。能算清楚的写清楚，没有依据的数字不编。
+- 准备动手：先读「备注」中的资格和例外，再展开「具体做法」。急救步骤直接展开，免得找的时候多点一次。
 - 想自己核对：点「来源」里的原始论文或官方文件。每个来源另附核实记录，写明看了正文还是摘要。
 - 想找一个具体问题：从上面的表或下面的目录进入章节，也可以用 GitHub 仓库搜索。
 - 刚到悉尼：先看第 32 章，再看租房、看病和工作。其他章节按自己需要读。
 
-每条采用「成本—说人话—怎么做—收益—依据—来源—备注」的写法。办事资格单独列在末尾，金额如无特别说明均为澳元。
+每条正文固定六项：**成本、说人话、收益、依据、来源、备注**。具体步骤另列，办事资格留在正文。金额如无特别说明均为澳元；整理账单等操作的用时是编辑粗估，用来比较投入，不是研究结果。
 
 ## 哪些地方要看仔细
 
@@ -144,7 +150,7 @@ def main():
 
 论文结论和办事规则分开看。观察研究发现「有关联」，不能直接说照着做就一定得到同样的好处；政府说某项服务能申请，也不能替你证明自己符合全部条件。条目里的「依据」会说明来源是哪一类。
 
-本书保留原项目关心的健康、时间、精力、金钱和权益。各章把常见、后果重要、能动手做的事放在前面。不同收益不硬换算成一个分数，结婚、生育和家庭选择由读者自己决定。
+少生一次病、省下一笔利息、保住申诉期限，是不同的收益，本书分开讲。各章把常见、后果重要、能动手做的事放在前面；这个顺序是编辑判断。结婚、生育和家庭选择，只列代价、条件和可用的帮助，由读者自己决定。
 
 ## 目录
 
