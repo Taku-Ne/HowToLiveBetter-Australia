@@ -14,7 +14,7 @@ jobs:
           python-version: '3.12'
       - name: Check publication gates
         run: python tools/test_validation.py
-      - name: Rebuild documents and reader data
+      - name: Rebuild Markdown guide
         run: python tools/build.py
       - name: Validate references and upstream coverage
         run: python tools/validate.py

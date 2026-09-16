@@ -2,9 +2,9 @@
 
 [← 总目录](../README.md)
 
-这里记录实际访问的资料、访问方式和支持的具体内容。访问成功、来源权威以及正文表述准确是不同的检查事项；本文不表示主管机构认可本项目，也不表示已完成医疗或法律专业审校。
+想知道一条建议根据什么，先看正文后面的来源；想知道具体核了哪部分，在这里找。每项记录都写明发布方、链接、访问日期、读了什么，以及它能支持什么。
 
-全文页面、PDF 与摘要分别标记；同一 URL 因支持不同主题可以有多条记录。研究者对每条建议进行了来源阅读，整合阶段另对高风险条目进行抽查和交叉检查。
+只读到论文摘要的就标摘要。同一个页面可能支持几条不同建议，因此会有重复链接。来源读过、内容写对、结论适合你，是三件不同的事；具体核查过程见[核查记录](../docs/VERIFICATION.md)。
 
 <a id="h001"></a>
 
@@ -3162,3 +3162,51 @@
 - 读取范围：页面正文
 
 **支持内容（释义）**：访问个人资料的请求、身份验证、合理回复、拒绝理由、可收费用与机构区别及投诉。
+
+<a id="r001"></a>
+
+## R001 · 21st-century hazards of smoking and benefits of cessation in the United States (2013)
+
+- 发布方：Jha P 等 · New England Journal of Medicine
+- 页面：[21st-century hazards of smoking and benefits of cessation in the United States (2013)](https://pubmed.ncbi.nlm.nih.gov/23343063/)
+- DOI：`10.1056/NEJMsa1211128`
+- 访问日期：2026-09-16
+- 读取范围：论文摘要
+
+**支持内容（释义）**：沿用原书第2章戒烟条目引用的同一篇论文。美国队列中，持续吸烟者比从不吸烟者预期寿命短逾10年；25至34、35至44、45至54岁戒烟者，相比继续吸烟者分别多约10、9、6年。属于群体观察结果，不能保证个人延寿，也不能用来量化电子烟风险。实际读取PubMed摘要。
+
+<a id="r002"></a>
+
+## R002 · Daily steps and all-cause mortality: a meta-analysis of 15 international cohorts (2022)
+
+- 发布方：Paluch AE 等 · The Lancet Public Health
+- 页面：[Daily steps and all-cause mortality: a meta-analysis of 15 international cohorts (2022)](https://pubmed.ncbi.nlm.nih.gov/35247352/)
+- DOI：`10.1016/S2468-2667(21)00302-9`
+- 访问日期：2026-09-16
+- 读取范围：论文摘要
+
+**支持内容（释义）**：沿用原书第2章步行条目引用的同一篇论文。15个队列共47471名成年人；步数增加与较低死亡风险相关，60岁及以上约6000至8000步、60岁以下约8000至10000步后关联趋缓。队列汇总不证明因果，不构成每个人的强制步数目标。实际读取PubMed摘要。
+
+<a id="r003"></a>
+
+## R003 · Effect of Salt Substitution on Cardiovascular Events and Death (2021)
+
+- 发布方：Neal B 等 · New England Journal of Medicine
+- 页面：[Effect of Salt Substitution on Cardiovascular Events and Death (2021)](https://pubmed.ncbi.nlm.nih.gov/34459569/)
+- DOI：`10.1056/NEJMoa2105675`
+- 访问日期：2026-09-16
+- 读取范围：论文摘要
+
+**支持内容（释义）**：沿用原书第2章低钠盐条目引用的同一篇论文。中国农村600个村、20995人群组随机试验，入组者有卒中史，或至少60岁且有高血压；75%氯化钠加25%氯化钾组平均随访4.74年，卒中率比0.86（95%CI 0.77至0.96），全因死亡率比0.88（0.82至0.95）。不能由此建议所有读者自行换钾盐。实际经Europe PMC公开API读取原始摘要，PMID 34459569。
+
+<a id="r004"></a>
+
+## R004 · The effect of caffeine on subsequent sleep: A systematic review and meta-analysis (2023)
+
+- 发布方：Gardiner C 等 · Sleep Medicine Reviews
+- 页面：[The effect of caffeine on subsequent sleep: A systematic review and meta-analysis (2023)](https://pubmed.ncbi.nlm.nih.gov/36870101/)
+- DOI：`10.1016/j.smrv.2023.101764`
+- 访问日期：2026-09-16
+- 读取范围：论文摘要
+
+**支持内容（释义）**：沿用原书第3章咖啡因条目引用的同一篇论文。24项研究的汇总结果中，咖啡因摄入使总睡眠时间平均减少45分钟、入睡延迟平均增加9分钟；剂量和饮用时间会影响结果。不能把汇总均值或推算停用时点当作个人保证，也不能证明人人都应在下午两点停用。实际经Europe PMC公开API读取原始摘要，PMID 36870101。
